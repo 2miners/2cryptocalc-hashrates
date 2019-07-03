@@ -1,0 +1,317 @@
+[
+    {
+        "id": "380",
+        "name": "380",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "Fury",
+        "name": "Fury",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "470",
+        "name": "470",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "480",
+        "name": "480",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "570",
+        "name": "570",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "580",
+        "name": "580",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "Vega56",
+        "name": "Vega56",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "Vega64",
+        "name": "Vega64",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "VII",
+        "name": "VII",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": null,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1050Ti",
+        "name": "1050Ti",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1060",
+        "name": "1060",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1070",
+        "name": "1070",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1070Ti",
+        "name": "1070Ti",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1080",
+        "name": "1080",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1080Ti",
+        "name": "1080Ti",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1660",
+        "name": "1660",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "1660Ti",
+        "name": "1660Ti",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "2060",
+        "name": "2060",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "2070",
+        "name": "2070",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "2080",
+        "name": "2080",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    },
+    {
+        "id": "2080Ti",
+        "name": "2080Ti",
+        "algos": {
+            "Cuckatoo31": 123,
+            "Cuckaroo29": 345,
+            "CryptoNightR": 55,
+            "X16R": 100,
+            "MTP": 13,
+            "Equihash144_5": 66.5,
+            "Equihash": 117,
+            "Ethash": 32.777,
+            "Equihash150_5": 10
+        }
+    }
+]
