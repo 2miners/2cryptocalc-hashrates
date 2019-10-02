@@ -14,7 +14,7 @@
             "BeamHash": 13,
             "Ethash": 27,
             "MTP": 1.5,
-            "X16R": 8,
+            "X16RV2": 8,
             "CryptoNightR": 0.660
        }
     },
@@ -33,7 +33,7 @@
             "BeamHash": 15,
             "Ethash": 29,
             "MTP": 1.5,
-            "X16R": 10,
+            "X16RV2": 10,
             "CryptoNightR": 0.83
         }
     },
@@ -52,7 +52,7 @@
             "BeamHash": 13,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16R": 9,
+            "X16RV2": 9,
             "CryptoNightR": 0.730
         }
     },
@@ -71,7 +71,7 @@
             "BeamHash": 15,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16R": 11,
+            "X16RV2": 11,
             "CryptoNightR": 0.830
         }
     },
@@ -90,7 +90,7 @@
             "BeamHash": 18,
             "Ethash": 34,
             "MTP": 2,
-            "X16R": 12,
+            "X16RV2": 12,
             "CryptoNightR": null
         }
     },
@@ -109,7 +109,7 @@
             "BeamHash": 17,
             "Ethash": 44,
             "MTP": 2.7,
-            "X16R": 25,
+            "X16RV2": 25,
             "CryptoNightR": 2.000
         }
     },
@@ -128,7 +128,7 @@
             "BeamHash": 18,
             "Ethash": 44,
             "MTP": 2.8,
-            "X16R": 25,
+            "X16RV2": 25,
             "CryptoNightR": 2.100
         }
     },
@@ -147,7 +147,7 @@
             "BeamHash": 30,
             "Ethash": 90,
             "MTP": 3.3,
-            "X16R": 25,
+            "X16RV2": 25,
             "CryptoNightR": 2.900
         }
     },
@@ -166,7 +166,7 @@
             "BeamHash": 13,
             "Ethash": 15,
             "MTP": null,
-            "X16R": 6.5,
+            "X16RV2": 6.5,
             "CryptoNightR": 0.250
         }
     },
@@ -185,7 +185,7 @@
             "BeamHash": 23,
             "Ethash": 23,
             "MTP": 1.6,
-            "X16R": 9.5,
+            "X16RV2": 9.5,
             "CryptoNightR": 0.390
         }
     },
@@ -204,7 +204,7 @@
             "BeamHash": 37,
             "Ethash": 31,
             "MTP": 2.1,
-            "X16R": 17,
+            "X16RV2": 17,
             "CryptoNightR": 0.600
         }
     },
@@ -223,7 +223,7 @@
             "BeamHash": 40,
             "Ethash": 31,
             "MTP": 2.65,
-            "X16R": 24,
+            "X16RV2": 24,
             "CryptoNightR": 0.600
         }
     },
@@ -242,7 +242,7 @@
             "BeamHash": 43,
             "Ethash": 39,
             "MTP": 3,
-            "X16R": 27,
+            "X16RV2": 27,
             "CryptoNightR": 0.520
         }
     },
@@ -261,7 +261,7 @@
             "BeamHash": 53,
             "Ethash": 55,
             "MTP": 3.65,
-            "X16R": 34,
+            "X16RV2": 34,
             "CryptoNightR": 0.650
         }
     },
@@ -280,7 +280,7 @@
             "BeamHash": 25,
             "Ethash": 27,
             "MTP": 1.5,
-            "X16R": 16,
+            "X16RV2": 16,
             "CryptoNightR": 0.520
         }
     },
@@ -299,7 +299,7 @@
             "BeamHash": 29,
             "Ethash": 30,
             "MTP": 2.3,
-            "X16R": 19,
+            "X16RV2": 19,
             "CryptoNightR": 0.500
         }
     },
@@ -318,7 +318,7 @@
             "BeamHash": 43,
             "Ethash": 28,
             "MTP": 2.1,
-            "X16R": 21,
+            "X16RV2": 21,
             "CryptoNightR": 0.530
         }
     },
@@ -337,7 +337,7 @@
             "BeamHash": 50,
             "Ethash": 40,
             "MTP": 2.6,
-            "X16R": 30,
+            "X16RV2": 30,
             "CryptoNightR": 0.700
         }
     },
@@ -356,7 +356,7 @@
             "BeamHash": 62,
             "Ethash": 40,
             "MTP": 3.5,
-            "X16R": 31,
+            "X16RV2": 31,
             "CryptoNightR": 0.720
         }
     },
@@ -375,7 +375,7 @@
             "BeamHash": 60,
             "Ethash": 57,
             "MTP": 4.3,
-            "X16R": 38,
+            "X16RV2": 38,
             "CryptoNightR": 1.000
         }
     }
