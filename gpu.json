@@ -252,7 +252,7 @@
         "vendor": "nvidia",
         "algos": {
             "Cuckarood29": 16,
-            "Cuckatoo31": 0.7,
+            "Cuckatoo31": 1.36,
             "CuckooCycle": 8,
             "Equihash": 750,
             "Equihash 125_4": 57,
