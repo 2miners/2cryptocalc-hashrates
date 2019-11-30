@@ -14,8 +14,9 @@
             "BeamHash": 13,
             "Ethash": 27,
             "MTP": 1.5,
-            "X16RV2": 8,
-            "CryptoNightR": 0.660
+            "X16Rv2": 8,
+            "RandomX": 0.660,
+            "Eaglesong": null
        }
     },
     {
@@ -33,8 +34,9 @@
             "BeamHash": 15,
             "Ethash": 29,
             "MTP": 1.5,
-            "X16RV2": 10,
-            "CryptoNightR": 0.83
+            "X16Rv2": 10,
+            "RandomX": 0.83,
+            "Eaglesong": null
         }
     },
     {
@@ -52,8 +54,9 @@
             "BeamHash": 13,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16RV2": 9,
-            "CryptoNightR": 0.730
+            "X16Rv2": 9,
+            "RandomX": 0.730,
+            "Eaglesong": null
         }
     },
     {
@@ -71,8 +74,9 @@
             "BeamHash": 15,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16RV2": 11,
-            "CryptoNightR": 0.830
+            "X16Rv2": 11,
+            "RandomX": 0.830,
+            "Eaglesong": null
         }
     },
     {
@@ -90,8 +94,9 @@
             "BeamHash": 18,
             "Ethash": 34,
             "MTP": 2,
-            "X16RV2": 12,
-            "CryptoNightR": null
+            "X16Rv2": 12,
+            "RandomX": null,
+            "Eaglesong": null
         }
     },
     {
@@ -109,8 +114,9 @@
             "BeamHash": 17,
             "Ethash": 44,
             "MTP": 2.7,
-            "X16RV2": 25,
-            "CryptoNightR": 2.000
+            "X16Rv2": 25,
+            "RandomX": 2.000,
+            "Eaglesong": null
         }
     },
     {
@@ -128,8 +134,9 @@
             "BeamHash": 18,
             "Ethash": 44,
             "MTP": 2.8,
-            "X16RV2": 25,
-            "CryptoNightR": 2.100
+            "X16Rv2": 25,
+            "RandomX": 2.100,
+            "Eaglesong": null
         }
     },
     {
@@ -147,8 +154,9 @@
             "BeamHash": 30,
             "Ethash": 90,
             "MTP": 3.3,
-            "X16RV2": 25,
-            "CryptoNightR": 2.900
+            "X16Rv2": 25,
+            "RandomX": 2.900,
+            "Eaglesong": null
         }
     },
     {
@@ -166,8 +174,9 @@
             "BeamHash": 13,
             "Ethash": 15,
             "MTP": null,
-            "X16RV2": 6.5,
-            "CryptoNightR": 0.250
+            "X16Rv2": 6.5,
+            "RandomX": 0.250,
+            "Eaglesong": null
         }
     },
     {
@@ -185,8 +194,9 @@
             "BeamHash": 23,
             "Ethash": 23,
             "MTP": 1.6,
-            "X16RV2": 9.5,
-            "CryptoNightR": 0.390
+            "X16Rv2": 9.5,
+            "RandomX": 0.390,
+            "Eaglesong": null
         }
     },
     {
@@ -204,8 +214,9 @@
             "BeamHash": 37,
             "Ethash": 31,
             "MTP": 2.1,
-            "X16RV2": 17,
-            "CryptoNightR": 0.600
+            "X16Rv2": 17,
+            "RandomX": 0.600,
+            "Eaglesong": null
         }
     },
     {
@@ -223,8 +234,9 @@
             "BeamHash": 40,
             "Ethash": 31,
             "MTP": 2.65,
-            "X16RV2": 24,
-            "CryptoNightR": 0.600
+            "X16Rv2": 24,
+            "RandomX": 0.600,
+            "Eaglesong": 740
         }
     },
     {
@@ -242,8 +254,9 @@
             "BeamHash": 43,
             "Ethash": 39,
             "MTP": 3,
-            "X16RV2": 27,
-            "CryptoNightR": 0.520
+            "X16Rv2": 27,
+            "RandomX": 0.520,
+            "Eaglesong": null
         }
     },
     {
@@ -261,8 +274,9 @@
             "BeamHash": 53,
             "Ethash": 55,
             "MTP": 3.65,
-            "X16RV2": 34,
-            "CryptoNightR": 0.650
+            "X16Rv2": 34,
+            "RandomX": 0.650,
+            "Eaglesong": 1150
         }
     },
     {
@@ -280,8 +294,9 @@
             "BeamHash": 25,
             "Ethash": 27,
             "MTP": 1.5,
-            "X16RV2": 16,
-            "CryptoNightR": 0.520
+            "X16Rv2": 16,
+            "RandomX": 0.520,
+            "Eaglesong": null
         }
     },
     {
@@ -299,8 +314,9 @@
             "BeamHash": 29,
             "Ethash": 30,
             "MTP": 2.3,
-            "X16RV2": 19,
-            "CryptoNightR": 0.500
+            "X16Rv2": 19,
+            "RandomX": 0.500,
+            "Eaglesong": null
         }
     },
     {
@@ -318,8 +334,9 @@
             "BeamHash": 43,
             "Ethash": 28,
             "MTP": 2.1,
-            "X16RV2": 21,
-            "CryptoNightR": 0.530
+            "X16Rv2": 21,
+            "RandomX": 0.530,
+            "Eaglesong": null
         }
     },
     {
@@ -337,8 +354,9 @@
             "BeamHash": 50,
             "Ethash": 40,
             "MTP": 2.6,
-            "X16RV2": 30,
-            "CryptoNightR": 0.700
+            "X16Rv2": 30,
+            "RandomX": 0.700,
+            "Eaglesong": null
         }
     },
     {
@@ -356,8 +374,9 @@
             "BeamHash": 62,
             "Ethash": 40,
             "MTP": 3.5,
-            "X16RV2": 31,
-            "CryptoNightR": 0.720
+            "X16Rv2": 31,
+            "RandomX": 0.720,
+            "Eaglesong": 1160
         }
     },
     {
@@ -375,8 +394,9 @@
             "BeamHash": 60,
             "Ethash": 57,
             "MTP": 4.3,
-            "X16RV2": 38,
-            "CryptoNightR": 1.000
+            "X16Rv2": 38,
+            "RandomX": 1.000,
+            "Eaglesong": null
         }
     }
 ]

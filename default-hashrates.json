@@ -9,6 +9,7 @@
     "BeamHash": 12150,
     "Ethash": 9150,
     "MTP": 630,
-    "X16RV2": 5400,
-    "CryptoNightR": 50
+    "X16Rv2": 5400,
+    "RandomX": 50,
+    "Eaglesong": 222000
 }
