@@ -285,12 +285,12 @@
         "vendor": "nvidia",
         "algos": {
             "Cuckarood29": 8,
-            "Cuckatoo31": null,
+            "Cuckatoo31": 0,
             "CuckooCycle": 3.5,
             "Equihash": null,
             "Equihash 125_4": null,
-            "Equihash 144_5": 35,
-            "Equihash 192_7": null,
+            "Equihash 144_5": 39,
+            "Equihash 192_7": 21,
             "BeamHash": 25,
             "Ethash": 27,
             "MTP": 1.5,
@@ -305,12 +305,12 @@
         "vendor": "nvidia",
         "algos": {
             "Cuckarood29": 10,
-            "Cuckatoo31": null,
+            "Cuckatoo31": 0,
             "CuckooCycle": 4.5,
             "Equihash": null,
             "Equihash 125_4": 26,
-            "Equihash 144_5": 35,
-            "Equihash 192_7": null,
+            "Equihash 144_5": 43,
+            "Equihash 192_7": 25,
             "BeamHash": 29,
             "Ethash": 30,
             "MTP": 2.3,
@@ -336,7 +336,7 @@
             "MTP": 2.1,
             "X16Rv2": 21,
             "RandomX": 0.530,
-            "Eaglesong": null
+            "Eaglesong": 815
         }
     },
     {
@@ -347,7 +347,7 @@
             "Cuckarood29": 15.2,
             "Cuckatoo31": null,
             "CuckooCycle": 7.5,
-            "Equihash": null,
+            "Equihash": 630,
             "Equihash 125_4": 45,
             "Equihash 144_5": 65.5,
             "Equihash 192_7": 36,
