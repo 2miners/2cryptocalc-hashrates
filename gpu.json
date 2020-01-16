@@ -227,7 +227,7 @@
             "MTP": 1.6,
             "X16Rv2": 9.5,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": 395
         }
     },
     {
@@ -256,7 +256,7 @@
         "name": "1070Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": 3.18,
+            "Cuckaroom29": 3.3,
             "Cuckatoo31": 0.97,
             "Cuckatoo32": null,
             "CuckooCycle": 6.2,
@@ -311,7 +311,7 @@
             "MTP": 3,
             "X16Rv2": 27,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": 780
         }
     },
     {
@@ -403,7 +403,7 @@
         "name": "2070",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 4.3,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 7.5,
