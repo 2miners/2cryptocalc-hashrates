@@ -214,7 +214,7 @@
         "name": "1060",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 3.25,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 3,
@@ -298,7 +298,7 @@
         "name": "1080",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 6.50,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 6,
