@@ -16,7 +16,7 @@
             "Ethash": 27,
             "MTP": 1.5,
             "X16Rv2": 8,
-            "RandomX": 0.660,
+            "RandomX": null,
             "Eaglesong": null
        }
     },
@@ -37,7 +37,7 @@
             "Ethash": 29,
             "MTP": 1.5,
             "X16Rv2": 10,
-            "RandomX": 0.83,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -58,7 +58,7 @@
             "Ethash": 30,
             "MTP": 1.5,
             "X16Rv2": 9,
-            "RandomX": 0.730,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -79,7 +79,7 @@
             "Ethash": 30,
             "MTP": 1.5,
             "X16Rv2": 11,
-            "RandomX": 0.830,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -121,7 +121,7 @@
             "Ethash": 44,
             "MTP": 2.7,
             "X16Rv2": 25,
-            "RandomX": 2.000,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -142,7 +142,7 @@
             "Ethash": 44,
             "MTP": 2.8,
             "X16Rv2": 25,
-            "RandomX": 2.100,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -163,7 +163,7 @@
             "Ethash": 90,
             "MTP": 3.3,
             "X16Rv2": 25,
-            "RandomX": 2.900,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -205,7 +205,7 @@
             "Ethash": 15,
             "MTP": null,
             "X16Rv2": 6.5,
-            "RandomX": 0.250,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -226,7 +226,7 @@
             "Ethash": 23,
             "MTP": 1.6,
             "X16Rv2": 9.5,
-            "RandomX": 0.390,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -247,7 +247,7 @@
             "Ethash": 31,
             "MTP": 2.1,
             "X16Rv2": 17,
-            "RandomX": 0.600,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -256,10 +256,10 @@
         "name": "1070Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": 3.1,
-            "Cuckatoo31": null,
+            "Cuckaroom29": 3.18,
+            "Cuckatoo31": 0.97,
             "Cuckatoo32": null,
-            "CuckooCycle": 5.3,
+            "CuckooCycle": 6.2,
             "Equihash": null,
             "Equihash 125_4": 40,
             "Equihash 144_5": 65,
@@ -268,8 +268,29 @@
             "Ethash": 31,
             "MTP": 2.65,
             "X16Rv2": 24,
-            "RandomX": 0.600,
+            "RandomX": null,
             "Eaglesong": 740
+        }
+    },
+    {
+        "id": "P104-100",
+        "name": "P104-100",
+        "vendor": "nvidia",
+        "algos": {
+            "Cuckaroom29": 3.25,
+            "Cuckatoo31": 0.93,
+            "Cuckatoo32": null,
+            "CuckooCycle": 5.9,
+            "Equihash": null,
+            "Equihash 125_4": 37,
+            "Equihash 144_5": 60,
+            "Equihash 192_7": 33,
+            "BeamHash": 36.5,
+            "Ethash": 39,
+            "MTP": 2.05,
+            "X16Rv2": 19,
+            "RandomX": null,
+            "Eaglesong": 592
         }
     },
     {
@@ -289,7 +310,7 @@
             "Ethash": 39,
             "MTP": 3,
             "X16Rv2": 27,
-            "RandomX": 0.520,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -310,7 +331,7 @@
             "Ethash": 55,
             "MTP": 3.65,
             "X16Rv2": 34,
-            "RandomX": 0.650,
+            "RandomX": null,
             "Eaglesong": 1150
         }
     },
@@ -331,7 +352,7 @@
             "Ethash": 27,
             "MTP": 1.5,
             "X16Rv2": 16,
-            "RandomX": 0.520,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -352,7 +373,7 @@
             "Ethash": 30,
             "MTP": 2.3,
             "X16Rv2": 19,
-            "RandomX": 0.500,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -373,7 +394,7 @@
             "Ethash": 28,
             "MTP": 2.1,
             "X16Rv2": 21,
-            "RandomX": 0.530,
+            "RandomX": null,
             "Eaglesong": 815
         }
     },
@@ -394,7 +415,7 @@
             "Ethash": 40,
             "MTP": 2.6,
             "X16Rv2": 30,
-            "RandomX": 0.700,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -403,7 +424,7 @@
         "name": "2080",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 5.25,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 9,
@@ -415,7 +436,7 @@
             "Ethash": 40,
             "MTP": 3.5,
             "X16Rv2": 31,
-            "RandomX": 0.720,
+            "RandomX": null,
             "Eaglesong": 1160
         }
     },
@@ -436,7 +457,7 @@
             "Ethash": 57,
             "MTP": 4.3,
             "X16Rv2": 38,
-            "RandomX": 1.000,
+            "RandomX": null,
             "Eaglesong": null
         }
     }
