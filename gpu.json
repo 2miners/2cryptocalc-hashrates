@@ -46,9 +46,9 @@
         "name": "570",
         "vendor": "amd",
         "algos": {
-            "Cuckaroom29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
+            "Cuckaroom29": 2.2,
+            "Cuckatoo31": 0.63,
+            "Cuckatoo32": 0.17,
             "CuckooCycle": 1.8,
             "Equihash": 300,
             "Equihash 125_4": 14,
@@ -109,9 +109,9 @@
         "name": "Vega56",
         "vendor": "amd",
         "algos": {
-            "Cuckaroom29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
+            "Cuckaroom29": 3.7,
+            "Cuckatoo31": 1.07,
+            "Cuckatoo32": 0.32,
             "CuckooCycle": 3.2,
             "Equihash": 450,
             "Equihash 125_4": 24,
@@ -130,9 +130,9 @@
         "name": "Vega64",
         "vendor": "amd",
         "algos": {
-            "Cuckaroom29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
+            "Cuckaroom29": 4.4,
+            "Cuckatoo31": 1.3,
+            "Cuckatoo32": 0.4,
             "CuckooCycle": 4.4,
             "Equihash": 500,
             "Equihash 125_4": 28.5,
@@ -151,9 +151,9 @@
         "name": "VII",
         "vendor": "amd",
         "algos": {
-            "Cuckaroom29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
+            "Cuckaroom29": 6.1,
+            "Cuckatoo31": 1.9,
+            "Cuckatoo32": 0.5,
             "CuckooCycle": 5,
             "Equihash": 500,
             "Equihash 125_4": 36,
@@ -164,6 +164,27 @@
             "MTP": 3.3,
             "X16Rv2": 25,
             "RandomX": 2.900,
+            "Eaglesong": null
+        }
+    },
+    {
+        "id": "5700",
+        "name": "5700",
+        "vendor": "amd",
+        "algos": {
+            "Cuckaroom29": 4,
+            "Cuckatoo31": 1.07,
+            "Cuckatoo32": 0.31,
+            "CuckooCycle": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "Equihash 192_7": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "MTP": null,
+            "X16Rv2": null,
+            "RandomX": null,
             "Eaglesong": null
         }
     },
@@ -214,7 +235,7 @@
         "name": "1070",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 3,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 5,
@@ -235,7 +256,7 @@
         "name": "1070Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 3.1,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 5.3,
