@@ -298,7 +298,7 @@
         "name": "1080",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": 6.50,
+            "Cuckaroom29": 3.80,
             "Cuckatoo31": 0.93,
             "Cuckatoo32": null,
             "CuckooCycle": 6,
