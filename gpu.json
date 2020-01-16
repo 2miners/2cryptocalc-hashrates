@@ -226,7 +226,7 @@
             "Ethash": 23,
             "MTP": 1.6,
             "X16Rv2": 9.5,
-            "RandomX": null,
+            "RandomX": 0.280,
             "Eaglesong": 395
         }
     },
@@ -310,7 +310,7 @@
             "Ethash": 39,
             "MTP": 3,
             "X16Rv2": 27,
-            "RandomX": null,
+            "RandomX": 0.730,
             "Eaglesong": 780
         }
     },
