@@ -256,8 +256,8 @@
         "name": "1070Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": 3.3,
-            "Cuckatoo31": 0.97,
+            "Cuckaroom29": 3.2,
+            "Cuckatoo31": 0.60,
             "Cuckatoo32": null,
             "CuckooCycle": 6.2,
             "Equihash": null,
@@ -268,7 +268,7 @@
             "Ethash": 31,
             "MTP": 2.65,
             "X16Rv2": 24,
-            "RandomX": null,
+            "RandomX": 0.640,
             "Eaglesong": 740
         }
     },
