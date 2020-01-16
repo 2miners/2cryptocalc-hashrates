@@ -319,7 +319,7 @@
         "name": "1080Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
+            "Cuckaroom29": 5.00,
             "Cuckatoo31": 1.36,
             "Cuckatoo32": null,
             "CuckooCycle": 8,
