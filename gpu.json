@@ -445,8 +445,8 @@
         "name": "2080Ti",
         "vendor": "nvidia",
         "algos": {
-            "Cuckaroom29": null,
-            "Cuckatoo31": 2.1,
+            "Cuckaroom29": 7.60,
+            "Cuckatoo31": 2.10,
             "Cuckatoo32": null,
             "CuckooCycle": 11,
             "Equihash": null,
