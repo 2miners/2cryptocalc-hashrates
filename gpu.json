@@ -2,6 +2,7 @@
     {
         "id": "470",
         "name": "470",
+        "marketing_name": "AMD Radeon RX 470",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": null,
@@ -18,11 +19,12 @@
             "X16Rv2": 8,
             "RandomX": null,
             "Eaglesong": null
-       }
+        }
     },
     {
         "id": "480",
         "name": "480",
+        "marketing_name": "AMD Radeon RX 480",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": null,
@@ -44,6 +46,7 @@
     {
         "id": "570",
         "name": "570",
+        "marketing_name": "AMD Radeon RX 570",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": 2.2,
@@ -65,6 +68,7 @@
     {
         "id": "580",
         "name": "580",
+        "marketing_name": "AMD Radeon RX 580",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": null,
@@ -86,6 +90,7 @@
     {
         "id": "590",
         "name": "590",
+        "marketing_name": "AMD Radeon RX 590",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": null,
@@ -107,6 +112,7 @@
     {
         "id": "Vega56",
         "name": "Vega56",
+        "marketing_name": "AMD Radeon Vega 56",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": 3.7,
@@ -128,6 +134,7 @@
     {
         "id": "Vega64",
         "name": "Vega64",
+        "marketing_name": "AMD Radeon Vega 64",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": 4.4,
@@ -149,6 +156,7 @@
     {
         "id": "VII",
         "name": "VII",
+        "marketing_name": "AMD Radeon VII",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": 6.1,
@@ -170,6 +178,7 @@
     {
         "id": "5700",
         "name": "5700",
+        "marketing_name": "AMD Radeon RX 5700",
         "vendor": "amd",
         "algos": {
             "Cuckaroom29": 4,
@@ -191,6 +200,7 @@
     {
         "id": "1050Ti",
         "name": "1050Ti",
+        "marketing_name": "nVidia GeForce GTX 1050 Ti",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": null,
@@ -212,6 +222,7 @@
     {
         "id": "1060",
         "name": "1060",
+        "marketing_name": "nVidia GeForce GTX 1060",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 2.10,
@@ -233,6 +244,7 @@
     {
         "id": "1070",
         "name": "1070",
+        "marketing_name": "nVidia GeForce GTX 1070",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 3,
@@ -254,6 +266,7 @@
     {
         "id": "1070Ti",
         "name": "1070Ti",
+        "marketing_name": "nVidia GeForce GTX 1070 Ti",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 3.2,
@@ -275,6 +288,7 @@
     {
         "id": "P104-100",
         "name": "P104-100",
+        "marketing_name": "nVidia P104-100",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 3.25,
@@ -296,6 +310,7 @@
     {
         "id": "1080",
         "name": "1080",
+        "marketing_name": "nVidia GeForce GTX 1080",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 3.80,
@@ -317,6 +332,7 @@
     {
         "id": "1080Ti",
         "name": "1080Ti",
+        "marketing_name": "nVidia GeForce GTX 1080 Ti",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 4.60,
@@ -338,6 +354,7 @@
     {
         "id": "1660",
         "name": "1660",
+        "marketing_name": "nVidia GeForce GTX 1660",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": null,
@@ -359,6 +376,7 @@
     {
         "id": "1660Ti",
         "name": "1660Ti",
+        "marketing_name": "nVidia GeForce GTX 1660 Ti",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": null,
@@ -380,6 +398,7 @@
     {
         "id": "2060",
         "name": "2060",
+        "marketing_name": "nVidia GeForce GTX 2060",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": null,
@@ -401,6 +420,7 @@
     {
         "id": "2070",
         "name": "2070",
+        "marketing_name": "nVidia GeForce GTX 2070",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 4.3,
@@ -422,6 +442,7 @@
     {
         "id": "2080",
         "name": "2080",
+        "marketing_name": "nVidia GeForce GTX 2080",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 5.25,
@@ -443,6 +464,7 @@
     {
         "id": "2080Ti",
         "name": "2080Ti",
+        "marketing_name": "nVidia GeForce GTX 2080 Ti",
         "vendor": "nvidia",
         "algos": {
             "Cuckaroom29": 7.60,
