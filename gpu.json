@@ -209,7 +209,7 @@
     {
         "id": "1050Ti",
         "name": "1050Ti",
-        "marketing_name": "nVidia GeForce GTX 1050 Ti",
+        "marketing_name": "Nvidia GeForce GTX 1050 Ti",
         "vendor": "nvidia",
         "ramSize": [4096],
         "algos": {
@@ -232,7 +232,7 @@
     {
         "id": "1060",
         "name": "1060",
-        "marketing_name": "nVidia GeForce GTX 1060",
+        "marketing_name": "Nvidia GeForce GTX 1060",
         "vendor": "nvidia",
         "ramSize": [3072,6144],
         "algos": {
@@ -255,7 +255,7 @@
     {
         "id": "1070",
         "name": "1070",
-        "marketing_name": "nVidia GeForce GTX 1070",
+        "marketing_name": "Nvidia GeForce GTX 1070",
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
@@ -278,7 +278,7 @@
     {
         "id": "1070Ti",
         "name": "1070Ti",
-        "marketing_name": "nVidia GeForce GTX 1070 Ti",
+        "marketing_name": "Nvidia GeForce GTX 1070 Ti",
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
@@ -301,7 +301,7 @@
     {
         "id": "P104-100",
         "name": "P104-100",
-        "marketing_name": "nVidia P104-100",
+        "marketing_name": "Nvidia P104-100",
         "vendor": "nvidia",
         "ramSize": [4096,8192],
         "algos": {
@@ -324,7 +324,7 @@
     {
         "id": "1080",
         "name": "1080",
-        "marketing_name": "nVidia GeForce GTX 1080",
+        "marketing_name": "Nvidia GeForce GTX 1080",
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
@@ -347,7 +347,7 @@
     {
         "id": "1080Ti",
         "name": "1080Ti",
-        "marketing_name": "nVidia GeForce GTX 1080 Ti",
+        "marketing_name": "Nvidia GeForce GTX 1080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
         "algos": {
@@ -370,7 +370,7 @@
     {
         "id": "1660",
         "name": "1660",
-        "marketing_name": "nVidia GeForce GTX 1660",
+        "marketing_name": "Nvidia GeForce GTX 1660",
         "vendor": "nvidia",
         "ramSize": [6144],
         "algos": {
@@ -393,7 +393,7 @@
     {
         "id": "1660Ti",
         "name": "1660Ti",
-        "marketing_name": "nVidia GeForce GTX 1660 Ti",
+        "marketing_name": "Nvidia GeForce GTX 1660 Ti",
         "vendor": "nvidia",
         "ramSize": [6144],
         "algos": {
@@ -416,7 +416,7 @@
     {
         "id": "2060",
         "name": "2060",
-        "marketing_name": "nVidia GeForce GTX 2060",
+        "marketing_name": "Nvidia GeForce GTX 2060",
         "vendor": "nvidia",
         "ramSize": [6144],
         "algos": {
@@ -439,7 +439,7 @@
     {
         "id": "2070",
         "name": "2070",
-        "marketing_name": "nVidia GeForce GTX 2070",
+        "marketing_name": "Nvidia GeForce GTX 2070",
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
@@ -462,7 +462,7 @@
     {
         "id": "2080",
         "name": "2080",
-        "marketing_name": "nVidia GeForce GTX 2080",
+        "marketing_name": "Nvidia GeForce GTX 2080",
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
@@ -485,7 +485,7 @@
     {
         "id": "2080Ti",
         "name": "2080Ti",
-        "marketing_name": "nVidia GeForce GTX 2080 Ti",
+        "marketing_name": "Nvidia GeForce GTX 2080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
         "algos": {
