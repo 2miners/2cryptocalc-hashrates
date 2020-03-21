@@ -363,7 +363,7 @@
             "Ethash": 55,
             "MTP": 3.9,
             "X16Rv2": 34,
-            "RandomX": null,
+            "RandomX": 1.1,
             "Eaglesong": 1150
         }
     },
