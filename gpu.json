@@ -330,7 +330,7 @@
         "algos": {
             "Cuckaroom29": 3.80,
             "Cuckatoo31": 0.93,
-            "Cuckatoo32": null,
+            "Cuckatoo32": 0.33,
             "CuckooCycle": 6,
             "Equihash": 650,
             "Equihash 125_4": 42,
@@ -352,8 +352,8 @@
         "ramSize": [11264],
         "algos": {
             "Cuckaroom29": 4.60,
-            "Cuckatoo31": 1.36,
-            "Cuckatoo32": 0.35,
+            "Cuckatoo31": 1.45,
+            "Cuckatoo32": 0.45,
             "CuckooCycle": 8,
             "Equihash": 750,
             "Equihash 125_4": 57,
