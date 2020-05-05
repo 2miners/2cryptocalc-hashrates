@@ -17,7 +17,7 @@
             "BeamHash": 15,
             "Ethash": 27,
             "MTP": 1.5,
-            "X16Rv2": 9,
+            "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -40,7 +40,7 @@
             "BeamHash": 16,
             "Ethash": 29,
             "MTP": 1.5,
-            "X16Rv2": 10,
+            "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 360
         }
@@ -63,7 +63,7 @@
             "BeamHash": 15,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16Rv2": 9,
+            "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": 324
         }
@@ -86,7 +86,7 @@
             "BeamHash": 16,
             "Ethash": 30,
             "MTP": 1.5,
-            "X16Rv2": 11,
+            "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 300
         }
@@ -109,7 +109,7 @@
             "BeamHash": 16,
             "Ethash": 34,
             "MTP": 2,
-            "X16Rv2": 12,
+            "KAWPOW": 12,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -132,7 +132,7 @@
             "BeamHash": 19,
             "Ethash": 43,
             "MTP": 3.0,
-            "X16Rv2": 25,
+            "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -155,7 +155,7 @@
             "BeamHash": 20,
             "Ethash": 44,
             "MTP": 3.5,
-            "X16Rv2": 21,
+            "KAWPOW": 23,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -178,7 +178,7 @@
             "BeamHash": 31,
             "Ethash": 90,
             "MTP": 4.5,
-            "X16Rv2": 25,
+            "KAWPOW": 24,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -201,7 +201,7 @@
             "BeamHash": null,
             "Ethash": 52,
             "MTP": null,
-            "X16Rv2": null,
+            "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -224,7 +224,7 @@
             "BeamHash": 13,
             "Ethash": 14,
             "MTP": null,
-            "X16Rv2": 6.5,
+            "KAWPOW": 7,
             "RandomX": 0.181,
             "Eaglesong": null
         }
@@ -247,7 +247,7 @@
             "BeamHash": 23,
             "Ethash": 23,
             "MTP": 1.6,
-            "X16Rv2": 9.5,
+            "KAWPOW": 10.5,
             "RandomX": 0.280,
             "Eaglesong": 395
         }
@@ -270,7 +270,7 @@
             "BeamHash": 37,
             "Ethash": 31,
             "MTP": 2.6,
-            "X16Rv2": 17,
+            "KAWPOW": 14,
             "RandomX": 0.609,
             "Eaglesong": null
         }
@@ -293,7 +293,7 @@
             "BeamHash": 40,
             "Ethash": 31,
             "MTP": 2.65,
-            "X16Rv2": 24,
+            "KAWPOW": 15,
             "RandomX": 0.769,
             "Eaglesong": 778
         }
@@ -316,7 +316,7 @@
             "BeamHash": 36.5,
             "Ethash": 39,
             "MTP": 2.05,
-            "X16Rv2": 19,
+            "KAWPOW": 14,
             "RandomX": null,
             "Eaglesong": 592
         }
@@ -339,7 +339,7 @@
             "BeamHash": 43,
             "Ethash": 39,
             "MTP": 3,
-            "X16Rv2": 27,
+            "KAWPOW": 16,
             "RandomX": 0.730,
             "Eaglesong": 780
         }
@@ -362,7 +362,7 @@
             "BeamHash": 53,
             "Ethash": 55,
             "MTP": 3.9,
-            "X16Rv2": 34,
+            "KAWPOW": 24,
             "RandomX": 1.136,
             "Eaglesong": 1150
         }
@@ -385,7 +385,7 @@
             "BeamHash": 25,
             "Ethash": 25,
             "MTP": 2.0,
-            "X16Rv2": 17,
+            "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -408,7 +408,7 @@
             "BeamHash": 26,
             "Ethash": 30,
             "MTP": 2.1,
-            "X16Rv2": 20,
+            "KAWPOW": 15,
             "RandomX": 0.600,
             "Eaglesong": null
         }
@@ -431,7 +431,7 @@
             "BeamHash": 37,
             "Ethash": 30,
             "MTP": 2.6,
-            "X16Rv2": 26,
+            "KAWPOW": 16,
             "RandomX": null,
             "Eaglesong": 755
         }
@@ -454,7 +454,7 @@
             "BeamHash": 50,
             "Ethash": 41,
             "MTP": 3.3,
-            "X16Rv2": 27,
+            "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null
         }
@@ -477,7 +477,7 @@
             "BeamHash": 65,
             "Ethash": 42,
             "MTP": 4.4,
-            "X16Rv2": 40,
+            "KAWPOW": 30,
             "RandomX": 1.191,
             "Eaglesong": 1150
         }
@@ -500,7 +500,7 @@
             "BeamHash": 72,
             "Ethash": 57,
             "MTP": 5.5,
-            "X16Rv2": 37,
+            "KAWPOW": 36,
             "RandomX": 1.692,
             "Eaglesong": null
         }
