@@ -328,8 +328,8 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "algos": {
-            "Cuckaroom29": 3.80,
-            "Cuckatoo31": 0.96,
+            "Cuckaroom29": 3.90,
+            "Cuckatoo31": 1.00,
             "Cuckatoo32": 0.33,
             "CuckooCycle": 6,
             "Equihash": 650,
@@ -339,7 +339,7 @@
             "BeamHash": 43,
             "Ethash": 39,
             "MTP": 3,
-            "KAWPOW": 16,
+            "KAWPOW": 17,
             "RandomX": 0.730,
             "Eaglesong": 780
         }
@@ -351,9 +351,9 @@
         "vendor": "nvidia",
         "ramSize": [11264],
         "algos": {
-            "Cuckaroom29": 4.60,
-            "Cuckatoo31": 1.64,
-            "Cuckatoo32": 0.45,
+            "Cuckaroom29": 5.10,
+            "Cuckatoo31": 1.62,
+            "Cuckatoo32": 0.56,
             "CuckooCycle": 8,
             "Equihash": 750,
             "Equihash 125_4": 56.9,
@@ -362,7 +362,7 @@
             "BeamHash": 53,
             "Ethash": 55,
             "MTP": 3.9,
-            "KAWPOW": 24,
+            "KAWPOW": 25,
             "RandomX": 1.136,
             "Eaglesong": 1150
         }
