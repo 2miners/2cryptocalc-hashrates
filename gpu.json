@@ -425,8 +425,8 @@
         }
     },
     {
-        "id": "1660s",
-        "name": "1660s",
+        "id": "1660S",
+        "name": "1660S",
         "marketing_name": "Nvidia GeForce GTX 1660 Super",
         "vendor": "nvidia",
         "ramSize": [6144],
@@ -442,7 +442,7 @@
             "Equihash 144_5": null,
             "Equihash 192_7": null,
             "BeamHash": 15,
-            "Ethash": 25,
+            "Ethash": 30,
             "MTP": 2.2,
             "KAWPOW": 14.2,
             "RandomX": null,
