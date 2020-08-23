@@ -525,6 +525,31 @@
         }
     },
     {
+        "id": "2070S",
+        "name": "2070S",
+        "marketing_name": "Nvidia GeForce GTX 2070 Super",
+        "vendor": "nvidia",
+        "ramSize": [8192],
+        "algos": {
+            "Cuckarood29": 8.60,
+            "Cuckarooz29": 4.60,
+            "Cuckatoo31": 1.51,
+            "Cuckatoo32": 0.47,
+            "CuckooCycle": 8.22,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": 48.30,
+            "Equihash 144_5": 58.20,
+            "Equihash 192_7": 38.70,
+            "BeamHash": 24.40,
+            "Ethash": 43,
+            "MTP": 3.70,
+            "KAWPOW": 23,
+            "RandomX": 1.50,
+            "Eaglesong": 830
+        }
+    },
+    {
         "id": "2080",
         "name": "2080",
         "marketing_name": "Nvidia GeForce GTX 2080",
