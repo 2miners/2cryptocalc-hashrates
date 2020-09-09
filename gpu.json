@@ -6,6 +6,7 @@
         "vendor": "amd",
         "ramSize": [4096,8192],
         "price": 100,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 1.60,
             "Cuckarooz29": null,
@@ -32,6 +33,7 @@
         "vendor": "amd",
         "ramSize": [4096,8192],
         "price": 220.4,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 1.90,
             "Cuckarooz29": null,
@@ -58,6 +60,7 @@
         "vendor": "amd",
         "ramSize": [4096,8192],
         "price": 159.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 1.60,
             "Cuckarooz29": 2.10,
@@ -84,6 +87,7 @@
         "vendor": "amd",
         "ramSize": [4096,8192],
         "price": 179.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 1.80,
             "Cuckarooz29": 2.20,
@@ -110,6 +114,7 @@
         "vendor": "amd",
         "ramSize": [8192],
         "price": 199.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 2.30,
             "Cuckarooz29": null,
@@ -136,6 +141,7 @@
         "vendor": "amd",
         "ramSize": [8192],
         "price": 350,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 3.20,
             "Cuckarooz29": 3.70,
@@ -162,6 +168,7 @@
         "vendor": "amd",
         "ramSize": [8192,16384],
         "price": 449.27,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 4,
             "Cuckarooz29": 4.20,
@@ -188,6 +195,7 @@
         "vendor": "amd",
         "ramSize": [16384],
         "price": 1000,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 5,
             "Cuckarooz29": 6,
@@ -214,6 +222,7 @@
         "vendor": "amd",
         "ramSize": [8192],
         "price": 399.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 3.50,
             "Cuckarooz29": 4,
@@ -240,6 +249,7 @@
         "vendor": "nvidia",
         "ramSize": [4096],
         "price": 159.45,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": null,
             "Cuckarooz29": null,
@@ -266,6 +276,7 @@
         "vendor": "nvidia",
         "ramSize": [3072,6144],
         "price": 214.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 3.20,
             "Cuckarooz29": 1.70,
@@ -292,6 +303,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 379.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 4.50,
             "Cuckarooz29": 2.60,
@@ -318,6 +330,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 505.18,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 6.30,
             "Cuckarooz29": 2.85,
@@ -344,6 +357,7 @@
         "vendor": "nvidia",
         "ramSize": [4096,8192],
         "price": 299.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 6.10,
             "Cuckarooz29": 2.80,
@@ -370,6 +384,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 589.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 6.50,
             "Cuckarooz29": 3.50,
@@ -396,6 +411,7 @@
         "vendor": "nvidia",
         "ramSize": [11264],
         "price": 769.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 8.10,
             "Cuckarooz29": 4.80,
@@ -422,6 +438,7 @@
         "vendor": "nvidia",
         "ramSize": [6144],
         "price": 214.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 4,
             "Cuckarooz29": null,
@@ -448,6 +465,7 @@
         "vendor": "nvidia",
         "ramSize": [6144],
         "price": 229,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 5.1,
             "Cuckarooz29": 3,
@@ -474,6 +492,7 @@
         "vendor": "nvidia",
         "ramSize": [6144],
         "price": 269.49,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 5,
             "Cuckarooz29": null,
@@ -500,6 +519,7 @@
         "vendor": "nvidia",
         "ramSize": [6144],
         "price": 329.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 6,
             "Cuckarooz29": null,
@@ -526,6 +546,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 459.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 7.60,
             "Cuckarooz29": 3.90,
@@ -552,6 +573,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 529.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 8.60,
             "Cuckarooz29": 4.60,
@@ -578,6 +600,7 @@
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 749.99,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 9.10,
             "Cuckarooz29": 4.95,
@@ -604,6 +627,7 @@
         "vendor": "nvidia",
         "ramSize": [11264],
         "price": 1466,
+        "secondHand": false,
         "algos": {
             "Cuckarood29": 9.50,
             "Cuckarooz29": 7.20,
