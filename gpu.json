@@ -5,6 +5,7 @@
         "marketing_name": "AMD Radeon RX 470",
         "vendor": "amd",
         "ramSize": [4096,8192],
+        "price": 100,
         "algos": {
             "Cuckarood29": 1.60,
             "Cuckarooz29": null,
@@ -30,6 +31,7 @@
         "marketing_name": "AMD Radeon RX 480",
         "vendor": "amd",
         "ramSize": [4096,8192],
+        "price": 220.4,
         "algos": {
             "Cuckarood29": 1.90,
             "Cuckarooz29": null,
@@ -55,6 +57,7 @@
         "marketing_name": "AMD Radeon RX 570",
         "vendor": "amd",
         "ramSize": [4096,8192],
+        "price": 159.99,
         "algos": {
             "Cuckarood29": 1.60,
             "Cuckarooz29": 2.10,
@@ -80,6 +83,7 @@
         "marketing_name": "AMD Radeon RX 580",
         "vendor": "amd",
         "ramSize": [4096,8192],
+        "price": 179.99,
         "algos": {
             "Cuckarood29": 1.80,
             "Cuckarooz29": 2.20,
@@ -105,6 +109,7 @@
         "marketing_name": "AMD Radeon RX 590",
         "vendor": "amd",
         "ramSize": [8192],
+        "price": 199.99,
         "algos": {
             "Cuckarood29": 2.30,
             "Cuckarooz29": null,
@@ -130,6 +135,7 @@
         "marketing_name": "AMD Radeon Vega 56",
         "vendor": "amd",
         "ramSize": [8192],
+        "price": 350,
         "algos": {
             "Cuckarood29": 3.20,
             "Cuckarooz29": 3.70,
@@ -155,6 +161,7 @@
         "marketing_name": "AMD Radeon Vega 64",
         "vendor": "amd",
         "ramSize": [8192,16384],
+        "price": 449.27,
         "algos": {
             "Cuckarood29": 4,
             "Cuckarooz29": 4.20,
@@ -180,6 +187,7 @@
         "marketing_name": "AMD Radeon VII",
         "vendor": "amd",
         "ramSize": [16384],
+        "price": 1000,
         "algos": {
             "Cuckarood29": 5,
             "Cuckarooz29": 6,
@@ -205,6 +213,7 @@
         "marketing_name": "AMD Radeon RX 5700",
         "vendor": "amd",
         "ramSize": [8192],
+        "price": 399.99,
         "algos": {
             "Cuckarood29": 3.50,
             "Cuckarooz29": 4,
@@ -230,6 +239,7 @@
         "marketing_name": "Nvidia GeForce GTX 1050 Ti",
         "vendor": "nvidia",
         "ramSize": [4096],
+        "price": 159.45,
         "algos": {
             "Cuckarood29": null,
             "Cuckarooz29": null,
@@ -255,6 +265,7 @@
         "marketing_name": "Nvidia GeForce GTX 1060",
         "vendor": "nvidia",
         "ramSize": [3072,6144],
+        "price": 214.99,
         "algos": {
             "Cuckarood29": 3.20,
             "Cuckarooz29": 1.70,
@@ -280,6 +291,7 @@
         "marketing_name": "Nvidia GeForce GTX 1070",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 379.99,
         "algos": {
             "Cuckarood29": 4.50,
             "Cuckarooz29": 2.60,
@@ -305,6 +317,7 @@
         "marketing_name": "Nvidia GeForce GTX 1070 Ti",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 505.18,
         "algos": {
             "Cuckarood29": 6.30,
             "Cuckarooz29": 2.85,
@@ -330,6 +343,7 @@
         "marketing_name": "Nvidia P104-100",
         "vendor": "nvidia",
         "ramSize": [4096,8192],
+        "price": 299.99,
         "algos": {
             "Cuckarood29": 6.10,
             "Cuckarooz29": 2.80,
@@ -355,6 +369,7 @@
         "marketing_name": "Nvidia GeForce GTX 1080",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 589.99,
         "algos": {
             "Cuckarood29": 6.50,
             "Cuckarooz29": 3.50,
@@ -380,6 +395,7 @@
         "marketing_name": "Nvidia GeForce GTX 1080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
+        "price": 769.99,
         "algos": {
             "Cuckarood29": 8.10,
             "Cuckarooz29": 4.80,
@@ -405,6 +421,7 @@
         "marketing_name": "Nvidia GeForce GTX 1660",
         "vendor": "nvidia",
         "ramSize": [6144],
+        "price": 214.99,
         "algos": {
             "Cuckarood29": 4,
             "Cuckarooz29": null,
@@ -430,6 +447,7 @@
         "marketing_name": "Nvidia GeForce GTX 1660 Super",
         "vendor": "nvidia",
         "ramSize": [6144],
+        "price": 229,
         "algos": {
             "Cuckarood29": 5.1,
             "Cuckarooz29": 3,
@@ -455,6 +473,7 @@
         "marketing_name": "Nvidia GeForce GTX 1660 Ti",
         "vendor": "nvidia",
         "ramSize": [6144],
+        "price": 269.49,
         "algos": {
             "Cuckarood29": 5,
             "Cuckarooz29": null,
@@ -480,6 +499,7 @@
         "marketing_name": "Nvidia GeForce GTX 2060",
         "vendor": "nvidia",
         "ramSize": [6144],
+        "price": 329.99,
         "algos": {
             "Cuckarood29": 6,
             "Cuckarooz29": null,
@@ -505,6 +525,7 @@
         "marketing_name": "Nvidia GeForce GTX 2070",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 459.99,
         "algos": {
             "Cuckarood29": 7.60,
             "Cuckarooz29": 3.90,
@@ -530,6 +551,7 @@
         "marketing_name": "Nvidia GeForce GTX 2070 Super",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 529.99,
         "algos": {
             "Cuckarood29": 8.60,
             "Cuckarooz29": 4.60,
@@ -555,6 +577,7 @@
         "marketing_name": "Nvidia GeForce GTX 2080",
         "vendor": "nvidia",
         "ramSize": [8192],
+        "price": 749.99,
         "algos": {
             "Cuckarood29": 9.10,
             "Cuckarooz29": 4.95,
@@ -580,6 +603,7 @@
         "marketing_name": "Nvidia GeForce GTX 2080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
+        "price": 1466,
         "algos": {
             "Cuckarood29": 9.50,
             "Cuckarooz29": 7.20,
