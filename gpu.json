@@ -234,7 +234,7 @@
             "Equihash 125_4": null,
             "Equihash 144_5": null,
             "Equihash 192_7": null,
-            "BeamHash": 12,
+            "BeamHash": 24,
             "Ethash": 52,
             "MTP": null,
             "KAWPOW": null,
