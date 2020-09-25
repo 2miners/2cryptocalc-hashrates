@@ -515,7 +515,7 @@
     {
         "id": "2060",
         "name": "2060",
-        "marketing_name": "Nvidia GeForce GTX 2060",
+        "marketing_name": "Nvidia GeForce RTX 2060",
         "vendor": "nvidia",
         "ramSize": [6144],
         "price": 329.99,
@@ -542,7 +542,7 @@
     {
         "id": "2070",
         "name": "2070",
-        "marketing_name": "Nvidia GeForce GTX 2070",
+        "marketing_name": "Nvidia GeForce RTX 2070",
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 459.99,
@@ -569,7 +569,7 @@
     {
         "id": "2070S",
         "name": "2070S",
-        "marketing_name": "Nvidia GeForce GTX 2070 Super",
+        "marketing_name": "Nvidia GeForce RTX 2070 Super",
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 529.99,
@@ -596,7 +596,7 @@
     {
         "id": "2080",
         "name": "2080",
-        "marketing_name": "Nvidia GeForce GTX 2080",
+        "marketing_name": "Nvidia GeForce RTX 2080",
         "vendor": "nvidia",
         "ramSize": [8192],
         "price": 749.99,
@@ -623,7 +623,7 @@
     {
         "id": "2080Ti",
         "name": "2080Ti",
-        "marketing_name": "Nvidia GeForce GTX 2080 Ti",
+        "marketing_name": "Nvidia GeForce RTX 2080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
         "price": 1466,
