@@ -646,5 +646,32 @@
             "RandomX": 1.692,
             "Eaglesong": null
         }
+    },
+    {
+        "id": "3080",
+        "name": "3080",
+        "marketing_name": "Nvidia GeForce RTX 3080",
+        "vendor": "nvidia",
+        "ramSize": [10240],
+        "price": 820,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckarooz29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "Equihash 192_7": null,
+            "BeamHash": null,
+            "Ethash": 102,
+            "MTP": null,
+            "KAWPOW": 47,
+            "RandomX": null,
+            "Eaglesong": null
+        }
     }
 ]
