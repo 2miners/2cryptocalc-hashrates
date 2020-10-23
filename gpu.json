@@ -216,6 +216,33 @@
         }
     },
     {
+        "id": "5600XT",
+        "name": "5600XT",
+        "marketing_name": "AMD Radeon RX 5600XT",
+        "vendor": "amd",
+        "ramSize": [6144],
+        "price": 279,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": 3.75,
+            "Cuckarooz29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": 0.24,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": 30.90,
+            "Equihash 144_5": 54.80,
+            "Equihash 192_7": null,
+            "BeamHash": 18.90,
+            "Ethash": 38.30,
+            "MTP": null,
+            "KAWPOW": 15.06,
+            "RandomX": null,
+            "Eaglesong": null
+        }
+    },
+    {
         "id": "5700",
         "name": "5700",
         "marketing_name": "AMD Radeon RX 5700",
@@ -224,7 +251,7 @@
         "price": 400,
         "secondHand": false,
         "algos": {
-            "Cuckarood29": 3.50,
+            "Cuckarood29": 3.80,
             "Cuckarooz29": 4,
             "Cuckatoo31": 1.12,
             "Cuckatoo32": 0.40,
