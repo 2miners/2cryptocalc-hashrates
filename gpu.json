@@ -675,6 +675,33 @@
         }
     },
     {
+        "id": "3060Ti",
+        "name": "3060Ti",
+        "marketing_name": "Nvidia GeForce RTX 3060 Ti",
+        "vendor": "nvidia",
+        "ramSize": [8192],
+        "price": 399,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckarooz29": 5.77,
+            "Cuckatoo31": 10.50,
+            "Cuckatoo32": 0.53,
+            "CuckooCycle": 4.40,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": 54.9,
+            "Equihash 144_5": 98,
+            "BeamHash": 33.80,
+            "Ethash": 61,
+            "Etchash": 61,
+            "MTP": null,
+            "KAWPOW": 30.50,
+            "RandomX": null,
+            "Eaglesong": 1000
+        }
+    },
+    {
         "id": "3080",
         "name": "3080",
         "marketing_name": "Nvidia GeForce RTX 3080",
