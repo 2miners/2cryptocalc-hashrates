@@ -683,9 +683,9 @@
         "price": 399,
         "secondHand": false,
         "algos": {
-            "Cuckarood29": null,
+            "Cuckarood29": 10.50,
             "Cuckarooz29": 5.77,
-            "Cuckatoo31": 10.50,
+            "Cuckatoo31": null,
             "Cuckatoo32": 0.53,
             "CuckooCycle": 4.40,
             "CuckooCortex": null,
