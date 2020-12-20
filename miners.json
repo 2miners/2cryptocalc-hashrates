@@ -19,7 +19,12 @@
       "Cuckarood29": 2.5,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "Kerney666",
+      "todxx"
+    ],
+    "download": "https://github.com/todxx/teamredminer"
   },
   {
     "id": "lolminer",
@@ -41,7 +46,11 @@
       "Cuckarood29": 2,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "Lolliedieb"
+    ],
+    "download": "https://github.com/Lolliedieb"
   },
   {
     "id": "phoenix-miner",
@@ -63,7 +72,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "Phoenix"
+    ],
+    "download": "https://bitcointalk.org/index.php?topic=2647654.0"
   },
   {
     "id": "claymore",
@@ -85,7 +98,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "Claymore"
+    ],
+    "download": "https://bitcointalk.org/index.php?topic=1433925.0"
   },
   {
     "id": "cryptodredge",
@@ -107,7 +124,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "bugs_b_bunny"
+    ],
+    "download": "https://github.com/technobyl/CryptoDredge/releases"
   },
   {
     "id": "wildrig-multi",
@@ -129,7 +150,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "andru-kun"
+    ],
+    "download": "https://github.com/andru-kun/wildrig-multi/releases"
   },
   {
     "id": "nanominer",
@@ -151,7 +176,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "GrumpyDwarf"
+    ],
+    "download": "https://github.com/andru-kun/wildrig-multi/releases"
   },
   {
     "id": "t-rex",
@@ -173,7 +202,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "ikseg"
+    ],
+    "download": "https://github.com/trexminer/T-Rex/releases"
   },
   {
     "id": "gminer",
@@ -195,7 +228,11 @@
       "Cuckarood29": 2,
       "Equihash": 2,
       "Eaglesong": 2
-    }
+    },
+    "developer": [
+      "evgeniy_pochitaev"
+    ],
+    "download": "https://github.com/develsoftware/GMinerRelease/releases"
   },
   {
     "id": "ethminer",
@@ -217,7 +254,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "chfast"
+    ],
+    "download": "https://github.com/ethereum-mining/ethminer"
   },
   {
     "id": "xmr-stak",
@@ -239,7 +280,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "Fireice_uk"
+    ],
+    "download": "https://github.com/fireice-uk/xmr-stak"
   },
   {
     "id": "bminer",
@@ -261,7 +306,10 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+    ],
+    "download": "https://www.bminer.me/releases/"
   },
   {
     "id": "xmrig",
@@ -283,7 +331,11 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
-    }
+    },
+    "developer": [
+      "xmrig"
+    ],
+    "download": "https://github.com/xmrig"
   },
   {
     "id": "nbminer",
@@ -305,6 +357,8 @@
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": 2
-    }
+    },
+    "developer": [],
+    "download": "https://github.com/NebuTech/NBMiner/releases"
   }
 ]
