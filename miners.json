@@ -1,6 +1,6 @@
 [
   {
-    "id": "team_red_miner",
+    "id": "team-red-miner",
     "marketing_name": "Team Red Miner",
     "fee": {
       "Ethash": 1,
@@ -44,7 +44,7 @@
     }
   },
   {
-    "id": "phoenix_miner",
+    "id": "phoenix-miner",
     "marketing_name": "Phoenix miner",
     "fee": {
       "Ethash": 0.65,
@@ -110,7 +110,7 @@
     }
   },
   {
-    "id": "wildrig_multi",
+    "id": "wildrig-multi",
     "marketing_name": "Wildrig-Multi",
     "fee": {
       "Ethash": 1,
@@ -154,7 +154,7 @@
     }
   },
   {
-    "id": "t_rex",
+    "id": "t-rex",
     "marketing_name": "T-rex",
     "fee": {
       "Ethash": 1,
@@ -201,7 +201,7 @@
     "id": "ethminer",
     "marketing_name": "Ethminer",
     "fee": {
-      "Ethash": 0,
+      "Ethash": "0",
       "Etchash": null,
       "MTP": null,
       "CuckooCortex": null,
@@ -220,7 +220,7 @@
     }
   },
   {
-    "id": "xmr_stak",
+    "id": "xmr-stak",
     "marketing_name": "Xmr-stak",
     "fee": {
       "Ethash": null,
@@ -235,7 +235,7 @@
       "Cuckatoo31": null,
       "Cuckarooz29": null,
       "Cuckatoo32": null,
-      "RandomX": 0,
+      "RandomX": "0",
       "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
