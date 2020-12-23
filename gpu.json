@@ -567,6 +567,33 @@
         }
     },
     {
+        "id": "2060S",
+        "name": "2060S",
+        "marketing_name": "Nvidia GeForce RTX 2060 Super",
+        "vendor": "nvidia",
+        "ramSize": [8192],
+        "price": 399,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": 4.60,
+            "Cuckarooz29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": 22,
+            "Ethash": 42.50,
+            "Etchash": 44,
+            "MTP": null,
+            "KAWPOW": 22.20,
+            "RandomX": null,
+            "Eaglesong": null
+        }
+    },
+    {
         "id": "2070",
         "name": "2070",
         "marketing_name": "Nvidia GeForce RTX 2070",
