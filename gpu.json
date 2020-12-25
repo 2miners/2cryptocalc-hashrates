@@ -717,7 +717,7 @@
             "CuckooCycle": 4.40,
             "CuckooCortex": null,
             "Equihash": null,
-            "Equihash 125_4": 54.9,
+            "Equihash 125_4": 54.90,
             "Equihash 144_5": 98,
             "BeamHash": 33.80,
             "Ethash": 61,
@@ -726,6 +726,33 @@
             "KAWPOW": 30.50,
             "RandomX": null,
             "Eaglesong": 1000
+        }
+    },
+    {
+        "id": "3070",
+        "name": "3070",
+        "marketing_name": "Nvidia GeForce RTX 3070",
+        "vendor": "nvidia",
+        "ramSize": [8192],
+        "price": 580,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": 10.11,
+            "Cuckarooz29": 6.38,
+            "Cuckatoo31": null,
+            "Cuckatoo32": 0.71,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": 55.11,
+            "Equihash 144_5": null,
+            "BeamHash": 37,
+            "Ethash": 61.90,
+            "Etchash": 61.94,
+            "MTP": 4.80,
+            "KAWPOW": 33.40,
+            "RandomX": null,
+            "Eaglesong": null
         }
     },
     {
