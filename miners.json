@@ -24,7 +24,33 @@
       "Kerney666",
       "todxx"
     ],
-    "download": "https://github.com/todxx/teamredminer"
+    "download": "https://github.com/todxx/teamredminer",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-zxc": "",
+      "zxc": "",
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-mwc31": "",
+      "mwc31": "",
+      "solo-mwc29": "",
+      "mwc29": ""
+    }
   },
   {
     "id": "lolminer",
@@ -50,7 +76,45 @@
     "developer": [
       "Lolliedieb"
     ],
-    "download": "https://github.com/Lolliedieb"
+    "download": "https://github.com/Lolliedieb",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-ctxc": "",
+      "ctxc": "",
+      "solo-btg": "",
+      "btg": "",
+      "solo-btcz": "",
+      "btcz": "",
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-ae": "",
+      "ae": "",
+      "solo-zel": "",
+      "zel": "",
+      "solo-beam": "",
+      "beam": "",
+      "solo-mwc31": "",
+      "mwc31": "",
+      "solo-grin32": "",
+      "grin32": "",
+      "solo-mwc29": "",
+      "mwc29": ""
+    }
   },
   {
     "id": "phoenix-miner",
@@ -76,7 +140,67 @@
     "developer": [
       "Phoenix"
     ],
-    "download": "https://bitcointalk.org/index.php?topic=2647654.0"
+    "download": "https://bitcointalk.org/index.php?topic=2647654.0",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": ""
+    }
+  },
+  {
+    "id": "claymore",
+    "marketing_name": "Claymore",
+    "fee": {
+      "Ethash": 1,
+      "Etchash": null,
+      "MTP": null,
+      "CuckooCortex": null,
+      "Equihash 144_5": null,
+      "KAWPOW": null,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": null,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "Claymore"
+    ],
+    "download": "https://bitcointalk.org/index.php?topic=1433925.0",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": ""
+    }
   },
   {
     "id": "cryptodredge",
@@ -102,7 +226,17 @@
     "developer": [
       "bugs_b_bunny"
     ],
-    "download": "https://github.com/technobyl/CryptoDredge/releases"
+    "download": "https://github.com/technobyl/CryptoDredge/releases",
+    "runner": {
+      "solo-zxc": "",
+      "zxc": "",
+      "solo-ae": "",
+      "ae": "",
+      "solo-grin29": "",
+      "grin29": "",
+      "solo-grin32": "",
+      "grin32": ""
+    }
   },
   {
     "id": "wildrig-multi",
@@ -128,7 +262,27 @@
     "developer": [
       "andru-kun"
     ],
-    "download": "https://github.com/andru-kun/wildrig-multi/releases"
+    "download": "https://github.com/andru-kun/wildrig-multi/releases",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-zxc": "",
+      "zxc": "",
+      "solo-rvn": "",
+      "rvn": ""
+    }
   },
   {
     "id": "nanominer",
@@ -154,7 +308,31 @@
     "developer": [
       "GrumpyDwarf"
     ],
-    "download": "https://github.com/andru-kun/wildrig-multi/releases"
+    "download": "https://github.com/andru-kun/wildrig-multi/releases",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-ctxc": "",
+      "ctxc": "",
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-xmr": "",
+      "xmr": ""
+    }
   },
   {
     "id": "t-rex",
@@ -180,7 +358,28 @@
     "developer": [
       "ikseg"
     ],
-    "download": "https://github.com/trexminer/T-Rex/releases"
+    "download": "https://github.com/trexminer/T-Rex/releases",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-zxc": "",
+      "zxc": "",
+      "solo-rvn": "",
+      "rvn": ""
+    }
   },
   {
     "id": "gminer",
@@ -206,7 +405,59 @@
     "developer": [
       "evgeniy_pochitaev"
     ],
-    "download": "https://github.com/develsoftware/GMinerRelease/releases"
+    "download": "https://github.com/develsoftware/GMinerRelease/releases",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-zxc": "",
+      "zxc": "",
+      "solo-ctxc": "",
+      "ctxc": "",
+      "solo-btg": "",
+      "btg": "",
+      "solo-btcz": "",
+      "btcz": "",
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-ae": "",
+      "ae": "",
+      "solo-zel": "",
+      "zel": "",
+      "solo-beam": "",
+      "beam": "",
+      "solo-mwc31": "",
+      "mwc31": "",
+      "solo-grin29": "",
+      "grin29": "",
+      "solo-grin32": "",
+      "grin32": "",
+      "solo-xmr": "",
+      "xmr": "",
+      "solo-mwc29": "",
+      "mwc29": "",
+      "solo-zen": "",
+      "zen": "",
+      "solo-zec": "",
+      "zec": "",
+      "solo-kmd": "",
+      "kmd": "",
+      "solo-ckb": "",
+      "ckb": ""
+    }
   },
   {
     "id": "ethminer",
@@ -232,7 +483,23 @@
     "developer": [
       "chfast"
     ],
-    "download": "https://github.com/ethereum-mining/ethminer"
+    "download": "https://github.com/ethereum-mining/ethminer",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": ""
+    }
   },
   {
     "id": "xmr-stak",
@@ -258,7 +525,11 @@
     "developer": [
       "Fireice_uk"
     ],
-    "download": "https://github.com/fireice-uk/xmr-stak"
+    "download": "https://github.com/fireice-uk/xmr-stak",
+    "runner": {
+      "solo-xmr": "",
+      "xmr": ""
+    }
   },
   {
     "id": "bminer",
@@ -283,7 +554,33 @@
     },
     "developer": [
     ],
-    "download": "https://www.bminer.me/releases/"
+    "download": "https://www.bminer.me/releases/",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-btg": "",
+      "btg": "",
+      "solo-btcz": "",
+      "btcz": "",
+      "solo-grin29": "",
+      "grin29": "",
+      "solo-grin32": "",
+      "grin32": ""
+    }
   },
   {
     "id": "xmrig",
@@ -309,7 +606,13 @@
     "developer": [
       "xmrig"
     ],
-    "download": "https://github.com/xmrig"
+    "download": "https://github.com/xmrig",
+    "runner": {
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-xmr": "",
+      "xmr": ""
+    }
   },
   {
     "id": "nbminer",
@@ -333,6 +636,38 @@
       "Eaglesong": 2
     },
     "developer": [],
-    "download": "https://github.com/NebuTech/NBMiner/releases"
+    "download": "https://github.com/NebuTech/NBMiner/releases",
+    "runner": {
+      "solo-eth": "",
+      "eth": "",
+      "solo-moac": "",
+      "moac": "",
+      "solo-dbix": "",
+      "dbix": "",
+      "solo-etp": "",
+      "etp": "",
+      "solo-clo": "",
+      "clo": "",
+      "solo-exp": "",
+      "exp": "",
+      "solo-aka": "",
+      "aka": "",
+      "solo-etc": "",
+      "etc": "",
+      "solo-ctxc": "",
+      "ctxc": "",
+      "solo-rvn": "",
+      "rvn": "",
+      "solo-ae": "",
+      "ae": "",
+      "solo-beam": "",
+      "beam": "",
+      "solo-grin29": "",
+      "grin29": "",
+      "solo-grin32": "",
+      "grin32": "",
+      "solo-ckb": "",
+      "ckb": ""
+    }
   }
 ]
