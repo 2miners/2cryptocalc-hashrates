@@ -161,48 +161,6 @@
     }
   },
   {
-    "id": "claymore",
-    "marketing_name": "Claymore",
-    "fee": {
-      "Ethash": 1,
-      "Etchash": null,
-      "MTP": null,
-      "CuckooCortex": null,
-      "Equihash 144_5": null,
-      "KAWPOW": null,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "Claymore"
-    ],
-    "download": "https://bitcointalk.org/index.php?topic=1433925.0",
-    "runner": {
-      "solo-eth": "",
-      "eth": "",
-      "solo-moac": "",
-      "moac": "",
-      "solo-dbix": "",
-      "dbix": "",
-      "solo-etp": "",
-      "etp": "",
-      "solo-clo": "",
-      "clo": "",
-      "solo-exp": "",
-      "exp": "",
-      "solo-aka": "",
-      "aka": ""
-    }
-  },
-  {
     "id": "cryptodredge",
     "marketing_name": "Cryptodredge",
     "fee": {
