@@ -26,18 +26,18 @@
     ],
     "download": "https://github.com/todxx/teamredminer",
     "runner": {
-      "eth": "",
-      "moac": "",
-      "dbix": "",
-      "etp": "",
-      "clo": "",
-      "exp": "",
-      "aka": "",
-      "etc": "",
-      "xzc": "",
+      "eth": "teamredminer.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
+      "moac": "teamredminer.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
+      "dbix": "teamredminer.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etp": "teamredminer.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
+      "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "aka": "teamredminer.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
+      "xzc": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
-      "mwc31": "",
-      "mwc29": ""
+      "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x",
+      "mwc29": "teamredminer.exe -a cuckarood29_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
     }
   },
   {
@@ -67,12 +67,12 @@
     "download": "https://github.com/Lolliedieb",
     "runner": {
       "eth": "lolMiner.exe --algo ETHASH --pool eth.2miners.com:2020 --user YOUR_ADDRESS.RIG_ID",
-      "moac": "",
-      "dbix": "",
+      "moac": "lolMiner.exe --algo ETHASH --pool s1.solopool.org:8007 --user YOUR_ADDRESS.RIG_ID",
+      "dbix": "lolMiner.exe --algo ETHASH --pool dbix.clona.ru:5081 --user YOUR_ADDRESS.RIG_ID",
       "etp": "lolMiner.exe --algo ETHASH --pool etp.2miners.com:9292 --user YOUR_ADDRESS.RIG_ID",
       "clo": "lolMiner.exe --algo ETHASH --pool clo.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
       "exp": "lolMiner.exe --algo ETHASH --pool exp.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
-      "aka": "",
+      "aka": "lolMiner.exe --algo ETHASH --pool aka.clona.ru:9022 --user YOUR_ADDRESS.RIG_ID",
       "etc": "lolMiner.exe --algo ETCHASH --pool etc.2miners.com:1010 --user YOUR_ADDRESS.RIG_ID",
       "ctxc": "lolMiner.exe --coin CTXC --pool ctxc.2miners.com:2222 --user YOUR_LOGIN.RIG_ID",
       "btg": "",
@@ -112,14 +112,14 @@
     ],
     "download": "https://bitcointalk.org/index.php?topic=2647654.0",
     "runner": {
-      "eth": "",
-      "moac": "",
-      "dbix": "",
-      "etp": "",
-      "clo": "",
-      "exp": "",
-      "aka": "",
-      "etc": ""
+      "eth": "PhoenixMiner.exe -pool eth.2miners.com:2020 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin eth",
+      "moac": "PhoenixMiner.exe -pool moac.clona.ru:2026 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin moac",
+      "dbix": "PhoenixMiner.exe -pool dbix.clona.ru:5081 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
+      "etp": "PhoenixMiner.exe -pool etp.2miners.com:9292 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etp",
+      "clo": "PhoenixMiner.exe -pool clo.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin clo",
+      "exp": "PhoenixMiner.exe -pool exp.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin exp",
+      "aka": "PhoenixMiner.exe -pool aka.clona.ru:9022 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
+      "etc": "PhoenixMiner.exe -pool etc.2miners.com:1010 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etc"
     }
   },
   {
@@ -136,8 +136,8 @@
       "Equihash 125_4": null,
       "BeamHash": null,
       "Cuckatoo31": null,
-      "Cuckarooz29": 1,
-      "Cuckatoo32": 1,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
       "RandomX": null,
       "Cuckarood29": null,
       "Equihash": null,
@@ -149,9 +149,7 @@
     "download": "https://github.com/technobyl/CryptoDredge/releases",
     "runner": {
       "xzc": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
-      "ae": "",
-      "grin29": "",
-      "grin32": ""
+      "ae": "CryptoDredge.exe -a aeternity -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
   {
@@ -257,13 +255,13 @@
     "download": "https://github.com/trexminer/T-Rex/releases",
     "runner": {
       "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
-      "moac": "",
-      "dbix": "",
+      "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
+      "dbix": "t-rex.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
       "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
       "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "aka": "",
-      "etc": "t-rex.exe -a ethash --coin etc -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --fork-at etchash=epoch:390",
+      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
       "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
@@ -295,12 +293,12 @@
     "download": "https://github.com/develsoftware/GMinerRelease/releases",
     "runner": {
       "eth": "miner.exe --algo ethash --server eth.2miners.com:2020 --user YOUR_ADDRESS.RIG_ID",
-      "moac": "",
-      "dbix": "",
+      "moac": "miner.exe --algo ethash --server s1.solopool.org:8007 --user YOUR_ADDRESS.RIG_ID",
+      "dbix": "miner.exe --algo ethash --server dbix.clona.ru:5081 --user YOUR_ADDRESS.RIG_ID",
       "etp": "miner.exe --algo ethash --server etp.2miners.com:9292 --user YOUR_ADDRESS.RIG_ID",
       "clo": "miner.exe --algo ethash --server clo.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
       "exp": "miner.exe --algo ethash --server exp.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
-      "aka": "",
+      "aka": "miner.exe --algo ethash --server aka.clona.ru:9022 --user YOUR_ADDRESS.RIG_ID",
       "etc": "miner.exe --algo etchash --server etc.2miners.com:1010 --user YOUR_ADDRESS.RIG_ID",
       "xzc": "",
       "ctxc": "miner.exe --algo cortex --server ctxc.2miners.com --port 2222 --user YOUR_ADDRESS.RIG_ID",
@@ -347,13 +345,13 @@
     ],
     "download": "https://github.com/ethereum-mining/ethminer",
     "runner": {
-      "eth": "",
-      "moac": "",
-      "dbix": "",
-      "etp": "",
-      "clo": "",
-      "exp": "",
-      "aka": ""
+      "eth": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@eth.2miners.com:2020",
+      "moac": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@s1.solopool.org:8007",
+      "dbix": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@dbix.clona.ru:5081",
+      "etp": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@etp.2miners.com:9292",
+      "clo": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@clo.2miners.com:3030",
+      "exp": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030",
+      "aka": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@aka.clona.ru:9022"
     }
   },
   {
