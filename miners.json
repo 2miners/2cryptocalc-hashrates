@@ -34,7 +34,7 @@
       "exp": "",
       "aka": "",
       "etc": "",
-      "zxc": "",
+      "xzc": "",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
       "mwc31": "",
       "mwc29": ""
@@ -148,7 +148,7 @@
     ],
     "download": "https://github.com/technobyl/CryptoDredge/releases",
     "runner": {
-      "zxc": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "xzc": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "ae": "",
       "grin29": "",
       "grin32": ""
@@ -187,7 +187,7 @@
       "clo": "",
       "exp": "",
       "aka": "",
-      "zxc": "",
+      "xzc": "",
       "rvn": ""
     }
   },
@@ -264,7 +264,7 @@
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "aka": "",
       "etc": "t-rex.exe -a ethash --coin etc -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --fork-at etchash=epoch:390",
-      "zxc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
@@ -302,7 +302,7 @@
       "exp": "miner.exe --algo ethash --server exp.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
       "aka": "",
       "etc": "miner.exe --algo etchash --server etc.2miners.com:1010 --user YOUR_ADDRESS.RIG_ID",
-      "zxc": "",
+      "xzc": "",
       "ctxc": "miner.exe --algo cortex --server ctxc.2miners.com --port 2222 --user YOUR_ADDRESS.RIG_ID",
       "btg": "miner.exe --algo 144_5 --pers BgoldPoW --server btg.2miners.com --port 4040 --user YOUR_ADDRESS.RIG_ID --pass x",
       "btcz": "",
