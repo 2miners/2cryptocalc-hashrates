@@ -1,43 +1,38 @@
 [
   {
-    "id": "team-red-miner",
-    "marketing_name": "Team Red Miner",
+    "id": "phoenix-miner",
+    "marketing_name": "Phoenix miner",
     "fee": {
-      "Ethash": 1,
-      "Etchash": 1,
-      "MTP": 2.5,
+      "Ethash": 0.65,
+      "Etchash": 0.65,
+      "MTP": null,
       "CuckooCortex": null,
       "Equihash 144_5": null,
-      "KAWPOW": 2,
+      "KAWPOW": null,
       "CuckooCycle": null,
       "Equihash 125_4": null,
       "BeamHash": null,
-      "Cuckatoo31": 2.5,
+      "Cuckatoo31": null,
       "Cuckarooz29": null,
       "Cuckatoo32": null,
       "RandomX": null,
-      "Cuckarood29": 2.5,
+      "Cuckarood29": null,
       "Equihash": null,
       "Eaglesong": null
     },
     "developer": [
-      "Kerney666",
-      "todxx"
+      "Phoenix"
     ],
-    "download": "https://github.com/todxx/teamredminer/releases",
+    "download": "https://bitcointalk.org/index.php?topic=2647654.0",
     "runner": {
-      "eth": "teamredminer.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
-      "moac": "teamredminer.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
-      "dbix": "teamredminer.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etp": "teamredminer.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
-      "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "aka": "teamredminer.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
-      "xzc": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
-      "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
-      "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x",
-      "mwc29": "teamredminer.exe -a cuckarood29_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
+      "eth": "PhoenixMiner.exe -pool eth.2miners.com:2020 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin eth",
+      "moac": "PhoenixMiner.exe -pool moac.clona.ru:2026 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin moac",
+      "dbix": "PhoenixMiner.exe -pool dbix.clona.ru:5081 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
+      "etp": "PhoenixMiner.exe -pool etp.2miners.com:9292 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etp",
+      "clo": "PhoenixMiner.exe -pool clo.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin clo",
+      "exp": "PhoenixMiner.exe -pool exp.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin exp",
+      "aka": "PhoenixMiner.exe -pool aka.clona.ru:9022 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
+      "etc": "PhoenixMiner.exe -pool etc.2miners.com:1010 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etc"
     }
   },
   {
@@ -83,179 +78,6 @@
       "mwc31": "lolMiner.exe --coin MWC-C31 --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "lolMiner.exe --coin GRIN-C32 --pool grin.2miners.com:3030 --user YOUR_LOGIN.RIG_ID",
       "mwc29": "lolMiner.exe --coin MWC-C29D --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID"
-    }
-  },
-  {
-    "id": "phoenix-miner",
-    "marketing_name": "Phoenix miner",
-    "fee": {
-      "Ethash": 0.65,
-      "Etchash": 0.65,
-      "MTP": null,
-      "CuckooCortex": null,
-      "Equihash 144_5": null,
-      "KAWPOW": null,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "Phoenix"
-    ],
-    "download": "https://bitcointalk.org/index.php?topic=2647654.0",
-    "runner": {
-      "eth": "PhoenixMiner.exe -pool eth.2miners.com:2020 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin eth",
-      "moac": "PhoenixMiner.exe -pool moac.clona.ru:2026 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin moac",
-      "dbix": "PhoenixMiner.exe -pool dbix.clona.ru:5081 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
-      "etp": "PhoenixMiner.exe -pool etp.2miners.com:9292 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etp",
-      "clo": "PhoenixMiner.exe -pool clo.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin clo",
-      "exp": "PhoenixMiner.exe -pool exp.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin exp",
-      "aka": "PhoenixMiner.exe -pool aka.clona.ru:9022 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
-      "etc": "PhoenixMiner.exe -pool etc.2miners.com:1010 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etc"
-    }
-  },
-  {
-    "id": "cryptodredge",
-    "marketing_name": "Cryptodredge",
-    "fee": {
-      "Ethash": null,
-      "Etchash": null,
-      "MTP": 2,
-      "CuckooCortex": null,
-      "Equihash 144_5": null,
-      "KAWPOW": null,
-      "CuckooCycle": 1,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "bugs_b_bunny"
-    ],
-    "download": "https://github.com/technobyl/CryptoDredge/releases",
-    "runner": {
-      "xzc": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
-      "ae": "CryptoDredge.exe -a aeternity -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID -p x"
-    }
-  },
-  {
-    "id": "wildrig-multi",
-    "marketing_name": "Wildrig-Multi",
-    "fee": {
-      "Ethash": null,
-      "Etchash": null,
-      "MTP": 1,
-      "CuckooCortex": null,
-      "Equihash 144_5": null,
-      "KAWPOW": 1,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "andru-kun"
-    ],
-    "download": "https://github.com/andru-kun/wildrig-multi/releases",
-    "runner": {
-      "xzc": "wildrig.exe --print-full --algo mtp --url stratum+tcp://xzc.2miners.com:8080 --worker RIG_ID --user YOUR_ADDRESS --pass x",
-      "rvn": "wildrig.exe --print-full --algo kawpow --url stratum+tcp://rvn.2miners.com:6060 --worker RIG_ID --user YOUR_ADDRESS --pass x"
-    }
-  },
-  {
-    "id": "nanominer",
-    "marketing_name": "Nanominer",
-    "fee": {
-      "Ethash": 1,
-      "Etchash": 1,
-      "MTP": null,
-      "CuckooCortex": 5,
-      "Equihash 144_5": null,
-      "KAWPOW": 2,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": 2,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "GrumpyDwarf"
-    ],
-    "download": "https://github.com/nanopool/nanominer/releases",
-    "runner": {
-      "eth": "nanominer.exe -algo ethash -coin eth -pool1 eth.2miners.com:2020 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "moac": "nanominer.exe -algo ethash -pool1 moac.clona.ru:2026 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "dbix": "nanominer.exe -algo ethash -pool1 dbix.clona.ru:5081 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "etp": "nanominer.exe -algo ethash -pool1 etp.2miners.com:9292 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "clo": "nanominer.exe -algo ethash -pool1 clo.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "exp": "nanominer.exe -algo ethash -pool1 exp.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "aka": "nanominer.exe -algo ethash -pool1 aka.clona.ru:9022 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "etc": "nanominer.exe -algo etchash -coin etc -pool1 etc.2miners.com:1010 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "ctxc": "nanominer.exe -algo cuckaroo30 -pool1 ctxc.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "rvn": "nanominer.exe -algo kawpow -coin rvn -pool1 rvn.2miners.com:6060 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "xmr": "nanominer.exe -algo randomx -coin xmr -pool1 xmr.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID"
-    }
-  },
-  {
-    "id": "t-rex",
-    "marketing_name": "T-rex",
-    "fee": {
-      "Ethash": 1,
-      "Etchash": 1,
-      "MTP": 1,
-      "CuckooCortex": null,
-      "Equihash 144_5": null,
-      "KAWPOW": 1,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": null,
-      "Cuckatoo32": null,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-      "ikseg"
-    ],
-    "download": "https://github.com/trexminer/T-Rex/releases",
-    "runner": {
-      "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
-      "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
-      "dbix": "t-rex.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
-      "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
-      "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
-      "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
   {
@@ -307,6 +129,85 @@
     }
   },
   {
+    "id": "t-rex",
+    "marketing_name": "T-rex",
+    "fee": {
+      "Ethash": 1,
+      "Etchash": 1,
+      "MTP": 1,
+      "CuckooCortex": null,
+      "Equihash 144_5": null,
+      "KAWPOW": 1,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": null,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "ikseg"
+    ],
+    "download": "https://github.com/trexminer/T-Rex/releases",
+    "runner": {
+      "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
+      "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
+      "dbix": "t-rex.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
+      "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
+      "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
+    }
+  },
+  {
+    "id": "team-red-miner",
+    "marketing_name": "Team Red Miner",
+    "fee": {
+      "Ethash": 1,
+      "Etchash": 1,
+      "MTP": 2.5,
+      "CuckooCortex": null,
+      "Equihash 144_5": null,
+      "KAWPOW": 2,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": 2.5,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": null,
+      "Cuckarood29": 2.5,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "Kerney666",
+      "todxx"
+    ],
+    "download": "https://github.com/todxx/teamredminer/releases",
+    "runner": {
+      "eth": "teamredminer.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
+      "moac": "teamredminer.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
+      "dbix": "teamredminer.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etp": "teamredminer.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
+      "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
+      "aka": "teamredminer.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
+      "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
+      "xzc": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
+      "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x",
+      "mwc29": "teamredminer.exe -a cuckarood29_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
+    }
+  },
+  {
     "id": "ethminer",
     "marketing_name": "Ethminer",
     "fee": {
@@ -342,6 +243,45 @@
     }
   },
   {
+    "id": "nanominer",
+    "marketing_name": "Nanominer",
+    "fee": {
+      "Ethash": 1,
+      "Etchash": 1,
+      "MTP": null,
+      "CuckooCortex": 5,
+      "Equihash 144_5": null,
+      "KAWPOW": 2,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": 2,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "GrumpyDwarf"
+    ],
+    "download": "https://github.com/nanopool/nanominer/releases",
+    "runner": {
+      "eth": "nanominer.exe -algo ethash -coin eth -pool1 eth.2miners.com:2020 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "moac": "nanominer.exe -algo ethash -pool1 moac.clona.ru:2026 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "dbix": "nanominer.exe -algo ethash -pool1 dbix.clona.ru:5081 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "etp": "nanominer.exe -algo ethash -pool1 etp.2miners.com:9292 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "clo": "nanominer.exe -algo ethash -pool1 clo.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "exp": "nanominer.exe -algo ethash -pool1 exp.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "aka": "nanominer.exe -algo ethash -pool1 aka.clona.ru:9022 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "etc": "nanominer.exe -algo etchash -coin etc -pool1 etc.2miners.com:1010 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "ctxc": "nanominer.exe -algo cuckaroo30 -pool1 ctxc.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "rvn": "nanominer.exe -algo kawpow -coin rvn -pool1 rvn.2miners.com:6060 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "xmr": "nanominer.exe -algo randomx -coin xmr -pool1 xmr.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID"
+    }
+  },
+  {
     "id": "xmr-stak",
     "marketing_name": "Xmr-stak",
     "fee": {
@@ -368,47 +308,6 @@
     "download": "https://github.com/fireice-uk/xmr-stak/releases",
     "runner": {
       "xmr": "Run xmr-stak-rx.exe and generate config file"
-    }
-  },
-  {
-    "id": "bminer",
-    "marketing_name": "Bminer",
-    "fee": {
-      "Ethash": 0.65,
-      "Etchash": null,
-      "MTP": null,
-      "CuckooCortex": null,
-      "Equihash 144_5": 2,
-      "KAWPOW": null,
-      "CuckooCycle": null,
-      "Equihash 125_4": null,
-      "BeamHash": null,
-      "Cuckatoo31": null,
-      "Cuckarooz29": 1,
-      "Cuckatoo32": 1,
-      "RandomX": null,
-      "Cuckarood29": null,
-      "Equihash": null,
-      "Eaglesong": null
-    },
-    "developer": [
-    ],
-    "download": "https://www.bminer.me/releases/",
-    "runner": {
-      "eth": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@eth.2miners.com:2020",
-      "moac": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@s1.solopool.org:8007",
-      "dbix": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@dbix.clona.ru:5081",
-      "etp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@etp.2miners.com:9292",
-      "clo": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@clo.2miners.com:3030",
-      "exp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030",
-      "aka": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@aka.clona.ru:9022",
-      "btg": "bminer.exe -uri zhash://YOUR_ADDRESS.RIG_ID@btg.2miners.com:4040",
-      "btcz": "bminer.exe -uri equihash1445://YOUR_ADDRESS.RIG_ID@btcz.altpool.pro:3072 -pers auto",
-      "grin29": "bminer.exe -uri cuckaroo29z://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
-      "grin32": "bminer.exe -uri cuckatoo32://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
-      "mwc29": "bminer.exe -uri cuckaroo29d://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
-      "mwc31": "bminer.exe -uri cuckatoo31://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
-      "beam": "bminer.exe -uri beam+ssl://YOUR_ADDRESS.RIG_ID:x@beam.2miners.com:5252"
     }
   },
   {
@@ -479,6 +378,107 @@
       "mwc29": "nbminer.exe -a cuckarood -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID",
       "mwc31": "nbminer.exe -a cuckatoo31 -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID",
       "grin32": "nbminer.exe -a cuckatoo32 -o stratum+tcp://grin.2miners.com:3030 -u YOUR_LOGIN.RIG_ID"
+    }
+  },
+  {
+    "id": "cryptodredge",
+    "marketing_name": "Cryptodredge",
+    "fee": {
+      "Ethash": null,
+      "Etchash": null,
+      "MTP": 2,
+      "CuckooCortex": null,
+      "Equihash 144_5": null,
+      "KAWPOW": null,
+      "CuckooCycle": 1,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": null,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "bugs_b_bunny"
+    ],
+    "download": "https://github.com/technobyl/CryptoDredge/releases",
+    "runner": {
+      "xzc": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "ae": "CryptoDredge.exe -a aeternity -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID -p x"
+    }
+  },
+  {
+    "id": "wildrig-multi",
+    "marketing_name": "Wildrig-Multi",
+    "fee": {
+      "Ethash": null,
+      "Etchash": null,
+      "MTP": 1,
+      "CuckooCortex": null,
+      "Equihash 144_5": null,
+      "KAWPOW": 1,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": null,
+      "Cuckatoo32": null,
+      "RandomX": null,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+      "andru-kun"
+    ],
+    "download": "https://github.com/andru-kun/wildrig-multi/releases",
+    "runner": {
+      "xzc": "wildrig.exe --print-full --algo mtp --url stratum+tcp://xzc.2miners.com:8080 --worker RIG_ID --user YOUR_ADDRESS --pass x",
+      "rvn": "wildrig.exe --print-full --algo kawpow --url stratum+tcp://rvn.2miners.com:6060 --worker RIG_ID --user YOUR_ADDRESS --pass x"
+    }
+  },
+  {
+    "id": "bminer",
+    "marketing_name": "Bminer",
+    "fee": {
+      "Ethash": 0.65,
+      "Etchash": null,
+      "MTP": null,
+      "CuckooCortex": null,
+      "Equihash 144_5": 2,
+      "KAWPOW": null,
+      "CuckooCycle": null,
+      "Equihash 125_4": null,
+      "BeamHash": null,
+      "Cuckatoo31": null,
+      "Cuckarooz29": 1,
+      "Cuckatoo32": 1,
+      "RandomX": null,
+      "Cuckarood29": null,
+      "Equihash": null,
+      "Eaglesong": null
+    },
+    "developer": [
+    ],
+    "download": "https://www.bminer.me/releases/",
+    "runner": {
+      "eth": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@eth.2miners.com:2020",
+      "moac": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@s1.solopool.org:8007",
+      "dbix": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@dbix.clona.ru:5081",
+      "etp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@etp.2miners.com:9292",
+      "clo": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@clo.2miners.com:3030",
+      "exp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030",
+      "aka": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@aka.clona.ru:9022",
+      "btg": "bminer.exe -uri zhash://YOUR_ADDRESS.RIG_ID@btg.2miners.com:4040",
+      "btcz": "bminer.exe -uri equihash1445://YOUR_ADDRESS.RIG_ID@btcz.altpool.pro:3072 -pers auto",
+      "grin29": "bminer.exe -uri cuckaroo29z://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
+      "grin32": "bminer.exe -uri cuckatoo32://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
+      "mwc29": "bminer.exe -uri cuckaroo29d://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
+      "mwc31": "bminer.exe -uri cuckatoo31://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
+      "beam": "bminer.exe -uri beam+ssl://YOUR_ADDRESS.RIG_ID:x@beam.2miners.com:5252"
     }
   }
 ]
