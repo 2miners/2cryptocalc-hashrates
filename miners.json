@@ -282,8 +282,8 @@
     }
   },
   {
-    "id": "xmr-stak",
-    "marketing_name": "Xmr-stak",
+    "id": "xmr-stak-rx",
+    "marketing_name": "Xmr-stak-rx",
     "fee": {
       "Ethash": null,
       "Etchash": null,
