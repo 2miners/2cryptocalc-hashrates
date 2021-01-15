@@ -9,7 +9,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 1.60,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 1.80,
@@ -36,7 +35,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 1.90,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 2.00,
@@ -63,7 +61,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 1.60,
-            "Cuckarooz29": 2.10,
             "Cuckatoo31": 0.67,
             "Cuckatoo32": 0.18,
             "CuckooCycle": 1.80,
@@ -90,7 +87,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 1.80,
-            "Cuckarooz29": 2.20,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.23,
             "CuckooCycle": 2,
@@ -117,7 +113,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 2.30,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 2.6,
@@ -144,7 +139,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 3.20,
-            "Cuckarooz29": 3.70,
             "Cuckatoo31": 1.15,
             "Cuckatoo32": 0.42,
             "CuckooCycle": 3.20,
@@ -171,7 +165,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 4,
-            "Cuckarooz29": 4.20,
             "Cuckatoo31": 1.37,
             "Cuckatoo32": 0.49,
             "CuckooCycle": 4.40,
@@ -198,7 +191,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 5,
-            "Cuckarooz29": 6,
             "Cuckatoo31": 2.05,
             "Cuckatoo32": 0.77,
             "CuckooCycle": 5,
@@ -225,7 +217,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 3.75,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.24,
             "CuckooCycle": null,
@@ -252,7 +243,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 3.80,
-            "Cuckarooz29": 4,
             "Cuckatoo31": 1.12,
             "Cuckatoo32": 0.40,
             "CuckooCycle": null,
@@ -279,7 +269,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 2.12,
@@ -306,7 +295,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 3.20,
-            "Cuckarooz29": 1.70,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 3,
@@ -333,7 +321,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 4.50,
-            "Cuckarooz29": 2.60,
             "Cuckatoo31": 0.86,
             "Cuckatoo32": null,
             "CuckooCycle": 5,
@@ -360,7 +347,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 6.30,
-            "Cuckarooz29": 2.85,
             "Cuckatoo31": 0.86,
             "Cuckatoo32": 0.27,
             "CuckooCycle": 6.20,
@@ -387,7 +373,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 6.10,
-            "Cuckarooz29": 2.80,
             "Cuckatoo31": 0.93,
             "Cuckatoo32": 0.27,
             "CuckooCycle": 5.90,
@@ -414,7 +399,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 6.50,
-            "Cuckarooz29": 3.50,
             "Cuckatoo31": 1.00,
             "Cuckatoo32": 0.33,
             "CuckooCycle": 6,
@@ -441,7 +425,6 @@
         "secondHand": true,
         "algos": {
             "Cuckarood29": 8.10,
-            "Cuckarooz29": 4.80,
             "Cuckatoo31": 1.62,
             "Cuckatoo32": 0.56,
             "CuckooCycle": 8,
@@ -468,7 +451,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 4,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 3.50,
@@ -495,7 +477,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 5.1,
-            "Cuckarooz29": 3,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.26,
             "CuckooCycle": null,
@@ -522,7 +503,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 5,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 4.30,
@@ -549,7 +529,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 6,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": 5.90,
@@ -576,7 +555,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 4.60,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": null,
             "CuckooCycle": null,
@@ -603,7 +581,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 7.60,
-            "Cuckarooz29": 3.90,
             "Cuckatoo31": 1.33,
             "Cuckatoo32": null,
             "CuckooCycle": 7.50,
@@ -630,7 +607,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 8.60,
-            "Cuckarooz29": 4.60,
             "Cuckatoo31": 1.51,
             "Cuckatoo32": 0.47,
             "CuckooCycle": 8.22,
@@ -657,7 +633,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 9.10,
-            "Cuckarooz29": 4.95,
             "Cuckatoo31": 1.65,
             "Cuckatoo32": 0.48,
             "CuckooCycle": 9,
@@ -684,7 +659,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 9.50,
-            "Cuckarooz29": 7.20,
             "Cuckatoo31": 2.45,
             "Cuckatoo32": 0.81,
             "CuckooCycle": 11,
@@ -711,7 +685,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 10.50,
-            "Cuckarooz29": 5.77,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.53,
             "CuckooCycle": 4.40,
@@ -738,7 +711,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 10.11,
-            "Cuckarooz29": 6.38,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.71,
             "CuckooCycle": null,
@@ -765,7 +737,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": 0.95,
             "CuckooCycle": 10,
@@ -792,7 +763,6 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
-            "Cuckarooz29": null,
             "Cuckatoo31": null,
             "Cuckatoo32": 1.10,
             "CuckooCycle": 10.20,
