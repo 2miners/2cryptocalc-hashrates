@@ -260,17 +260,17 @@
     ],
     "download": "https://github.com/nanopool/nanominer/releases",
     "runner": {
-      "eth": "nanominer.exe -algo ethash -coin eth -pool1 eth.2miners.com:2020 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "moac": "nanominer.exe -algo ethash -pool1 moac.clona.ru:2026 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "dbix": "nanominer.exe -algo ethash -pool1 dbix.clona.ru:5081 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "etp": "nanominer.exe -algo ethash -pool1 etp.2miners.com:9292 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "clo": "nanominer.exe -algo ethash -pool1 clo.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "exp": "nanominer.exe -algo ethash -pool1 exp.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "aka": "nanominer.exe -algo ethash -pool1 aka.clona.ru:9022 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "etc": "nanominer.exe -algo etchash -coin etc -pool1 etc.2miners.com:1010 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "ctxc": "nanominer.exe -algo cuckaroo30 -pool1 ctxc.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "rvn": "nanominer.exe -algo kawpow -coin rvn -pool1 rvn.2miners.com:6060 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "xmr": "nanominer.exe -algo randomx -coin xmr -pool1 xmr.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID"
+      "eth": "cmdline_launcher.bat -algo ethash -coin eth -pool1 eth.2miners.com:2020 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "moac": "cmdline_launcher.bat -algo ethash -pool1 moac.clona.ru:2026 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "dbix": "cmdline_launcher.bat -algo ethash -pool1 dbix.clona.ru:5081 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "etp": "cmdline_launcher.bat -algo ethash -pool1 etp.2miners.com:9292 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "clo": "cmdline_launcher.bat -algo ethash -pool1 clo.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "exp": "cmdline_launcher.bat -algo ethash -pool1 exp.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "aka": "cmdline_launcher.bat -algo ethash -pool1 aka.clona.ru:9022 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "etc": "cmdline_launcher.bat -algo etchash -coin etc -pool1 etc.2miners.com:1010 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "ctxc": "cmdline_launcher.bat -algo cuckaroo30 -pool1 ctxc.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "rvn": "cmdline_launcher.bat -algo kawpow -coin rvn -pool1 rvn.2miners.com:6060 -wallet YOUR_ADDRESS -rigName RIG_ID",
+      "xmr": "cmdline_launcher.bat -algo randomx -coin xmr -pool1 xmr.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID"
     }
   },
   {
