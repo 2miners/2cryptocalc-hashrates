@@ -149,14 +149,14 @@
     ],
     "download": "https://github.com/trexminer/T-Rex/releases",
     "runner": {
-      "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS.RIG_ID -p x",
-      "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS.RIG_ID -p x",
-      "dbix": "t-rex.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
-      "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
-      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
+      "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "dbix": "t-rex.exe -a ethash -o stratum+tcp://dbix.clona.ru:5081 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS -w RIG_ID -p x",
+      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
       "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
