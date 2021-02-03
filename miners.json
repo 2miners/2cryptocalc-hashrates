@@ -74,8 +74,7 @@
       "zel": "lolMiner.exe --coin ZEL --pool zel.2miners.com:9090 --user YOUR_ADDRESS.RIG_ID",
       "beam": "lolMiner.exe --coin BEAM --pool beam.2miners.com:5252 --user YOUR_ADDRESS.RIG_ID",
       "mwc31": "lolMiner.exe --coin MWC-C31 --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID",
-      "grin32": "lolMiner.exe --coin GRIN-C32 --pool grin.2miners.com:3030 --user YOUR_LOGIN.RIG_ID",
-      "mwc29": "lolMiner.exe --coin MWC-C29D --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID"
+      "grin32": "lolMiner.exe --coin GRIN-C32 --pool grin.2miners.com:3030 --user YOUR_LOGIN.RIG_ID"
     }
   },
   {
@@ -120,7 +119,6 @@
       "beam": "miner.exe --algo beamhash --server beam.2miners.com --port 5252 --ssl 1 --user YOUR_ADDRESS.RIG_ID --pass x",
       "mwc31": "miner.exe --algo grin31 --server mwc.2miners.com --port 1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "miner.exe --algo grin32 --server grin.2miners.com --port 3030 --user YOUR_LOGIN.RIG_ID",
-      "mwc29": "miner.exe --algo cuckarood29 --server mwc.2miners.com --port 1111 --user YOUR_LOGIN.RIG_ID",
       "ckb": "miner.exe --algo eaglesong --server ckb.2miners.com:6464 --user YOUR_ADDRESS.RIG_ID --pass x"
     }
   },
@@ -197,8 +195,7 @@
       "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
       "xzc": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
-      "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x",
-      "mwc29": "teamredminer.exe -a cuckarood29_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
+      "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
     }
   },
   {
@@ -364,7 +361,6 @@
       "rvn": "nbminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID",
       "ae": "nbminer.exe -a cuckoo_ae -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID",
       "beam": "nbminer.exe -a beamv3 -o stratum+ssl://beam.2miners.com:5252 -u YOUR_ADDRESS.RIG_ID",
-      "mwc29": "nbminer.exe -a cuckarood -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID",
       "mwc31": "nbminer.exe -a cuckatoo31 -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID",
       "grin32": "nbminer.exe -a cuckatoo32 -o stratum+tcp://grin.2miners.com:3030 -u YOUR_LOGIN.RIG_ID"
     }
@@ -461,7 +457,6 @@
       "btg": "bminer.exe -uri zhash://YOUR_ADDRESS.RIG_ID@btg.2miners.com:4040",
       "btcz": "bminer.exe -uri equihash1445://YOUR_ADDRESS.RIG_ID@btcz.altpool.pro:3072 -pers auto",
       "grin32": "bminer.exe -uri cuckatoo32://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
-      "mwc29": "bminer.exe -uri cuckaroo29d://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
       "mwc31": "bminer.exe -uri cuckatoo31://YOUR_LOGIN.RIG_ID:x@mwc.2miners.com:1111 -nofee",
       "beam": "bminer.exe -uri beam+ssl://YOUR_ADDRESS.RIG_ID:x@beam.2miners.com:5252"
     }
