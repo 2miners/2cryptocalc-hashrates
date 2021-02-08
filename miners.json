@@ -29,7 +29,6 @@
       "etp": "PhoenixMiner.exe -pool etp.2miners.com:9292 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etp",
       "clo": "PhoenixMiner.exe -pool clo.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin clo",
       "exp": "PhoenixMiner.exe -pool exp.2miners.com:3030 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin exp",
-      "aka": "PhoenixMiner.exe -pool aka.clona.ru:9022 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin dbix",
       "etc": "PhoenixMiner.exe -pool etc.2miners.com:1010 -wal YOUR_ADDRESS -pass x -worker RIG_ID -coin etc"
     }
   },
@@ -63,7 +62,6 @@
       "etp": "lolMiner.exe --algo ETHASH --pool etp.2miners.com:9292 --user YOUR_ADDRESS.RIG_ID",
       "clo": "lolMiner.exe --algo ETHASH --pool clo.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
       "exp": "lolMiner.exe --algo ETHASH --pool exp.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
-      "aka": "lolMiner.exe --algo ETHASH --pool aka.clona.ru:9022 --user YOUR_ADDRESS.RIG_ID",
       "etc": "lolMiner.exe --algo ETCHASH --pool etc.2miners.com:1010 --user YOUR_ADDRESS.RIG_ID",
       "ctxc": "lolMiner.exe --coin CTXC --pool ctxc.2miners.com:2222 --user YOUR_ADDRESS.RIG_ID",
       "btg": "lolMiner.exe --algo EQUI144_5 --pers BgoldPoW --pool btg.2miners.com:4040 --user YOUR_ADDRESS.RIG_ID",
@@ -105,7 +103,6 @@
       "etp": "miner.exe --algo ethash --server etp.2miners.com:9292 --user YOUR_ADDRESS.RIG_ID",
       "clo": "miner.exe --algo ethash --server clo.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
       "exp": "miner.exe --algo ethash --server exp.2miners.com:3030 --user YOUR_ADDRESS.RIG_ID",
-      "aka": "miner.exe --algo ethash --server aka.clona.ru:9022 --user YOUR_ADDRESS.RIG_ID",
       "etc": "miner.exe --algo etchash --server etc.2miners.com:1010 --user YOUR_ADDRESS.RIG_ID",
       "ctxc": "miner.exe --algo cortex --server ctxc.2miners.com --port 2222 --user YOUR_ADDRESS.RIG_ID",
       "btg": "miner.exe --algo 144_5 --pers BgoldPoW --server btg.2miners.com --port 4040 --user YOUR_ADDRESS.RIG_ID --pass x",
@@ -149,7 +146,6 @@
       "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS -w RIG_ID -p x",
       "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
-      "aka": "t-rex.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS -w RIG_ID -p x",
       "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
       "xzc": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
@@ -186,7 +182,6 @@
       "etp": "teamredminer.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID -p x",
       "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
-      "aka": "teamredminer.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID -p x",
       "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
       "xzc": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
@@ -222,8 +217,7 @@
       "dbix": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@dbix.clona.ru:5081",
       "etp": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@etp.2miners.com:9292",
       "clo": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@clo.2miners.com:3030",
-      "exp": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030",
-      "aka": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@aka.clona.ru:9022"
+      "exp": "ethminer -U -P stratum1+tcp://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030"
     }
   },
   {
@@ -256,7 +250,6 @@
       "etp": "cmdline_launcher.bat -algo ethash -pool1 etp.2miners.com:9292 -wallet YOUR_ADDRESS -rigName RIG_ID",
       "clo": "cmdline_launcher.bat -algo ethash -pool1 clo.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
       "exp": "cmdline_launcher.bat -algo ethash -pool1 exp.2miners.com:3030 -wallet YOUR_ADDRESS -rigName RIG_ID",
-      "aka": "cmdline_launcher.bat -algo ethash -pool1 aka.clona.ru:9022 -wallet YOUR_ADDRESS -rigName RIG_ID",
       "etc": "cmdline_launcher.bat -algo etchash -coin etc -pool1 etc.2miners.com:1010 -wallet YOUR_ADDRESS -rigName RIG_ID",
       "ctxc": "cmdline_launcher.bat -algo cuckaroo30 -pool1 ctxc.2miners.com:2222 -wallet YOUR_ADDRESS -rigName RIG_ID",
       "rvn": "cmdline_launcher.bat -algo kawpow -coin rvn -pool1 rvn.2miners.com:6060 -wallet YOUR_ADDRESS -rigName RIG_ID",
@@ -346,7 +339,6 @@
       "etp": "nbminer.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS.RIG_ID",
       "clo": "nbminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID",
       "exp": "nbminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID",
-      "aka": "nbminer.exe -a ethash -o stratum+tcp://aka.clona.ru:9022 -u YOUR_ADDRESS.RIG_ID",
       "etc": "nbminer.exe -a etchash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID",
       "rvn": "nbminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID",
       "ae": "nbminer.exe -a cuckoo_ae -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID",
@@ -440,7 +432,6 @@
       "etp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@etp.2miners.com:9292",
       "clo": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@clo.2miners.com:3030",
       "exp": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@exp.2miners.com:3030",
-      "aka": "bminer.exe -uri ethproxy://YOUR_ADDRESS.RIG_ID@aka.clona.ru:9022",
       "btg": "bminer.exe -uri zhash://YOUR_ADDRESS.RIG_ID@btg.2miners.com:4040",
       "btcz": "bminer.exe -uri equihash1445://YOUR_ADDRESS.RIG_ID@btcz.altpool.pro:3072 -pers auto",
       "grin32": "bminer.exe -uri cuckatoo32://YOUR_LOGIN.RIG_ID:x@grin.2miners.com:3030 -nofee",
