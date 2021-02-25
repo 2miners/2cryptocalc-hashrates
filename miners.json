@@ -2,6 +2,16 @@
   {
     "id": "phoenix-miner",
     "marketing_name": "Phoenix miner",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+      "Etchash": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 0.65,
       "Etchash": 0.65,
@@ -35,6 +45,44 @@
   {
     "id": "lolminer",
     "marketing_name": "Lolminer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+      "Etchash": [
+        "amd",
+        "nvidia"
+      ],
+      "CuckooCortex": [
+        "amd",
+        "nvidia"
+      ],
+      "Equihash 144_5": [
+        "amd",
+        "nvidia"
+      ],
+      "CuckooCycle": [
+        "amd",
+        "nvidia"
+      ],
+      "Equihash 125_4": [
+        "amd",
+        "nvidia"
+      ],
+      "BeamHash": [
+        "amd",
+        "nvidia"
+      ],
+      "Cuckatoo31": [
+        "amd",
+        "nvidia"
+      ],
+      "Cuckatoo32": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 0.7,
       "Etchash": 0.7,
@@ -76,13 +124,52 @@
   {
     "id": "gminer",
     "marketing_name": "Gminer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+      "Etchash": [
+        "amd",
+        "nvidia"
+      ],
+      "CuckooCortex": [
+        "nvidia"
+      ],
+      "Equihash 144_5": [
+        "amd",
+        "nvidia"
+      ],
+      "KAWPOW": [
+        "nvidia"
+      ],
+      "CuckooCycle": [
+        "nvidia"
+      ],
+      "Equihash 125_4": [
+        "amd",
+        "nvidia"
+      ],
+      "BeamHash": [
+        "nvidia"
+      ],
+      "Cuckatoo31": [
+        "nvidia"
+      ],
+      "Cuckatoo32": [
+        "nvidia"
+      ],
+      "Eaglesong": [
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 0.65,
       "Etchash": 0.65,
       "MTP": null,
       "CuckooCortex": 5,
       "Equihash 144_5": 2,
-      "KAWPOW": 2,
+      "KAWPOW": 1,
       "CuckooCycle": 2,
       "Equihash 125_4": 2,
       "BeamHash": 2,
@@ -119,6 +206,20 @@
   {
     "id": "t-rex",
     "marketing_name": "T-rex",
+    "algo": {
+      "Ethash": [
+        "nvidia"
+      ],
+      "Etchash": [
+        "nvidia"
+      ],
+      "MTP": [
+        "nvidia"
+      ],
+      "KAWPOW": [
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 1,
       "Etchash": 1,
@@ -154,6 +255,23 @@
   {
     "id": "team-red-miner",
     "marketing_name": "Team Red Miner",
+    "algo": {
+      "Ethash": [
+        "amd"
+      ],
+      "Etchash": [
+        "amd"
+      ],
+      "MTP": [
+        "amd"
+      ],
+      "KAWPOW": [
+        "amd"
+      ],
+      "Cuckatoo31": [
+        "amd"
+      ]
+    },
     "fee": {
       "Ethash": 1,
       "Etchash": 1,
@@ -191,6 +309,12 @@
   {
     "id": "ethminer",
     "marketing_name": "Ethminer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": "0",
       "Etchash": null,
@@ -223,6 +347,28 @@
   {
     "id": "nanominer",
     "marketing_name": "Nanominer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+      "Etchash": [
+        "amd",
+        "nvidia"
+      ],
+      "CuckooCortex": [
+        "amd",
+        "nvidia"
+      ],
+      "KAWPOW": [
+        "amd",
+        "nvidia"
+      ],
+      "RandomX": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 1,
       "Etchash": 1,
@@ -259,6 +405,12 @@
   {
     "id": "xmr-stak-rx",
     "marketing_name": "Xmr-stak-rx",
+    "algo": {
+      "RandomX": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": null,
       "Etchash": null,
@@ -286,6 +438,16 @@
   {
     "id": "xmrig",
     "marketing_name": "Xmrig",
+    "algo": {
+      "KAWPOW": [
+        "amd",
+        "nvidia"
+      ],
+      "RandomX": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": null,
       "Etchash": null,
@@ -314,6 +476,32 @@
   {
     "id": "nbminer",
     "marketing_name": "NBminer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+      "Etchash": [
+        "amd",
+        "nvidia"
+      ],
+      "KAWPOW": [
+        "amd",
+        "nvidia"
+      ],
+      "CuckooCycle": [
+        "nvidia"
+      ],
+      "BeamHash": [
+        "nvidia"
+      ],
+      "Cuckatoo31": [
+        "nvidia"
+      ],
+      "Cuckatoo32": [
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 1,
       "Etchash": 1,
@@ -350,6 +538,14 @@
   {
     "id": "cryptodredge",
     "marketing_name": "Cryptodredge",
+    "algo": {
+      "MTP": [
+        "nvidia"
+      ],
+      "CuckooCycle": [
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": null,
       "Etchash": null,
@@ -378,6 +574,16 @@
   {
     "id": "wildrig-multi",
     "marketing_name": "Wildrig-Multi",
+    "algo": {
+      "MTP": [
+        "amd",
+        "nvidia"
+      ],
+      "KAWPOW": [
+        "amd",
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": null,
       "Etchash": null,
@@ -406,9 +612,25 @@
   {
     "id": "bminer",
     "marketing_name": "Bminer",
+    "algo": {
+      "Ethash": [
+        "amd",
+        "nvidia"
+      ],
+	   "Etchash": [
+        "amd",
+        "nvidia"
+      ],
+      "Equihash 144_5": [
+        "nvidia"
+      ],
+      "Cuckatoo32": [
+        "nvidia"
+      ]
+    },
     "fee": {
       "Ethash": 0.65,
-      "Etchash": null,
+      "Etchash": 0.65,
       "MTP": null,
       "CuckooCortex": null,
       "Equihash 144_5": 2,
