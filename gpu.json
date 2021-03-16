@@ -260,6 +260,32 @@
         }
     },
     {
+        "id": "6800XT",
+        "name": "6800XT",
+        "marketing_name": "AMD Radeon RX 6800XT",
+        "vendor": "amd",
+        "ramSize": [16384],
+        "price": 900,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": 8.90,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": 67.80,
+            "Equihash 144_5": 110,
+            "BeamHash": null,
+            "Ethash": 63,
+            "Etchash": 63,
+            "MTP": null,
+            "KAWPOW": 32.70,
+            "RandomX": null,
+            "Eaglesong": null
+        }
+    },
+    {
         "id": "1050Ti",
         "name": "1050Ti",
         "marketing_name": "Nvidia GeForce GTX 1050 Ti",
