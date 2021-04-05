@@ -248,7 +248,7 @@
       "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
-      "firo": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
@@ -301,7 +301,7 @@
       "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
-      "firo": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
       "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
     }
@@ -567,7 +567,7 @@
     ],
     "download": "https://github.com/technobyl/CryptoDredge/releases",
     "runner": {
-      "firo": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8080 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "ae": "CryptoDredge.exe -a aeternity -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
@@ -605,7 +605,7 @@
     ],
     "download": "https://github.com/andru-kun/wildrig-multi/releases",
     "runner": {
-      "firo": "wildrig.exe --print-full --algo mtp --url stratum+tcp://xzc.2miners.com:8080 --worker RIG_ID --user YOUR_ADDRESS --pass x",
+      "firo": "wildrig.exe --print-full --algo mtp --url stratum+tcp://xzc.2miners.com:8181 --worker RIG_ID --user YOUR_ADDRESS --pass x",
       "rvn": "wildrig.exe --print-full --algo kawpow --url stratum+tcp://rvn.2miners.com:6060 --worker RIG_ID --user YOUR_ADDRESS --pass x"
     }
   },
