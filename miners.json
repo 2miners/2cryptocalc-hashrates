@@ -115,7 +115,7 @@
       "btg": "lolMiner.exe --algo EQUI144_5 --pers BgoldPoW --pool btg.2miners.com:4040 --user YOUR_ADDRESS.RIG_ID",
       "btcz": "lolMiner.exe --coin AUTO144_5 --pool btcz.altpool.pro:3072 --user YOUR_ADDRESS.RIG_ID",
       "ae": "lolMiner.exe --algo C29AE --pool ae.2miners.com:4040 --user YOUR_ADDRESS.RIG_ID",
-      "zel": "lolMiner.exe --coin ZEL --pool zel.2miners.com:9090 --user YOUR_ADDRESS.RIG_ID",
+      "flux": "lolMiner.exe --coin ZEL --pool zel.2miners.com:9090 --user YOUR_ADDRESS.RIG_ID",
       "beam": "lolMiner.exe --coin BEAM --pool beam.2miners.com:5252 --user YOUR_ADDRESS.RIG_ID",
       "mwc31": "lolMiner.exe --coin MWC-C31 --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "lolMiner.exe --coin GRIN-C32 --pool grin.2miners.com:3030 --user YOUR_LOGIN.RIG_ID"
@@ -196,7 +196,7 @@
       "btcz": "miner.exe --algo 144_5 --pers auto --server btcz.altpool.pro --port 3072 --user YOUR_ADDRESS.RIG_ID --pass x",
       "rvn": "miner.exe --algo kawpow --server rvn.2miners.com:6060 --user YOUR_ADDRESS.RIG_ID --pass x",
       "ae": "miner.exe --algo aeternity --server ae.2miners.com --port 4040 --user YOUR_ADDRESS.RIG_ID",
-      "zel": "miner.exe --algo 125_4 --server zel.2miners.com --port 9090 --user YOUR_ADDRESS.RIG_ID --pass x",
+      "flux": "miner.exe --algo 125_4 --server zel.2miners.com --port 9090 --user YOUR_ADDRESS.RIG_ID --pass x",
       "beam": "miner.exe --algo beamhash --server beam.2miners.com --port 5252 --ssl 1 --user YOUR_ADDRESS.RIG_ID --pass x",
       "mwc31": "miner.exe --algo grin31 --server mwc.2miners.com --port 1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "miner.exe --algo grin32 --server grin.2miners.com --port 3030 --user YOUR_LOGIN.RIG_ID",
