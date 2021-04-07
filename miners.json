@@ -115,7 +115,7 @@
       "btg": "lolMiner.exe --algo EQUI144_5 --pers BgoldPoW --pool btg.2miners.com:4040 --user YOUR_ADDRESS.RIG_ID",
       "btcz": "lolMiner.exe --coin AUTO144_5 --pool btcz.altpool.pro:3072 --user YOUR_ADDRESS.RIG_ID",
       "ae": "lolMiner.exe --algo C29AE --pool ae.2miners.com:4040 --user YOUR_ADDRESS.RIG_ID",
-      "flux": "lolMiner.exe --coin ZEL --pool zel.2miners.com:9090 --user YOUR_ADDRESS.RIG_ID",
+      "flux": "lolMiner.exe --coin ZEL --pool flux.2miners.com:9090 --user YOUR_ADDRESS.RIG_ID",
       "beam": "lolMiner.exe --coin BEAM --pool beam.2miners.com:5252 --user YOUR_ADDRESS.RIG_ID",
       "mwc31": "lolMiner.exe --coin MWC-C31 --pool mwc.2miners.com:1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "lolMiner.exe --coin GRIN-C32 --pool grin.2miners.com:3030 --user YOUR_LOGIN.RIG_ID"
@@ -196,7 +196,7 @@
       "btcz": "miner.exe --algo 144_5 --pers auto --server btcz.altpool.pro --port 3072 --user YOUR_ADDRESS.RIG_ID --pass x",
       "rvn": "miner.exe --algo kawpow --server rvn.2miners.com:6060 --user YOUR_ADDRESS.RIG_ID --pass x",
       "ae": "miner.exe --algo aeternity --server ae.2miners.com --port 4040 --user YOUR_ADDRESS.RIG_ID",
-      "flux": "miner.exe --algo 125_4 --server zel.2miners.com --port 9090 --user YOUR_ADDRESS.RIG_ID --pass x",
+      "flux": "miner.exe --algo 125_4 --server flux.2miners.com --port 9090 --user YOUR_ADDRESS.RIG_ID --pass x",
       "beam": "miner.exe --algo beamhash --server beam.2miners.com --port 5252 --ssl 1 --user YOUR_ADDRESS.RIG_ID --pass x",
       "mwc31": "miner.exe --algo grin31 --server mwc.2miners.com --port 1111 --user YOUR_LOGIN.RIG_ID",
       "grin32": "miner.exe --algo grin32 --server grin.2miners.com --port 3030 --user YOUR_LOGIN.RIG_ID",
@@ -248,7 +248,7 @@
       "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
-      "firo": "t-rex.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "t-rex.exe -a mtp -o stratum+tcp://firo.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
@@ -301,7 +301,7 @@
       "clo": "teamredminer.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "exp": "teamredminer.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS.RIG_ID -p x",
       "etc": "teamredminer.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS.RIG_ID -p x",
-      "firo": "teamredminer.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "teamredminer.exe -a mtp -o stratum+tcp://firo.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "teamredminer.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x",
       "mwc31": "teamredminer.exe -a cuckatoo31_grin -o stratum+tcp://mwc.2miners.com:1111 -u YOUR_LOGIN.RIG_ID -p x"
     }
@@ -567,7 +567,7 @@
     ],
     "download": "https://github.com/technobyl/CryptoDredge/releases",
     "runner": {
-      "firo": "CryptoDredge.exe -a mtp -o stratum+tcp://xzc.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
+      "firo": "CryptoDredge.exe -a mtp -o stratum+tcp://firo.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "ae": "CryptoDredge.exe -a aeternity -o stratum+tcp://ae.2miners.com:4040 -u YOUR_ADDRESS.RIG_ID -p x"
     }
   },
@@ -605,7 +605,7 @@
     ],
     "download": "https://github.com/andru-kun/wildrig-multi/releases",
     "runner": {
-      "firo": "wildrig.exe --print-full --algo mtp --url stratum+tcp://xzc.2miners.com:8181 --worker RIG_ID --user YOUR_ADDRESS --pass x",
+      "firo": "wildrig.exe --print-full --algo mtp --url stratum+tcp://firo.2miners.com:8181 --worker RIG_ID --user YOUR_ADDRESS --pass x",
       "rvn": "wildrig.exe --print-full --algo kawpow --url stratum+tcp://rvn.2miners.com:6060 --worker RIG_ID --user YOUR_ADDRESS --pass x"
     }
   },
