@@ -247,7 +247,7 @@
       "etp": "t-rex.exe -a ethash -o stratum+tcp://etp.2miners.com:9292 -u YOUR_ADDRESS -w RIG_ID -p x",
       "clo": "t-rex.exe -a ethash -o stratum+tcp://clo.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
       "exp": "t-rex.exe -a ethash -o stratum+tcp://exp.2miners.com:3030 -u YOUR_ADDRESS -w RIG_ID -p x",
-      "etc": "t-rex.exe -a ethash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x --coin etc --fork-at etchash=epoch:390",
+      "etc": "t-rex.exe -a etchash -o stratum+tcp://etc.2miners.com:1010 -u YOUR_ADDRESS -w RIG_ID -p x",
       "firo": "t-rex.exe -a mtp -o stratum+tcp://firo.2miners.com:8181 -u YOUR_ADDRESS.RIG_ID -p x",
       "rvn": "t-rex.exe -a kawpow -o stratum+tcp://rvn.2miners.com:6060 -u YOUR_ADDRESS.RIG_ID -p x"
     }
