@@ -239,7 +239,7 @@
     "developer": [
       "ikseg"
     ],
-    "download": "https://github.com/trexminer/T-Rex/releases",
+    "download": "https://trex-miner.com/#download",
     "runner": {
       "eth": "t-rex.exe -a ethash -o stratum+tcp://eth.2miners.com:2020 -u YOUR_ADDRESS -w RIG_ID -p x",
       "moac": "t-rex.exe -a ethash -o stratum+tcp://s1.solopool.org:8007 -u YOUR_ADDRESS -w RIG_ID -p x",
