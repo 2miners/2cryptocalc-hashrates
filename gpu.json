@@ -331,7 +331,7 @@
             "BeamHash": null,
             "Ethash": 63,
             "Etchash": 63,
-            "MTP": null,
+            "MTP": 6.32,
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null
