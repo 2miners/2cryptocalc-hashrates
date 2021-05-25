@@ -520,6 +520,32 @@
         }
     },
     {
+        "id": "1650",
+        "name": "1650",
+        "marketing_name": "Nvidia GeForce GTX 1650",
+        "vendor": "nvidia",
+        "ramSize": [4192],
+        "price": 499,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": 18.10,
+            "MTP": null,
+            "KAWPOW": 8.10,
+            "RandomX": null,
+            "Eaglesong": null
+        }
+    },
+    {
         "id": "1660",
         "name": "1660",
         "marketing_name": "Nvidia GeForce GTX 1660",
