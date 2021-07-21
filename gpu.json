@@ -260,6 +260,32 @@
         }
     },
     {
+        "id": "6700XT",
+        "name": "6700XT",
+        "marketing_name": "AMD Radeon RX 6700XT",
+        "vendor": "amd",
+        "ramSize": [12288],
+        "price": 479,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": 65,
+            "Equihash 125_4": 49,
+            "Equihash 144_5": 64,
+            "BeamHash": null,
+            "Ethash": 44,
+            "Etchash": 44.60,
+            "MTP": null,
+            "KAWPOW": 22.70,
+            "RandomX": null,
+            "Eaglesong": null
+        }
+    },
+    {
         "id": "6800",
         "name": "6800",
         "marketing_name": "AMD Radeon RX 6800",
