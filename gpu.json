@@ -22,7 +22,8 @@
             "MTP": 1.50,
             "KAWPOW": 10,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 63.8
         }
     },
     {
@@ -48,7 +49,8 @@
             "MTP": 1.50,
             "KAWPOW": 11,
             "RandomX": null,
-            "Eaglesong": 360
+            "Eaglesong": 360,
+            "Autolykos2": 64.50
         }
     },
     {
@@ -74,7 +76,8 @@
             "MTP": 1.50,
             "KAWPOW": 10,
             "RandomX": null,
-            "Eaglesong": 324
+            "Eaglesong": 324,
+            "Autolykos2": null
         }
     },
     {
@@ -100,7 +103,8 @@
             "MTP": 1.50,
             "KAWPOW": 11,
             "RandomX": null,
-            "Eaglesong": 300
+            "Eaglesong": 300,
+            "Autolykos2": null
         }
     },
     {
@@ -126,7 +130,8 @@
             "MTP": 2,
             "KAWPOW": 12,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -152,7 +157,8 @@
             "MTP": 3,
             "KAWPOW": 21,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 187.50
         }
     },
     {
@@ -178,7 +184,8 @@
             "MTP": 3.50,
             "KAWPOW": 23,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 185
         }
     },
     {
@@ -204,7 +211,8 @@
             "MTP": 4.50,
             "KAWPOW": 24,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -230,7 +238,8 @@
             "MTP": null,
             "KAWPOW": 15.06,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -256,7 +265,8 @@
             "MTP": null,
             "KAWPOW": null,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -282,7 +292,8 @@
             "MTP": null,
             "KAWPOW": 22.70,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -308,7 +319,8 @@
             "MTP": null,
             "KAWPOW": 32.70,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -334,7 +346,8 @@
             "MTP": null,
             "KAWPOW": 32.70,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -360,7 +373,8 @@
             "MTP": 6.32,
             "KAWPOW": 32.70,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -386,7 +400,8 @@
             "MTP": null,
             "KAWPOW": 7,
             "RandomX": 0.181,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -412,7 +427,8 @@
             "MTP": 1,
             "KAWPOW": 10.00,
             "RandomX": 0.280,
-            "Eaglesong": 330
+            "Eaglesong": 330,
+            "Autolykos2": null
         }
     },
     {
@@ -438,7 +454,8 @@
             "MTP": 2.60,
             "KAWPOW": 14,
             "RandomX": 0.609,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -464,7 +481,8 @@
             "MTP": 2.65,
             "KAWPOW": 15,
             "RandomX": 0.769,
-            "Eaglesong": 778
+            "Eaglesong": 778,
+            "Autolykos2": 52
         }
     },
     {
@@ -490,7 +508,8 @@
             "MTP": 2.05,
             "KAWPOW": 14,
             "RandomX": null,
-            "Eaglesong": 592
+            "Eaglesong": 592,
+            "Autolykos2": null
         }
     },
     {
@@ -516,7 +535,8 @@
             "MTP": 3,
             "KAWPOW": 17,
             "RandomX": 0.730,
-            "Eaglesong": 780
+            "Eaglesong": 780,
+            "Autolykos2": null
         }
     },
     {
@@ -542,7 +562,8 @@
             "MTP": 3.90,
             "KAWPOW": 25,
             "RandomX": 1.136,
-            "Eaglesong": 1150
+            "Eaglesong": 1150,
+            "Autolykos2": null
         }
     },
     {
@@ -568,7 +589,8 @@
             "MTP": null,
             "KAWPOW": 8.10,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -594,7 +616,8 @@
             "MTP": 2.00,
             "KAWPOW": 10.70,
             "RandomX": 0.580,
-            "Eaglesong": 486
+            "Eaglesong": 486,
+            "Autolykos2": null
         }
     },
     {
@@ -620,7 +643,8 @@
             "MTP": 2.2,
             "KAWPOW": 14.2,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -646,7 +670,8 @@
             "MTP": 2.10,
             "KAWPOW": 15,
             "RandomX": 0.600,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -672,7 +697,8 @@
             "MTP": 2.60,
             "KAWPOW": 16,
             "RandomX": null,
-            "Eaglesong": 755
+            "Eaglesong": 755,
+            "Autolykos2": null
         }
     },
     {
@@ -698,7 +724,8 @@
             "MTP": null,
             "KAWPOW": 22.20,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -724,7 +751,8 @@
             "MTP": 3.30,
             "KAWPOW": 21,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -750,7 +778,8 @@
             "MTP": 3.70,
             "KAWPOW": 23,
             "RandomX": 1.50,
-            "Eaglesong": 830
+            "Eaglesong": 830,
+            "Autolykos2": null
         }
     },
     {
@@ -776,7 +805,8 @@
             "MTP": 4.40,
             "KAWPOW": 30,
             "RandomX": 1.191,
-            "Eaglesong": 1150
+            "Eaglesong": 1150,
+            "Autolykos2": null
         }
     },
     {
@@ -802,7 +832,8 @@
             "MTP": 5.50,
             "KAWPOW": 36,
             "RandomX": 1.692,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     },
     {
@@ -828,7 +859,8 @@
             "MTP": 2.8,
             "KAWPOW": 22.70,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 120
         }
     },
     {
@@ -854,7 +886,8 @@
             "MTP": 4.20,
             "KAWPOW": 30.50,
             "RandomX": null,
-            "Eaglesong": 1000
+            "Eaglesong": 1000,
+            "Autolykos2": null
         }
     },
     {
@@ -880,7 +913,8 @@
             "MTP": 4.80,
             "KAWPOW": 33.40,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 173
         }
     },
     {
@@ -906,7 +940,35 @@
             "MTP": 5.15,
             "KAWPOW": 47,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": 205
+        }
+    },
+    {
+        "id": "3080Ti",
+        "name": "3080Ti",
+        "marketing_name": "Nvidia GeForce RTX 3080 Ti",
+        "vendor": "nvidia",
+        "ramSize": [12288],
+        "price": 1119,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": 3.15,
+            "Cuckatoo32": 1.19,
+            "CuckooCycle": 15.24,
+            "CuckooCortex": 6.5,
+            "Equihash": null,
+            "Equihash 125_4": 84.7,
+            "Equihash 144_5": 144.1,
+            "BeamHash": 56.4,
+            "Ethash": 64,
+            "Etchash": 64,
+            "MTP": 7.3,
+            "KAWPOW": 58.9,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": 261.2
         }
     },
     {
@@ -932,7 +994,8 @@
             "MTP": 6.45,
             "KAWPOW": 52,
             "RandomX": null,
-            "Eaglesong": null
+            "Eaglesong": null,
+            "Autolykos2": null
         }
     }
 ]
