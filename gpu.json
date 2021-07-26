@@ -77,7 +77,7 @@
             "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": 324,
-            "Autolykos2": null
+            "Autolykos2": 63.8
         }
     },
     {
@@ -104,7 +104,7 @@
             "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 300,
-            "Autolykos2": null
+            "Autolykos2": 64.50
         }
     },
     {
@@ -158,7 +158,7 @@
             "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 187.50
+            "Autolykos2": 170.50
         }
     },
     {
@@ -266,7 +266,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 108
         }
     },
     {
@@ -320,7 +320,7 @@
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 115
         }
     },
     {
@@ -401,7 +401,7 @@
             "KAWPOW": 7,
             "RandomX": 0.181,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 35
         }
     },
     {
@@ -428,7 +428,7 @@
             "KAWPOW": 10.00,
             "RandomX": 0.280,
             "Eaglesong": 330,
-            "Autolykos2": null
+            "Autolykos2": 52
         }
     },
     {
@@ -455,7 +455,7 @@
             "KAWPOW": 14,
             "RandomX": 0.609,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 60
         }
     },
     {
@@ -482,7 +482,7 @@
             "KAWPOW": 15,
             "RandomX": 0.769,
             "Eaglesong": 778,
-            "Autolykos2": 52
+            "Autolykos2": 60
         }
     },
     {
@@ -509,7 +509,7 @@
             "KAWPOW": 14,
             "RandomX": null,
             "Eaglesong": 592,
-            "Autolykos2": null
+            "Autolykos2": 70
         }
     },
     {
@@ -536,7 +536,7 @@
             "KAWPOW": 17,
             "RandomX": 0.730,
             "Eaglesong": 780,
-            "Autolykos2": null
+            "Autolykos2": 65
         }
     },
     {
@@ -563,7 +563,7 @@
             "KAWPOW": 25,
             "RandomX": 1.136,
             "Eaglesong": 1150,
-            "Autolykos2": null
+            "Autolykos2": 105
         }
     },
     {
@@ -590,7 +590,7 @@
             "KAWPOW": 8.10,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 36
         }
     },
     {
@@ -617,7 +617,7 @@
             "KAWPOW": 10.70,
             "RandomX": 0.580,
             "Eaglesong": 486,
-            "Autolykos2": null
+            "Autolykos2": 47
         }
     },
     {
@@ -644,7 +644,7 @@
             "KAWPOW": 14.2,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 63
         }
     },
     {
@@ -725,7 +725,7 @@
             "KAWPOW": 22.20,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 75
         }
     },
     {
@@ -779,7 +779,7 @@
             "KAWPOW": 23,
             "RandomX": 1.50,
             "Eaglesong": 830,
-            "Autolykos2": null
+            "Autolykos2": 78
         }
     },
     {
@@ -833,7 +833,7 @@
             "KAWPOW": 36,
             "RandomX": 1.692,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 105
         }
     },
     {
@@ -860,7 +860,7 @@
             "KAWPOW": 22.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 120
+            "Autolykos2": 115
         }
     },
     {
@@ -887,7 +887,7 @@
             "KAWPOW": 30.50,
             "RandomX": null,
             "Eaglesong": 1000,
-            "Autolykos2": null
+            "Autolykos2": 170
         }
     },
     {
@@ -914,7 +914,7 @@
             "KAWPOW": 33.40,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 173
+            "Autolykos2": 170
         }
     },
     {
@@ -995,7 +995,7 @@
             "KAWPOW": 52,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 275
         }
     }
 ]
