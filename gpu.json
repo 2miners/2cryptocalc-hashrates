@@ -918,6 +918,33 @@
         }
     },
     {
+        "id": "3070Ti",
+        "name": "3070Ti",
+        "marketing_name": "Nvidia GeForce RTX 3070 Ti",
+        "vendor": "nvidia",
+        "ramSize": [8192],
+        "price": 599,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": 4.50,
+            "Equihash": null,
+            "Equihash 125_4": 67,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": 52,
+            "Etchash": 52,
+            "MTP": 5,
+            "KAWPOW": 40,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": 180
+        }
+    },
+    {
         "id": "3080",
         "name": "3080",
         "marketing_name": "Nvidia GeForce RTX 3080",
