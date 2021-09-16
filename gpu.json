@@ -530,13 +530,13 @@
             "Equihash 125_4": 37,
             "Equihash 144_5": 60,
             "BeamHash": 16,
-            "Ethash": 37,
-            "Etchash": 41,
+            "Ethash": 35,
+            "Etchash": 39,
             "MTP": 2.05,
-            "KAWPOW": 14,
+            "KAWPOW": 15,
             "RandomX": null,
             "Eaglesong": 592,
-            "Autolykos2": 70
+            "Autolykos2": 75
         }
     },
     {
