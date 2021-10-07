@@ -692,13 +692,13 @@
             "Equihash 125_4": 26.10,
             "Equihash 144_5": 38,
             "BeamHash": 15.70,
-            "Ethash": 31.50,
-            "Etchash": 31.50,
+            "Ethash": 31.25,
+            "Etchash": 31.25,
             "MTP": 2.10,
             "KAWPOW": 15,
             "RandomX": 0.600,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 59.80
         }
     },
     {
