@@ -598,7 +598,7 @@
         "name": "1650",
         "marketing_name": "Nvidia GeForce GTX 1650",
         "vendor": "nvidia",
-        "ramSize": [4192],
+        "ramSize": [4096],
         "price": 499,
         "secondHand": false,
         "algos": {
