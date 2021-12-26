@@ -151,7 +151,7 @@
             "Equihash": 450,
             "Equihash 125_4": 24,
             "Equihash 144_5": 34,
-            "BeamHash": 14,
+            "BeamHash": 30,
             "Ethash": 53,
             "Etchash": 53,
             "FiroPoW": 25,
@@ -178,7 +178,7 @@
             "Equihash": 500,
             "Equihash 125_4": 28.50,
             "Equihash 144_5": 43,
-            "BeamHash": 15,
+            "BeamHash": 30.7,
             "Ethash": 54,
             "Etchash": 54,
             "FiroPoW": 25,
@@ -205,7 +205,7 @@
             "Equihash": 500,
             "Equihash 125_4": 36,
             "Equihash 144_5": 49,
-            "BeamHash": 19,
+            "BeamHash": 48.2,
             "Ethash": 90,
             "Etchash": 90,
             "FiroPoW": 42,
@@ -374,7 +374,7 @@
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 118
         }
     },
     {
@@ -394,14 +394,14 @@
             "Equihash": null,
             "Equihash 125_4": 49.80,
             "Equihash 144_5": 110,
-            "BeamHash": 32,
+            "BeamHash": 35.6,
             "Ethash": 63,
             "Etchash": 63,
             "FiroPoW": 32.70,
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null
+            "Autolykos2": 118
         }
     },
     {
