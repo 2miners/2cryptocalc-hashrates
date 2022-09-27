@@ -32,8 +32,8 @@
         "marketing_name": "AMD Radeon RX 480",
         "vendor": "amd",
         "ramSize": [4096,8192],
-        "price": 221,
-        "secondHand": false,
+        "price": 110,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 1.90,
             "Cuckatoo31": null,
@@ -59,8 +59,8 @@
         "marketing_name": "AMD Radeon RX 570",
         "vendor": "amd",
         "ramSize": [4096,8192],
-        "price": 160,
-        "secondHand": false,
+        "price": 150,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 1.60,
             "Cuckatoo31": 0.67,
@@ -86,8 +86,8 @@
         "marketing_name": "AMD Radeon RX 580",
         "vendor": "amd",
         "ramSize": [4096,8192],
-        "price": 180,
-        "secondHand": false,
+        "price": 160,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 1.80,
             "Cuckatoo31": null,
@@ -113,8 +113,8 @@
         "marketing_name": "AMD Radeon RX 590",
         "vendor": "amd",
         "ramSize": [8192],
-        "price": 200,
-        "secondHand": false,
+        "price": 180,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 2.30,
             "Cuckatoo31": null,
@@ -221,7 +221,7 @@
         "marketing_name": "AMD Radeon RX 5600XT",
         "vendor": "amd",
         "ramSize": [6144],
-        "price": 279,
+        "price": 280,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 3.75,
@@ -248,7 +248,7 @@
         "marketing_name": "AMD Radeon RX 5700",
         "vendor": "amd",
         "ramSize": [8192],
-        "price": 400,
+        "price": 390,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 3.80,
@@ -275,7 +275,7 @@
         "marketing_name": "AMD Radeon RX 6600XT",
         "vendor": "amd",
         "ramSize": [8192],
-        "price": 380,
+        "price": 300,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -302,7 +302,7 @@
         "marketing_name": "AMD Radeon RX 6700XT",
         "vendor": "amd",
         "ramSize": [12288],
-        "price": 479,
+        "price": 490,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -329,7 +329,7 @@
         "marketing_name": "AMD Radeon RX 6800",
         "vendor": "amd",
         "ramSize": [16384],
-        "price": 850,
+        "price": 790,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -356,7 +356,7 @@
         "marketing_name": "AMD Radeon RX 6800XT",
         "vendor": "amd",
         "ramSize": [16384],
-        "price": 900,
+        "price": 800,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -383,7 +383,7 @@
         "marketing_name": "AMD Radeon RX 6900XT",
         "vendor": "amd",
         "ramSize": [16384],
-        "price": 999,
+        "price": 900,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -410,8 +410,8 @@
         "marketing_name": "Nvidia GeForce GTX 1050 Ti",
         "vendor": "nvidia",
         "ramSize": [4096],
-        "price": 160,
-        "secondHand": false,
+        "price": 100,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": null,
             "Cuckatoo31": null,
@@ -437,7 +437,7 @@
         "marketing_name": "Nvidia GeForce GTX 1060",
         "vendor": "nvidia",
         "ramSize": [3072,6144],
-        "price": 100,
+        "price": 120,
         "secondHand": true,
         "algos": {
             "Cuckarood29": 3.30,
@@ -464,7 +464,7 @@
         "marketing_name": "Nvidia GeForce GTX 1070",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 180,
+        "price": 160,
         "secondHand": true,
         "algos": {
             "Cuckarood29": 4.50,
@@ -491,7 +491,7 @@
         "marketing_name": "Nvidia GeForce GTX 1070 Ti",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 200,
+        "price": 180,
         "secondHand": true,
         "algos": {
             "Cuckarood29": 6.30,
@@ -518,8 +518,8 @@
         "marketing_name": "Nvidia P104-100",
         "vendor": "nvidia",
         "ramSize": [4096,8192],
-        "price": 300,
-        "secondHand": false,
+        "price": 170,
+        "secondHand": true,
         "algos": {
             "Cuckarood29": 6.10,
             "Cuckatoo31": 0.93,
@@ -545,7 +545,7 @@
         "marketing_name": "Nvidia GeForce GTX 1080",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 230,
+        "price": 200,
         "secondHand": true,
         "algos": {
             "Cuckarood29": 6.50,
@@ -572,7 +572,7 @@
         "marketing_name": "Nvidia GeForce GTX 1080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
-        "price": 300,
+        "price": 250,
         "secondHand": true,
         "algos": {
             "Cuckarood29": 8.10,
@@ -599,7 +599,7 @@
         "marketing_name": "Nvidia GeForce GTX 1650",
         "vendor": "nvidia",
         "ramSize": [4096],
-        "price": 499,
+        "price": 210,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -626,7 +626,7 @@
         "marketing_name": "Nvidia GeForce GTX 1660",
         "vendor": "nvidia",
         "ramSize": [6144],
-        "price": 215,
+        "price": 220,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 4.10,
@@ -653,7 +653,7 @@
         "marketing_name": "Nvidia GeForce GTX 1660 Super",
         "vendor": "nvidia",
         "ramSize": [6144],
-        "price": 229,
+        "price": 240,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 5.1,
@@ -707,7 +707,7 @@
         "marketing_name": "Nvidia GeForce RTX 2060",
         "vendor": "nvidia",
         "ramSize": [6144],
-        "price": 330,
+        "price": 260,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 6,
@@ -734,7 +734,7 @@
         "marketing_name": "Nvidia GeForce RTX 2060 Super",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 399,
+        "price": 280,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 4.60,
@@ -761,7 +761,7 @@
         "marketing_name": "Nvidia GeForce RTX 2070",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 460,
+        "price": 500,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 7.60,
@@ -788,7 +788,7 @@
         "marketing_name": "Nvidia GeForce RTX 2070 Super",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 530,
+        "price": 520,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 8.60,
@@ -815,7 +815,7 @@
         "marketing_name": "Nvidia GeForce RTX 2080",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 750,
+        "price": 600,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 9.10,
@@ -842,7 +842,7 @@
         "marketing_name": "Nvidia GeForce RTX 2080 Ti",
         "vendor": "nvidia",
         "ramSize": [11264],
-        "price": 1466,
+        "price": 700,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 9.50,
@@ -869,7 +869,7 @@
         "marketing_name": "Nvidia GeForce RTX 3060",
         "vendor": "nvidia",
         "ramSize": [12288],
-        "price": 329,
+        "price": 440,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -896,7 +896,7 @@
         "marketing_name": "Nvidia GeForce RTX 3060 Ti",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 399,
+        "price": 530,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 10.50,
@@ -923,7 +923,7 @@
         "marketing_name": "Nvidia GeForce RTX 3070",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 580,
+        "price": 660,
         "secondHand": false,
         "algos": {
             "Cuckarood29": 10.11,
@@ -950,7 +950,7 @@
         "marketing_name": "Nvidia GeForce RTX 3070 Ti",
         "vendor": "nvidia",
         "ramSize": [8192],
-        "price": 599,
+        "price": 780,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -977,7 +977,7 @@
         "marketing_name": "Nvidia GeForce RTX 3080",
         "vendor": "nvidia",
         "ramSize": [10240],
-        "price": 820,
+        "price": 860,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -1004,7 +1004,7 @@
         "marketing_name": "Nvidia GeForce RTX 3080 Ti",
         "vendor": "nvidia",
         "ramSize": [12288],
-        "price": 1119,
+        "price": 1200,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
@@ -1031,7 +1031,7 @@
         "marketing_name": "Nvidia GeForce RTX 3090",
         "vendor": "nvidia",
         "ramSize": [24576],
-        "price": 1755,
+        "price": 1500,
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
