@@ -1189,7 +1189,7 @@
     },
     {
         "id": "linzhi-phoenix",
-        "name": "Phoenix",
+        "name": "Linzhi Phoenix",
         "marketing_name": "ASIC Linzhi Phoenix",
         "vendor": "asic",
         "ramSize": [8192],
@@ -1216,8 +1216,8 @@
     },
     {
         "id": "ipollo-v1mini",
-        "name": "V1mini",
-        "marketing_name": "ASIC Ipollo V1mini",
+        "name": "V1 Mini",
+        "marketing_name": "ASIC Ipollo V1 Mini",
         "vendor": "asic",
         "ramSize": [6144],
         "price": 849,
