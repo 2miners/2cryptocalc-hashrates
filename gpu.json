@@ -49,7 +49,7 @@
             "FiroPoW": 11,
             "KAWPOW": 11,
             "RandomX": null,
-            "Eaglesong": 360,
+            "Eaglesong": 0.360,
             "Autolykos2": 63.50
         }
     },
@@ -76,7 +76,7 @@
             "FiroPoW": 10,
             "KAWPOW": 10,
             "RandomX": null,
-            "Eaglesong": 324,
+            "Eaglesong": 0.324,
             "Autolykos2": 63.5
         }
     },
@@ -103,7 +103,7 @@
             "FiroPoW": 11,
             "KAWPOW": 11,
             "RandomX": null,
-            "Eaglesong": 300,
+            "Eaglesong": 0.300,
             "Autolykos2": 66
         }
     },
@@ -454,7 +454,7 @@
             "FiroPoW": 10.00,
             "KAWPOW": 10.00,
             "RandomX": 0.280,
-            "Eaglesong": 330,
+            "Eaglesong": 0.330,
             "Autolykos2": 52
         }
     },
@@ -508,7 +508,7 @@
             "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": 0.769,
-            "Eaglesong": 778,
+            "Eaglesong": 0.778,
             "Autolykos2": 65
         }
     },
@@ -535,7 +535,7 @@
             "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": null,
-            "Eaglesong": 592,
+            "Eaglesong": 0.592,
             "Autolykos2": 75
         }
     },
@@ -562,7 +562,7 @@
             "FiroPoW": 17,
             "KAWPOW": 17,
             "RandomX": 0.730,
-            "Eaglesong": 780,
+            "Eaglesong": 0.780,
             "Autolykos2": 67
         }
     },
@@ -589,7 +589,7 @@
             "FiroPoW": 25,
             "KAWPOW": 25,
             "RandomX": 1.136,
-            "Eaglesong": 1150,
+            "Eaglesong": 1.150,
             "Autolykos2": 105
         }
     },
@@ -643,7 +643,7 @@
             "FiroPoW": 10.70,
             "KAWPOW": 10.70,
             "RandomX": 0.580,
-            "Eaglesong": 486,
+            "Eaglesong": 0.486,
             "Autolykos2": 47
         }
     },
@@ -724,7 +724,7 @@
             "FiroPoW": 16,
             "KAWPOW": 16,
             "RandomX": null,
-            "Eaglesong": 755,
+            "Eaglesong": 0.755,
             "Autolykos2": 63.80
         }
     },
@@ -805,7 +805,7 @@
             "FiroPoW": 23,
             "KAWPOW": 23,
             "RandomX": 1.50,
-            "Eaglesong": 830,
+            "Eaglesong": 0.830,
             "Autolykos2": 78
         }
     },
@@ -832,7 +832,7 @@
             "FiroPoW": 30,
             "KAWPOW": 30,
             "RandomX": 1.191,
-            "Eaglesong": 1150,
+            "Eaglesong": 1.150,
             "Autolykos2": null
         }
     },
@@ -913,7 +913,7 @@
             "FiroPoW": 30.50,
             "KAWPOW": 30.50,
             "RandomX": null,
-            "Eaglesong": 1000,
+            "Eaglesong": 1.000,
             "Autolykos2": 145
         }
     },
@@ -940,7 +940,7 @@
             "FiroPoW": 30.3,
             "KAWPOW": 30.3,
             "RandomX": 1.08,
-            "Eaglesong": 1200,
+            "Eaglesong": 1.200,
             "Autolykos2": 172
         }
     },
@@ -1215,8 +1215,62 @@
         }
     },
     {
+        "id": "ipollo-v1",
+        "name": "iPollo V1",
+        "marketing_name": "ASIC Ipollo V1",
+        "vendor": "asic",
+        "ramSize": [6144],
+        "price": 8079,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": 3600,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "ipollo-v1classic",
+        "name": "iPollo V1 Classic",
+        "marketing_name": "ASIC Ipollo V1 Classic",
+        "vendor": "asic",
+        "ramSize": [7168],
+        "price": 10710,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": 1550,
+            "Etchash": 1550,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": null
+        }
+    },
+    {
         "id": "ipollo-v1mini",
-        "name": "V1 Mini",
+        "name": "iPollo V1 Mini",
         "marketing_name": "ASIC Ipollo V1 Mini",
         "vendor": "asic",
         "ramSize": [6144],
@@ -1319,6 +1373,168 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "ipollo-g1",
+        "name": "iPollo G1",
+        "marketing_name": "ASIC iPollo G1",
+        "vendor": "asic",
+        "ramSize": [10240],
+        "price": 8970,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": 36,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "ipollo-g1mini",
+        "name": "iPollo G1 Mini",
+        "marketing_name": "ASIC iPollo G1 Mini",
+        "vendor": "asic",
+        "ramSize": [10240],
+        "price": 299,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": 1.2,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "antminer-k5",
+        "name": "K5",
+        "marketing_name": "ASIC Antminer K5",
+        "vendor": "asic",
+        "ramSize": [4096],
+        "price": 729,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": 1130,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "antminer-k7",
+        "name": "K7",
+        "marketing_name": "ASIC Antminer K7",
+        "vendor": "asic",
+        "ramSize": [4096],
+        "price": 5399,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": 63500,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "toddminer-c1",
+        "name": "Toddminer C1",
+        "marketing_name": "ASIC Toddminer C1",
+        "vendor": "asic",
+        "ramSize": [4096],
+        "price": 349,
+        "secondHand": true,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": 1550,
+            "Autolykos2": null
+        }
+    },
+    {
+        "id": "goldshell-ck5",
+        "name": "Goldshell CK5",
+        "marketing_name": "ASIC Goldshell CK5",
+        "vendor": "asic",
+        "ramSize": [4096],
+        "price": 1299,
+        "secondHand": true,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": null,
+            "Cuckatoo32": null,
+            "CuckooCycle": null,
+            "CuckooCortex": null,
+            "Equihash": null,
+            "Equihash 125_4": null,
+            "Equihash 144_5": null,
+            "BeamHash": null,
+            "Ethash": null,
+            "Etchash": null,
+            "FiroPoW": null,
+            "KAWPOW": null,
+            "RandomX": null,
+            "Eaglesong": 12000,
             "Autolykos2": null
         }
     }
