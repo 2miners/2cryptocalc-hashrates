@@ -1054,7 +1054,7 @@
     },
     {
         "id": "antminer-e9",
-        "name": "E9",
+        "name": "Antminer E9",
         "marketing_name": "ASIC Antminer E9",
         "vendor": "asic",
         "ramSize": [6144],
@@ -1081,7 +1081,7 @@
     },
     {
         "id": "antminer-e9pro",
-        "name": "E9 Pro",
+        "name": "Antminer E9 Pro",
         "marketing_name": "ASIC Antminer E9 Pro",
         "vendor": "asic",
         "ramSize": [7168],
@@ -1108,7 +1108,7 @@
     },
     {
         "id": "innosilicon-a10pro",
-        "name": "A10 Pro",
+        "name": "Innosilicon A10 Pro",
         "marketing_name": "ASIC Innosilicon A10 Pro",
         "vendor": "asic",
         "ramSize": [6144],
@@ -1135,7 +1135,7 @@
     },
     {
         "id": "innosilicon-a10proplus",
-        "name": "A10 Pro+",
+        "name": "Innosilicon A10 Pro+",
         "marketing_name": "ASIC Innosilicon A10 Pro+",
         "vendor": "asic",
         "ramSize": [7168],
@@ -1162,7 +1162,7 @@
     },
     {
         "id": "innosilicon-a11pro",
-        "name": "A11 Pro",
+        "name": "Innosilicon A11 Pro",
         "marketing_name": "ASIC Innosilicon A11 Pro",
         "vendor": "asic",
         "ramSize": [8192],
@@ -1297,7 +1297,7 @@
     },
     {
         "id": "antminer-z15",
-        "name": "Z15",
+        "name": "Antminer Z15",
         "marketing_name": "ASIC Antminer Z15",
         "vendor": "asic",
         "ramSize": [4096],
@@ -1324,7 +1324,7 @@
     },
     {
         "id": "antminer-z11",
-        "name": "Z11",
+        "name": "Antminer Z11",
         "marketing_name": "ASIC Antminer Z11",
         "vendor": "asic",
         "ramSize": [4096],
@@ -1351,7 +1351,7 @@
     },
     {
         "id": "antminer-z9",
-        "name": "Z9",
+        "name": "Antminer Z9",
         "marketing_name": "ASIC Antminer Z9",
         "vendor": "asic",
         "ramSize": [4096],
@@ -1432,7 +1432,7 @@
     },
     {
         "id": "antminer-k5",
-        "name": "K5",
+        "name": "Antminer K5",
         "marketing_name": "ASIC Antminer K5",
         "vendor": "asic",
         "ramSize": [4096],
@@ -1459,7 +1459,7 @@
     },
     {
         "id": "antminer-k7",
-        "name": "K7",
+        "name": "Antminer K7",
         "marketing_name": "ASIC Antminer K7",
         "vendor": "asic",
         "ramSize": [4096],
