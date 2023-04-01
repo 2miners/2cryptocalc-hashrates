@@ -23,8 +23,7 @@
             "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 63,
-            "KHeavyHash": 166
+            "Autolykos2": 63
         }
     },
     {
@@ -51,8 +50,7 @@
             "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 0.360,
-            "Autolykos2": 63.50,
-            "KHeavyHash": 203
+            "Autolykos2": 63.50
         }
     },
     {
@@ -79,8 +77,7 @@
             "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": 0.324,
-            "Autolykos2": 63.5,
-            "KHeavyHash": 184
+            "Autolykos2": 63.5
         }
     },
     {
@@ -107,8 +104,7 @@
             "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 0.300,
-            "Autolykos2": 66,
-            "KHeavyHash": 203
+            "Autolykos2": 66
         }
     },
     {
@@ -135,8 +131,7 @@
             "KAWPOW": 12,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": 167
+            "Autolykos2": null
         }
     },
     {
@@ -163,8 +158,7 @@
             "KAWPOW": 25,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 140.50,
-            "KHeavyHash": 297
+            "Autolykos2": 140.50
         }
     },
     {
@@ -191,8 +185,7 @@
             "KAWPOW": 25,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 145,
-            "KHeavyHash": 352
+            "Autolykos2": 145
         }
     },
     {
@@ -219,8 +212,7 @@
             "KAWPOW": 42,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 205,
-            "KHeavyHash": 531
+            "Autolykos2": 205
         }
     },
     {
@@ -247,8 +239,7 @@
             "KAWPOW": 15.06,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 80,
-            "KHeavyHash": 254
+            "Autolykos2": 80
         }
     },
     {
@@ -275,8 +266,7 @@
             "KAWPOW": 24.80,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 108,
-            "KHeavyHash": 251
+            "Autolykos2": 108
         }
     },
     {
@@ -303,8 +293,7 @@
             "KAWPOW": 13,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 61,
-            "KHeavyHash": 384
+            "Autolykos2": 61
         }
     },
     {
@@ -331,8 +320,7 @@
             "KAWPOW": 22.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 86.40,
-            "KHeavyHash": 467
+            "Autolykos2": 86.40
         }
     },
     {
@@ -359,8 +347,7 @@
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 115,
-            "KHeavyHash": 734
+            "Autolykos2": 115
         }
     },
     {
@@ -387,8 +374,7 @@
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 118,
-            "KHeavyHash": 872
+            "Autolykos2": 118
         }
     },
     {
@@ -415,8 +401,7 @@
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 118,
-            "KHeavyHash": 968
+            "Autolykos2": 118
         }
     },
     {
@@ -443,8 +428,7 @@
             "KAWPOW": 7,
             "RandomX": 0.181,
             "Eaglesong": null,
-            "Autolykos2": 32,
-            "KHeavyHash": null
+            "Autolykos2": 32
         }
     },
     {
@@ -471,8 +455,7 @@
             "KAWPOW": 10.00,
             "RandomX": 0.280,
             "Eaglesong": 0.330,
-            "Autolykos2": 52,
-            "KHeavyHash": null
+            "Autolykos2": 52
         }
     },
     {
@@ -499,8 +482,7 @@
             "KAWPOW": 14,
             "RandomX": 0.609,
             "Eaglesong": null,
-            "Autolykos2": 65,
-            "KHeavyHash": 235
+            "Autolykos2": 65
         }
     },
     {
@@ -527,8 +509,7 @@
             "KAWPOW": 15,
             "RandomX": 0.769,
             "Eaglesong": 0.778,
-            "Autolykos2": 65,
-            "KHeavyHash": 378
+            "Autolykos2": 65
         }
     },
     {
@@ -555,8 +536,7 @@
             "KAWPOW": 15,
             "RandomX": null,
             "Eaglesong": 0.592,
-            "Autolykos2": 75,
-            "KHeavyHash": 268
+            "Autolykos2": 75
         }
     },
     {
@@ -583,8 +563,7 @@
             "KAWPOW": 17,
             "RandomX": 0.730,
             "Eaglesong": 0.780,
-            "Autolykos2": 67,
-            "KHeavyHash": 354
+            "Autolykos2": 67
         }
     },
     {
@@ -611,8 +590,7 @@
             "KAWPOW": 25,
             "RandomX": 1.136,
             "Eaglesong": 1.150,
-            "Autolykos2": 105,
-            "KHeavyHash": 497
+            "Autolykos2": 105
         }
     },
     {
@@ -639,8 +617,7 @@
             "KAWPOW": 8.10,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 36,
-            "KHeavyHash": null
+            "Autolykos2": 36
         }
     },
     {
@@ -667,8 +644,7 @@
             "KAWPOW": 10.70,
             "RandomX": 0.580,
             "Eaglesong": 0.486,
-            "Autolykos2": 47,
-            "KHeavyHash": 248
+            "Autolykos2": 47
         }
     },
     {
@@ -695,8 +671,7 @@
             "KAWPOW": 14.2,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 63,
-            "KHeavyHash": 291
+            "Autolykos2": 63
         }
     },
     {
@@ -723,8 +698,7 @@
             "KAWPOW": 15,
             "RandomX": 0.600,
             "Eaglesong": null,
-            "Autolykos2": 59.80,
-            "KHeavyHash": 331
+            "Autolykos2": 59.80
         }
     },
     {
@@ -751,8 +725,7 @@
             "KAWPOW": 16,
             "RandomX": null,
             "Eaglesong": 0.755,
-            "Autolykos2": 63.80,
-            "KHeavyHash": 340
+            "Autolykos2": 63.80
         }
     },
     {
@@ -779,8 +752,7 @@
             "KAWPOW": 22.20,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 77,
-            "KHeavyHash": 385
+            "Autolykos2": 77
         }
     },
     {
@@ -807,8 +779,7 @@
             "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 90,
-            "KHeavyHash": 407
+            "Autolykos2": 90
         }
     },
     {
@@ -835,8 +806,7 @@
             "KAWPOW": 23,
             "RandomX": 1.50,
             "Eaglesong": 0.830,
-            "Autolykos2": 78,
-            "KHeavyHash": 453
+            "Autolykos2": 78
         }
     },
     {
@@ -863,8 +833,7 @@
             "KAWPOW": 30,
             "RandomX": 1.191,
             "Eaglesong": 1.150,
-            "Autolykos2": null,
-            "KHeavyHash": 519
+            "Autolykos2": null
         }
     },
     {
@@ -891,8 +860,7 @@
             "KAWPOW": 36,
             "RandomX": 1.692,
             "Eaglesong": null,
-            "Autolykos2": 105,
-            "KHeavyHash": 768
+            "Autolykos2": 105
         }
     },
     {
@@ -919,8 +887,7 @@
             "KAWPOW": 22.70,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 115,
-            "KHeavyHash": 372
+            "Autolykos2": 115
         }
     },
     {
@@ -947,8 +914,7 @@
             "KAWPOW": 30.50,
             "RandomX": null,
             "Eaglesong": 1.000,
-            "Autolykos2": 145,
-            "KHeavyHash": 508
+            "Autolykos2": 145
         }
     },
     {
@@ -975,8 +941,7 @@
             "KAWPOW": 30.3,
             "RandomX": 1.08,
             "Eaglesong": 1.200,
-            "Autolykos2": 172,
-            "KHeavyHash": 614
+            "Autolykos2": 172
         }
     },
     {
@@ -1003,8 +968,7 @@
             "KAWPOW": 40,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 180,
-            "KHeavyHash": 641
+            "Autolykos2": 180
         }
     },
     {
@@ -1031,8 +995,7 @@
             "KAWPOW": 47,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 205,
-            "KHeavyHash": 898
+            "Autolykos2": 205
         }
     },
     {
@@ -1059,8 +1022,7 @@
             "KAWPOW": 58.9,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 261.2,
-            "KHeavyHash": 1056
+            "Autolykos2": 261.2
         }
     },
     {
@@ -1087,8 +1049,7 @@
             "KAWPOW": 52,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": 275,
-            "KHeavyHash": 1080
+            "Autolykos2": 275
         }
     },
     {
@@ -1115,8 +1076,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1143,8 +1103,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1171,8 +1130,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1199,8 +1157,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1227,8 +1184,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1255,8 +1211,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1283,8 +1238,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1311,8 +1265,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1339,8 +1292,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1367,8 +1319,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1395,8 +1346,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1423,8 +1373,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1451,8 +1400,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1479,8 +1427,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1507,8 +1454,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 1130,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1535,8 +1481,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 63500,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1563,8 +1508,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 1550,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     },
     {
@@ -1591,8 +1535,7 @@
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 12000,
-            "Autolykos2": null,
-            "KHeavyHash": null
+            "Autolykos2": null
         }
     }
 ]
