@@ -1073,6 +1073,35 @@
         }
     },
     {
+        "id": "3082",
+        "name": "3082",
+        "marketing_name": "Nvidia GeForce RTX 3080 12 GB",
+        "vendor": "nvidia",
+        "ramSize": [12288],
+        "price": 799,
+        "secondHand": false,
+        "algos": {
+            "Cuckarood29": null,
+            "Cuckatoo31": 2.80,
+            "Cuckatoo32": 1.16,
+            "CuckooCycle": 12,
+            "CuckooCortex": 5.30,
+            "Equihash": 980,
+            "Equihash 125_4": 79,
+            "Equihash 144_5": 140,
+            "BeamHash": 50,
+            "Ethash": 120,
+            "Etchash": 120,
+            "FiroPoW": 57,
+            "KAWPOW": 57,
+            "RandomX": null,
+            "Eaglesong": null,
+            "Autolykos2": 255,
+            "KHeavyHash": 995,
+            "NexaPow": 142
+        }
+    },
+    {
         "id": "3080Ti",
         "name": "3080Ti",
         "marketing_name": "Nvidia GeForce RTX 3080 Ti",
