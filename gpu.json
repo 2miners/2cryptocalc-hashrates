@@ -1645,7 +1645,7 @@
             "Eaglesong": 1.7,
             "Autolykos2": 215,
             "KHeavyHash": 1030,
-            "KarlsenHash": null,
+            "KarlsenHash": 1850,
             "NexaPow": 135
         }
     },
@@ -1945,7 +1945,7 @@
             "Eaglesong": 2.7,
             "Autolykos2": 175,
             "KHeavyHash": 1630,
-            "KarlsenHash": null,
+            "KarlsenHash": 2900,
             "NexaPow": 171
         }
     },
