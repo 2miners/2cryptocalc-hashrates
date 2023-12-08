@@ -1140,36 +1140,6 @@
         }
     },
     {
-        "id": "2060Ti",
-        "name": "2060Ti",
-        "marketing_name": "Nvidia GeForce RTX 2060 Ti",
-        "vendor": "nvidia",
-        "ramSize": [0],
-        "price": 349,
-        "secondHand": false,
-        "algos": {
-            "Cuckarood29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
-            "CuckooCycle": null,
-            "CuckooCortex": null,
-            "Equihash": null,
-            "Equihash 125_4": null,
-            "Equihash 144_5": null,
-            "BeamHash": null,
-            "Ethash": null,
-            "Etchash": null,
-            "FiroPoW": null,
-            "KAWPOW": null,
-            "RandomX": null,
-            "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null,
-            "KarlsenHash": null,
-            "NexaPow": null
-        }
-    },
-    {
         "id": "2060S",
         "name": "2060S",
         "marketing_name": "Nvidia GeForce RTX 2060 Super",
@@ -1227,36 +1197,6 @@
             "KHeavyHash": 407,
             "KarlsenHash": null,
             "NexaPow": 51
-        }
-    },
-    {
-        "id": "2070Ti",
-        "name": "2070Ti",
-        "marketing_name": "Nvidia GeForce RTX 2070 Ti",
-        "vendor": "nvidia",
-        "ramSize": [0],
-        "price": 0,
-        "secondHand": false,
-        "algos": {
-            "Cuckarood29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
-            "CuckooCycle": null,
-            "CuckooCortex": null,
-            "Equihash": null,
-            "Equihash 125_4": null,
-            "Equihash 144_5": null,
-            "BeamHash": null,
-            "Ethash": null,
-            "Etchash": null,
-            "FiroPoW": null,
-            "KAWPOW": null,
-            "RandomX": null,
-            "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null,
-            "KarlsenHash": null,
-            "NexaPow": null
         }
     },
     {
