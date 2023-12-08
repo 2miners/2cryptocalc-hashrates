@@ -25,6 +25,7 @@
             "Eaglesong": null,
             "Autolykos2": 63,
             "KHeavyHash": 166,
+            "KarlsenHash": null,
             "NexaPow": 13.5
         }
     },
@@ -54,6 +55,7 @@
             "Eaglesong": 0.360,
             "Autolykos2": 63.50,
             "KHeavyHash": 203,
+            "KarlsenHash": null,
             "NexaPow": 15
         }
     },
@@ -83,6 +85,7 @@
             "Eaglesong": 0.324,
             "Autolykos2": 63.5,
             "KHeavyHash": 184,
+            "KarlsenHash": null,
             "NexaPow": 14.7
         }
     },
@@ -112,6 +115,7 @@
             "Eaglesong": 0.300,
             "Autolykos2": 66,
             "KHeavyHash": 203,
+            "KarlsenHash": null,
             "NexaPow": 16.7
         }
     },
@@ -141,6 +145,7 @@
             "Eaglesong": null,
             "Autolykos2": 66,
             "KHeavyHash": 167,
+            "KarlsenHash": null,
             "NexaPow": 16.7
         }
     },
@@ -170,6 +175,7 @@
             "Eaglesong": null,
             "Autolykos2": 140.50,
             "KHeavyHash": 297,
+            "KarlsenHash": null,
             "NexaPow": 36.6
         }
     },
@@ -199,6 +205,7 @@
             "Eaglesong": null,
             "Autolykos2": 145,
             "KHeavyHash": 352,
+            "KarlsenHash": null,
             "NexaPow": 42.7
         }
     },
@@ -228,6 +235,7 @@
             "Eaglesong": null,
             "Autolykos2": 205,
             "KHeavyHash": 531,
+            "KarlsenHash": null,
             "NexaPow": 45.3
         }
     },
@@ -257,6 +265,7 @@
             "Eaglesong": null,
             "Autolykos2": 80,
             "KHeavyHash": 254,
+            "KarlsenHash": null,
             "NexaPow": 26.5
         }
     },
@@ -286,6 +295,7 @@
             "Eaglesong": null,
             "Autolykos2": 108,
             "KHeavyHash": 251,
+            "KarlsenHash": null,
             "NexaPow": 28.4
         }
     },
@@ -315,6 +325,7 @@
             "Eaglesong": null,
             "Autolykos2": 108,
             "KHeavyHash": 340,
+            "KarlsenHash": null,
             "NexaPow": 38.5
         }
     },
@@ -344,6 +355,7 @@
             "Eaglesong": null,
             "Autolykos2": 26.5,
             "KHeavyHash": 210.5,
+            "KarlsenHash": null,
             "NexaPow": 14.9
         }
     },
@@ -373,6 +385,7 @@
             "Eaglesong": null,
             "Autolykos2": 61,
             "KHeavyHash": 345,
+            "KarlsenHash": null,
             "NexaPow": 32.5
         }
     },
@@ -402,6 +415,7 @@
             "Eaglesong": null,
             "Autolykos2": 62,
             "KHeavyHash": 384,
+            "KarlsenHash": null,
             "NexaPow": 38.5
         }
     },
@@ -431,6 +445,7 @@
             "Eaglesong": null,
             "Autolykos2": 95,
             "KHeavyHash": 475,
+            "KarlsenHash": null,
             "NexaPow": 45.5
         }
     },
@@ -460,6 +475,7 @@
             "Eaglesong": null,
             "Autolykos2": 119,
             "KHeavyHash": 734,
+            "KarlsenHash": null,
             "NexaPow": 64.5
         }
     },
@@ -489,6 +505,7 @@
             "Eaglesong": null,
             "Autolykos2": 125,
             "KHeavyHash": 872,
+            "KarlsenHash": null,
             "NexaPow": 76
         }
     },
@@ -518,6 +535,7 @@
             "Eaglesong": null,
             "Autolykos2": 125,
             "KHeavyHash": 968,
+            "KarlsenHash": null,
             "NexaPow": 95
         }
     },
@@ -547,6 +565,7 @@
             "Eaglesong": null,
             "Autolykos2": 62,
             "KHeavyHash": 345,
+            "KarlsenHash": null,
             "NexaPow": 33
         }
     },
@@ -576,6 +595,7 @@
             "Eaglesong": null,
             "Autolykos2": 95.5,
             "KHeavyHash": 725,
+            "KarlsenHash": null,
             "NexaPow": 62
         }
     },
@@ -605,6 +625,7 @@
             "Eaglesong": null,
             "Autolykos2": 135,
             "KHeavyHash": 950,
+            "KarlsenHash": null,
             "NexaPow": 94
         }
     },
@@ -634,6 +655,7 @@
             "Eaglesong": null,
             "Autolykos2": 165,
             "KHeavyHash": 1045,
+            "KarlsenHash": null,
             "NexaPow": 92
         }
     },
@@ -663,6 +685,7 @@
             "Eaglesong": null,
             "Autolykos2": 195,
             "KHeavyHash": 1055,
+            "KarlsenHash": null,
             "NexaPow": 95
         }
     },
@@ -692,6 +715,7 @@
             "Eaglesong": null,
             "Autolykos2": 32,
             "KHeavyHash": 112,
+            "KarlsenHash": null,
             "NexaPow": 3.40
         }
     },
@@ -721,6 +745,7 @@
             "Eaglesong": 0.330,
             "Autolykos2": 52,
             "KHeavyHash": 183,
+            "KarlsenHash": null,
             "NexaPow": 5.20
         }
     },
@@ -750,6 +775,7 @@
             "Eaglesong": 0.75,
             "Autolykos2": 65,
             "KHeavyHash": 235,
+            "KarlsenHash": null,
             "NexaPow": 7.20
         }
     },
@@ -779,6 +805,7 @@
             "Eaglesong": 0.778,
             "Autolykos2": 65,
             "KHeavyHash": 378,
+            "KarlsenHash": null,
             "NexaPow": 8
         }
     },
@@ -808,6 +835,7 @@
             "Eaglesong": 0.615,
             "Autolykos2": 92.5,
             "KHeavyHash": 285,
+            "KarlsenHash": null,
             "NexaPow": 11.5
         }
     },
@@ -837,6 +865,7 @@
             "Eaglesong": 0.592,
             "Autolykos2": 75,
             "KHeavyHash": 268,
+            "KarlsenHash": null,
             "NexaPow": 8.70
         }
     },
@@ -866,6 +895,7 @@
             "Eaglesong": null,
             "Autolykos2": 52,
             "KHeavyHash": 183,
+            "KarlsenHash": null,
             "NexaPow": 5.2
         }
     },
@@ -895,6 +925,7 @@
             "Eaglesong": 0.780,
             "Autolykos2": 67,
             "KHeavyHash": 354,
+            "KarlsenHash": null,
             "NexaPow": 12
         }
     },
@@ -924,6 +955,7 @@
             "Eaglesong": 1.150,
             "Autolykos2": 105,
             "KHeavyHash": 497,
+            "KarlsenHash": null,
             "NexaPow": 16
         }
     },
@@ -953,6 +985,7 @@
             "Eaglesong": null,
             "Autolykos2": 36,
             "KHeavyHash": 200,
+            "KarlsenHash": null,
             "NexaPow": 25
         }
     },
@@ -982,6 +1015,7 @@
             "Eaglesong": 0.486,
             "Autolykos2": 47,
             "KHeavyHash": 248,
+            "KarlsenHash": null,
             "NexaPow": 31
         }
     },
@@ -1011,6 +1045,7 @@
             "Eaglesong": null,
             "Autolykos2": 63,
             "KHeavyHash": 291,
+            "KarlsenHash": null,
             "NexaPow": 32
         }
     },
@@ -1040,6 +1075,7 @@
             "Eaglesong": null,
             "Autolykos2": 59.80,
             "KHeavyHash": 331,
+            "KarlsenHash": null,
             "NexaPow": 34
         }
     },
@@ -1069,6 +1105,7 @@
             "Eaglesong": 0.755,
             "Autolykos2": 63.80,
             "KHeavyHash": 340,
+            "KarlsenHash": null,
             "NexaPow": 42
         }
     },
@@ -1098,6 +1135,7 @@
             "Eaglesong": null,
             "Autolykos2": 67,
             "KHeavyHash": 370,
+            "KarlsenHash": null,
             "NexaPow": 47.5
         }
     },
@@ -1127,6 +1165,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -1156,6 +1195,7 @@
             "Eaglesong": null,
             "Autolykos2": 88,
             "KHeavyHash": 385,
+            "KarlsenHash": null,
             "NexaPow": 49
         }
     },
@@ -1185,6 +1225,7 @@
             "Eaglesong": null,
             "Autolykos2": 90,
             "KHeavyHash": 407,
+            "KarlsenHash": null,
             "NexaPow": 51
         }
     },
@@ -1214,6 +1255,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -1243,6 +1285,7 @@
             "Eaglesong": 0.830,
             "Autolykos2": 78,
             "KHeavyHash": 453,
+            "KarlsenHash": null,
             "NexaPow": 62
         }
     },
@@ -1272,6 +1315,7 @@
             "Eaglesong": 1.150,
             "Autolykos2": 85,
             "KHeavyHash": 519,
+            "KarlsenHash": null,
             "NexaPow": 69
         }
     },
@@ -1301,6 +1345,7 @@
             "Eaglesong": null,
             "Autolykos2": 105,
             "KHeavyHash": 768,
+            "KarlsenHash": null,
             "NexaPow": 94
         }
     },
@@ -1330,6 +1375,7 @@
             "Eaglesong": 1.15,
             "Autolykos2": 87,
             "KHeavyHash": 534,
+            "KarlsenHash": null,
             "NexaPow": 71
         }
     },
@@ -1359,6 +1405,7 @@
             "Eaglesong": null,
             "Autolykos2": 79,
             "KHeavyHash": 180,
+            "KarlsenHash": null,
             "NexaPow": 35
         }
     },
@@ -1388,6 +1435,7 @@
             "Eaglesong": null,
             "Autolykos2": 115,
             "KHeavyHash": 372,
+            "KarlsenHash": null,
             "NexaPow": 54
         }
     },
@@ -1417,6 +1465,7 @@
             "Eaglesong": null,
             "Autolykos2": 105,
             "KHeavyHash": 450,
+            "KarlsenHash": null,
             "NexaPow": 58
         }
     },
@@ -1446,6 +1495,7 @@
             "Eaglesong": 1.000,
             "Autolykos2": 172,
             "KHeavyHash": 625,
+            "KarlsenHash": null,
             "NexaPow": 76
         }
     },
@@ -1475,6 +1525,7 @@
             "Eaglesong": 1.200,
             "Autolykos2": 177,
             "KHeavyHash": 735,
+            "KarlsenHash": null,
             "NexaPow": 96
         }
     },
@@ -1504,6 +1555,7 @@
             "Eaglesong": 0.7,
             "Autolykos2": 157,
             "KHeavyHash": 525,
+            "KarlsenHash": null,
             "NexaPow": 72
         }
     },
@@ -1533,6 +1585,7 @@
             "Eaglesong": 1.3,
             "Autolykos2": 180,
             "KHeavyHash": 745,
+            "KarlsenHash": null,
             "NexaPow": 101
         }
     },
@@ -1562,6 +1615,7 @@
             "Eaglesong": 0.75,
             "Autolykos2": 162,
             "KHeavyHash": 545,
+            "KarlsenHash": null,
             "NexaPow": 74
         }
     },
@@ -1591,6 +1645,7 @@
             "Eaglesong": 1.7,
             "Autolykos2": 215,
             "KHeavyHash": 1030,
+            "KarlsenHash": null,
             "NexaPow": 135
         }
     },
@@ -1620,6 +1675,7 @@
             "Eaglesong": 0.78,
             "Autolykos2": 167,
             "KHeavyHash": 552,
+            "KarlsenHash": null,
             "NexaPow": 78
         }
     },
@@ -1649,6 +1705,7 @@
             "Eaglesong": 1.8,
             "Autolykos2": 255,
             "KHeavyHash": 1070,
+            "KarlsenHash": null,
             "NexaPow": 142
         }
     },
@@ -1678,6 +1735,7 @@
             "Eaglesong": 2.05,
             "Autolykos2": 261.2,
             "KHeavyHash": 1190,
+            "KarlsenHash": null,
             "NexaPow": 155
         }
     },
@@ -1707,6 +1765,7 @@
             "Eaglesong": 2.1,
             "Autolykos2": 275,
             "KHeavyHash": 1200,
+            "KarlsenHash": null,
             "NexaPow": 157
         }
     },
@@ -1736,6 +1795,7 @@
             "Eaglesong": 2.2,
             "Autolykos2": 280,
             "KHeavyHash": 1230,
+            "KarlsenHash": null,
             "NexaPow": 165
         }
     },
@@ -1765,6 +1825,7 @@
             "Eaglesong": 1.12,
             "Autolykos2": 75,
             "KHeavyHash": 520,
+            "KarlsenHash": null,
             "NexaPow": 72
         }
     },
@@ -1794,6 +1855,7 @@
             "Eaglesong": 1.4,
             "Autolykos2": 91,
             "KHeavyHash": 785,
+            "KarlsenHash": null,
             "NexaPow": 96
         }
     },
@@ -1823,6 +1885,7 @@
             "Eaglesong": 2.0,
             "Autolykos2": 132,
             "KHeavyHash": 1020,
+            "KarlsenHash": null,
             "NexaPow": 125
         }
     },
@@ -1852,6 +1915,7 @@
             "Eaglesong": 2.2,
             "Autolykos2": 135,
             "KHeavyHash": 1300,
+            "KarlsenHash": null,
             "NexaPow": 158
         }
     },
@@ -1881,6 +1945,7 @@
             "Eaglesong": 2.7,
             "Autolykos2": 175,
             "KHeavyHash": 1630,
+            "KarlsenHash": null,
             "NexaPow": 171
         }
     },
@@ -1910,6 +1975,7 @@
             "Eaglesong": 3.5,
             "Autolykos2": 270,
             "KHeavyHash": 2180,
+            "KarlsenHash": null,
             "NexaPow": 330
         }
     },
@@ -1939,6 +2005,7 @@
             "Eaglesong": 0.55,
             "Autolykos2": 62,
             "KHeavyHash": 290,
+            "KarlsenHash": null,
             "NexaPow": 35
         }
     },
@@ -1968,6 +2035,7 @@
             "Eaglesong": null,
             "Autolykos2": 85,
             "KHeavyHash": 395,
+            "KarlsenHash": null,
             "NexaPow": 48
         }
     },
@@ -1997,6 +2065,7 @@
             "Eaglesong": 1.2,
             "Autolykos2": 110,
             "KHeavyHash": 530,
+            "KarlsenHash": null,
             "NexaPow": 68
         }
     },
@@ -2026,6 +2095,7 @@
             "Eaglesong": 1.1,
             "Autolykos2": 165,
             "KHeavyHash": 480,
+            "KarlsenHash": null,
             "NexaPow": 58
         }
     },
@@ -2055,6 +2125,7 @@
             "Eaglesong": 1.2,
             "Autolykos2": 210,
             "KHeavyHash": 750,
+            "KarlsenHash": null,
             "NexaPow": 90
         }
     },
@@ -2084,6 +2155,7 @@
             "Eaglesong": 1.0,
             "Autolykos2": 415,
             "KHeavyHash": 630,
+            "KarlsenHash": null,
             "NexaPow": 91
         }
     },
@@ -2113,6 +2185,7 @@
             "Eaglesong": null,
             "Autolykos2": 100,
             "KHeavyHash": 310,
+            "KarlsenHash": null,
             "NexaPow": 36
         }
     },
@@ -2142,6 +2215,7 @@
             "Eaglesong": null,
             "Autolykos2": 155,
             "KHeavyHash": 550,
+            "KarlsenHash": null,
             "NexaPow": 80
         }
     },
@@ -2171,6 +2245,7 @@
             "Eaglesong": null,
             "Autolykos2": 240,
             "KHeavyHash": 730,
+            "KarlsenHash": null,
             "NexaPow": 102
         }
     },
@@ -2200,6 +2275,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2229,6 +2305,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2258,6 +2335,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2287,6 +2365,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2316,6 +2395,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2345,6 +2425,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2374,6 +2455,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2403,6 +2485,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2432,6 +2515,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2461,6 +2545,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 8300000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2490,6 +2575,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2519,6 +2605,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2548,6 +2635,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2577,6 +2665,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2606,6 +2695,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 100000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2635,6 +2725,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 1000000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2664,6 +2755,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 2000000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2693,6 +2785,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 8000000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2722,6 +2815,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 5000000,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2751,6 +2845,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2780,6 +2875,7 @@
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2809,6 +2905,7 @@
             "Eaglesong": 1130,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2838,6 +2935,7 @@
             "Eaglesong": 63500,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2867,6 +2965,7 @@
             "Eaglesong": 1550,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     },
@@ -2896,6 +2995,7 @@
             "Eaglesong": 12000,
             "Autolykos2": null,
             "KHeavyHash": null,
+            "KarlsenHash": null,
             "NexaPow": null
         }
     }
