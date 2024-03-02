@@ -24,7 +24,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 63,
-            "KHeavyHash": 166,
+            "KHeavyHash": 0.166,
             "KarlsenHash": 250,
             "PyrinHash": 560,
             "NexaPow": 13.5
@@ -55,7 +55,7 @@
             "RandomX": null,
             "Eaglesong": 0.360,
             "Autolykos2": 63.50,
-            "KHeavyHash": 203,
+            "KHeavyHash": 0.203,
             "KarlsenHash": 265,
             "PyrinHash": 620,
             "NexaPow": 15
@@ -86,7 +86,7 @@
             "RandomX": null,
             "Eaglesong": 0.324,
             "Autolykos2": 63.5,
-            "KHeavyHash": 184,
+            "KHeavyHash": 0.184,
             "KarlsenHash": 270,
             "PyrinHash": 630,
             "NexaPow": 14.7
@@ -117,7 +117,7 @@
             "RandomX": null,
             "Eaglesong": 0.300,
             "Autolykos2": 66,
-            "KHeavyHash": 203,
+            "KHeavyHash": 0.203,
             "KarlsenHash": 295,
             "PyrinHash": 670,
             "NexaPow": 16.7
@@ -148,7 +148,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 66,
-            "KHeavyHash": 167,
+            "KHeavyHash": 0.167,
             "KarlsenHash": 300,
             "PyrinHash": 675,
             "NexaPow": 16.7
@@ -179,7 +179,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 140.50,
-            "KHeavyHash": 297,
+            "KHeavyHash": 0.297,
             "KarlsenHash": 470,
             "PyrinHash": 1100,
             "NexaPow": 36.6
@@ -210,7 +210,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 145,
-            "KHeavyHash": 352,
+            "KHeavyHash": 0.352,
             "KarlsenHash": 545,
             "PyrinHash": 1270,
             "NexaPow": 42.7
@@ -241,7 +241,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 205,
-            "KHeavyHash": 531,
+            "KHeavyHash": 0.531,
             "KarlsenHash": 660,
             "PyrinHash": 2450,
             "NexaPow": 45.3
@@ -272,7 +272,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 80,
-            "KHeavyHash": 254,
+            "KHeavyHash": 0.254,
             "KarlsenHash": 450,
             "PyrinHash": 1050,
             "NexaPow": 26.5
@@ -303,7 +303,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 108,
-            "KHeavyHash": 251,
+            "KHeavyHash": 0.251,
             "KarlsenHash": 470,
             "PyrinHash": 1150,
             "NexaPow": 28.4
@@ -334,7 +334,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 108,
-            "KHeavyHash": 340,
+            "KHeavyHash": 0.340,
             "KarlsenHash": 510,
             "PyrinHash": 1200,
             "NexaPow": 38.5
@@ -365,7 +365,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 26.5,
-            "KHeavyHash": 211,
+            "KHeavyHash": 0.211,
             "KarlsenHash": 290,
             "PyrinHash": 1000,
             "NexaPow": 14.9
@@ -396,7 +396,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 61,
-            "KHeavyHash": 345,
+            "KHeavyHash": 0.345,
             "KarlsenHash": 485,
             "PyrinHash": 1700,
             "NexaPow": 32.5
@@ -427,7 +427,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 62,
-            "KHeavyHash": 384,
+            "KHeavyHash": 0.384,
             "KarlsenHash": 545,
             "PyrinHash": 1950,
             "NexaPow": 38.5
@@ -458,7 +458,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 95,
-            "KHeavyHash": 475,
+            "KHeavyHash": 0.475,
             "KarlsenHash": 655,
             "PyrinHash": 2350,
             "NexaPow": 45.5
@@ -489,7 +489,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 119,
-            "KHeavyHash": 734,
+            "KHeavyHash": 0.734,
             "KarlsenHash": 1065,
             "PyrinHash": 3700,
             "NexaPow": 64.5
@@ -520,7 +520,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 125,
-            "KHeavyHash": 872,
+            "KHeavyHash": 0.872,
             "KarlsenHash": 1250,
             "PyrinHash": 4270,
             "NexaPow": 76
@@ -551,7 +551,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 125,
-            "KHeavyHash": 968,
+            "KHeavyHash": 0.968,
             "KarlsenHash": 1390,
             "PyrinHash": 4800,
             "NexaPow": 95
@@ -582,7 +582,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 62,
-            "KHeavyHash": 345,
+            "KHeavyHash": 0.345,
             "KarlsenHash": 630,
             "PyrinHash": 1970,
             "NexaPow": 33
@@ -613,7 +613,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 95.5,
-            "KHeavyHash": 725,
+            "KHeavyHash": 0.725,
             "KarlsenHash": 1150,
             "PyrinHash": 3350,
             "NexaPow": 62
@@ -644,7 +644,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 135,
-            "KHeavyHash": 950,
+            "KHeavyHash": 0.950,
             "KarlsenHash": 1275,
             "PyrinHash": 3750,
             "NexaPow": 94
@@ -675,7 +675,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 165,
-            "KHeavyHash": 1045,
+            "KHeavyHash": 1.045,
             "KarlsenHash": 1760,
             "PyrinHash": 5300,
             "NexaPow": 92
@@ -706,7 +706,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 195,
-            "KHeavyHash": 1055,
+            "KHeavyHash": 1.055,
             "KarlsenHash": 2000,
             "PyrinHash": 5950,
             "NexaPow": 98
@@ -737,7 +737,7 @@
             "RandomX": 0.181,
             "Eaglesong": null,
             "Autolykos2": 32,
-            "KHeavyHash": 112,
+            "KHeavyHash": 0.112,
             "KarlsenHash": 130,
             "PyrinHash": 450,
             "NexaPow": 3.40
@@ -768,7 +768,7 @@
             "RandomX": 0.280,
             "Eaglesong": 0.330,
             "Autolykos2": 52,
-            "KHeavyHash": 183,
+            "KHeavyHash": 0.183,
             "KarlsenHash": 215,
             "PyrinHash": 700,
             "NexaPow": 5.20
@@ -799,7 +799,7 @@
             "RandomX": 0.609,
             "Eaglesong": 0.75,
             "Autolykos2": 65,
-            "KHeavyHash": 235,
+            "KHeavyHash": 0.235,
             "KarlsenHash": 350,
             "PyrinHash": 1050,
             "NexaPow": 7.20
@@ -830,7 +830,7 @@
             "RandomX": 0.769,
             "Eaglesong": 0.778,
             "Autolykos2": 65,
-            "KHeavyHash": 378,
+            "KHeavyHash": 0.378,
             "KarlsenHash": 410,
             "PyrinHash": 1300,
             "NexaPow": 8
@@ -861,7 +861,7 @@
             "RandomX": null,
             "Eaglesong": 0.615,
             "Autolykos2": 92.5,
-            "KHeavyHash": 285,
+            "KHeavyHash": 0.285,
             "KarlsenHash": 580,
             "PyrinHash": 1650,
             "NexaPow": 11.5
@@ -892,7 +892,7 @@
             "RandomX": null,
             "Eaglesong": 0.592,
             "Autolykos2": 75,
-            "KHeavyHash": 268,
+            "KHeavyHash": 0.268,
             "KarlsenHash": 350,
             "PyrinHash": 1050,
             "NexaPow": 8.70
@@ -923,7 +923,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 52,
-            "KHeavyHash": 183,
+            "KHeavyHash": 0.183,
             "KarlsenHash": 215,
             "PyrinHash": 700,
             "NexaPow": 5.2
@@ -954,7 +954,7 @@
             "RandomX": 0.730,
             "Eaglesong": 0.780,
             "Autolykos2": 67,
-            "KHeavyHash": 354,
+            "KHeavyHash": 0.354,
             "KarlsenHash": 445,
             "PyrinHash": 1300,
             "NexaPow": 12
@@ -985,7 +985,7 @@
             "RandomX": 1.136,
             "Eaglesong": 1.150,
             "Autolykos2": 105,
-            "KHeavyHash": 497,
+            "KHeavyHash": 0.497,
             "KarlsenHash": 590,
             "PyrinHash": 1900,
             "NexaPow": 16
@@ -1016,7 +1016,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 36,
-            "KHeavyHash": 200,
+            "KHeavyHash": 0.200,
             "KarlsenHash": 270,
             "PyrinHash": 700,
             "NexaPow": 25
@@ -1047,7 +1047,7 @@
             "RandomX": 0.580,
             "Eaglesong": 0.486,
             "Autolykos2": 47,
-            "KHeavyHash": 248,
+            "KHeavyHash": 0.248,
             "KarlsenHash": 470,
             "PyrinHash": 1200,
             "NexaPow": 31
@@ -1078,7 +1078,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 63,
-            "KHeavyHash": 291,
+            "KHeavyHash": 0.291,
             "KarlsenHash": 470,
             "PyrinHash": 1250,
             "NexaPow": 32
@@ -1109,7 +1109,7 @@
             "RandomX": 0.600,
             "Eaglesong": null,
             "Autolykos2": 59.80,
-            "KHeavyHash": 331,
+            "KHeavyHash": 0.331,
             "KarlsenHash": 510,
             "PyrinHash": 1300,
             "NexaPow": 34
@@ -1140,7 +1140,7 @@
             "RandomX": null,
             "Eaglesong": 0.755,
             "Autolykos2": 63.80,
-            "KHeavyHash": 340,
+            "KHeavyHash": 0.340,
             "KarlsenHash": 650,
             "PyrinHash": 2850,
             "NexaPow": 42
@@ -1171,7 +1171,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 67,
-            "KHeavyHash": 370,
+            "KHeavyHash": 0.370,
             "KarlsenHash": 680,
             "PyrinHash": 3050,
             "NexaPow": 47.5
@@ -1202,7 +1202,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 88,
-            "KHeavyHash": 385,
+            "KHeavyHash": 0.385,
             "KarlsenHash": 685,
             "PyrinHash": 3100,
             "NexaPow": 49
@@ -1233,7 +1233,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 90,
-            "KHeavyHash": 407,
+            "KHeavyHash": 0.407,
             "KarlsenHash": 750,
             "PyrinHash": 3200,
             "NexaPow": 51
@@ -1264,7 +1264,7 @@
             "RandomX": 1.50,
             "Eaglesong": 0.830,
             "Autolykos2": 78,
-            "KHeavyHash": 453,
+            "KHeavyHash": 0.453,
             "KarlsenHash": 820,
             "PyrinHash": 3650,
             "NexaPow": 62
@@ -1295,7 +1295,7 @@
             "RandomX": 1.191,
             "Eaglesong": 1.150,
             "Autolykos2": 85,
-            "KHeavyHash": 519,
+            "KHeavyHash": 0.519,
             "KarlsenHash": 930,
             "PyrinHash": 4200,
             "NexaPow": 69
@@ -1326,7 +1326,7 @@
             "RandomX": 1.692,
             "Eaglesong": null,
             "Autolykos2": 105,
-            "KHeavyHash": 768,
+            "KHeavyHash": 0.768,
             "KarlsenHash": 1370,
             "PyrinHash": 6100,
             "NexaPow": 94
@@ -1357,7 +1357,7 @@
             "RandomX": 1.19,
             "Eaglesong": 1.15,
             "Autolykos2": 87,
-            "KHeavyHash": 534,
+            "KHeavyHash": 0.534,
             "KarlsenHash": 980,
             "PyrinHash": 4400,
             "NexaPow": 71
@@ -1388,7 +1388,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 79,
-            "KHeavyHash": 180,
+            "KHeavyHash": 0.180,
             "KarlsenHash": 560,
             "PyrinHash": 2100,
             "NexaPow": 35
@@ -1419,7 +1419,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 115,
-            "KHeavyHash": 372,
+            "KHeavyHash": 0.372,
             "KarlsenHash": 850,
             "PyrinHash": 3100,
             "NexaPow": 54
@@ -1450,7 +1450,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 105,
-            "KHeavyHash": 450,
+            "KHeavyHash": 0.450,
             "KarlsenHash": 610,
             "PyrinHash": 2800,
             "NexaPow": 58
@@ -1481,7 +1481,7 @@
             "RandomX": 0.95,
             "Eaglesong": 1.000,
             "Autolykos2": 172,
-            "KHeavyHash": 625,
+            "KHeavyHash": 0.625,
             "KarlsenHash": 1050,
             "PyrinHash": 4850,
             "NexaPow": 76
@@ -1512,7 +1512,7 @@
             "RandomX": 1.08,
             "Eaglesong": 1.200,
             "Autolykos2": 177,
-            "KHeavyHash": 735,
+            "KHeavyHash": 0.735,
             "KarlsenHash": 1250,
             "PyrinHash": 5850,
             "NexaPow": 96
@@ -1543,7 +1543,7 @@
             "RandomX": 0.8,
             "Eaglesong": 0.7,
             "Autolykos2": 157,
-            "KHeavyHash": 525,
+            "KHeavyHash": 0.525,
             "KarlsenHash": 850,
             "PyrinHash": 3800,
             "NexaPow": 72
@@ -1574,7 +1574,7 @@
             "RandomX": 1.2,
             "Eaglesong": 1.3,
             "Autolykos2": 180,
-            "KHeavyHash": 745,
+            "KHeavyHash": 0.745,
             "KarlsenHash": 1300,
             "PyrinHash": 6100,
             "NexaPow": 101
@@ -1605,7 +1605,7 @@
             "RandomX": 0.85,
             "Eaglesong": 0.75,
             "Autolykos2": 162,
-            "KHeavyHash": 545,
+            "KHeavyHash": 0.545,
             "KarlsenHash": 950,
             "PyrinHash": 4350,
             "NexaPow": 74
@@ -1636,7 +1636,7 @@
             "RandomX": 1.4,
             "Eaglesong": 1.7,
             "Autolykos2": 215,
-            "KHeavyHash": 1030,
+            "KHeavyHash": 1.030,
             "KarlsenHash": 1850,
             "PyrinHash": 8520,
             "NexaPow": 135
@@ -1667,7 +1667,7 @@
             "RandomX": 0.89,
             "Eaglesong": 0.78,
             "Autolykos2": 167,
-            "KHeavyHash": 552,
+            "KHeavyHash": 0.552,
             "KarlsenHash": 980,
             "PyrinHash": 4750,
             "NexaPow": 78
@@ -1698,7 +1698,7 @@
             "RandomX": 1.8,
             "Eaglesong": 1.8,
             "Autolykos2": 255,
-            "KHeavyHash": 1070,
+            "KHeavyHash": 1.070,
             "KarlsenHash": 1970,
             "PyrinHash": 8850,
             "NexaPow": 142
@@ -1729,7 +1729,7 @@
             "RandomX": 1.9,
             "Eaglesong": 2.05,
             "Autolykos2": 261.2,
-            "KHeavyHash": 1190,
+            "KHeavyHash": 1.190,
             "KarlsenHash": 2150,
             "PyrinHash": 9520,
             "NexaPow": 155
@@ -1760,7 +1760,7 @@
             "RandomX": 1.95,
             "Eaglesong": 2.1,
             "Autolykos2": 275,
-            "KHeavyHash": 1200,
+            "KHeavyHash": 1.200,
             "KarlsenHash": 2250,
             "PyrinHash": 9550,
             "NexaPow": 157
@@ -1791,7 +1791,7 @@
             "RandomX": 2.0,
             "Eaglesong": 2.2,
             "Autolykos2": 280,
-            "KHeavyHash": 1230,
+            "KHeavyHash": 1.230,
             "KarlsenHash": 2300,
             "PyrinHash": 9700,
             "NexaPow": 165
@@ -1822,7 +1822,7 @@
             "RandomX": 0.9,
             "Eaglesong": 1.12,
             "Autolykos2": 75,
-            "KHeavyHash": 520,
+            "KHeavyHash": 0.520,
             "KarlsenHash": 950,
             "PyrinHash": 3950,
             "NexaPow": 72
@@ -1853,7 +1853,7 @@
             "RandomX": 1.3,
             "Eaglesong": 1.4,
             "Autolykos2": 91,
-            "KHeavyHash": 785,
+            "KHeavyHash": 0.785,
             "KarlsenHash": 1450,
             "PyrinHash": 4970,
             "NexaPow": 96
@@ -1884,7 +1884,7 @@
             "RandomX": 1.9,
             "Eaglesong": 2.0,
             "Autolykos2": 132,
-            "KHeavyHash": 1020,
+            "KHeavyHash": 1.020,
             "KarlsenHash": 1800,
             "PyrinHash": 7100,
             "NexaPow": 125
@@ -1915,7 +1915,7 @@
             "RandomX": 2.2,
             "Eaglesong": 2.2,
             "Autolykos2": 135,
-            "KHeavyHash": 1300,
+            "KHeavyHash": 1.300,
             "KarlsenHash": 2300,
             "PyrinHash": 10500,
             "NexaPow": 158
@@ -1946,7 +1946,7 @@
             "RandomX": 2.8,
             "Eaglesong": 2.7,
             "Autolykos2": 175,
-            "KHeavyHash": 1630,
+            "KHeavyHash": 1.630,
             "KarlsenHash": 2900,
             "PyrinHash": 12850,
             "NexaPow": 171
@@ -1977,7 +1977,7 @@
             "RandomX": 3.4,
             "Eaglesong": 3.5,
             "Autolykos2": 270,
-            "KHeavyHash": 2180,
+            "KHeavyHash": 2.180,
             "KarlsenHash": 4500,
             "PyrinHash": 19500,
             "NexaPow": 330
@@ -2008,7 +2008,7 @@
             "RandomX": 0.6,
             "Eaglesong": 0.55,
             "Autolykos2": 62,
-            "KHeavyHash": 290,
+            "KHeavyHash": 0.290,
             "KarlsenHash": 380,
             "PyrinHash": 650,
             "NexaPow": 35
@@ -2039,7 +2039,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 85,
-            "KHeavyHash": 395,
+            "KHeavyHash": 0.395,
             "KarlsenHash": 410,
             "PyrinHash": 750,
             "NexaPow": 48
@@ -2070,7 +2070,7 @@
             "RandomX": 1.1,
             "Eaglesong": 1.2,
             "Autolykos2": 110,
-            "KHeavyHash": 530,
+            "KHeavyHash": 0.530,
             "KarlsenHash": 1050,
             "PyrinHash": 1350,
             "NexaPow": 68
@@ -2101,7 +2101,7 @@
             "RandomX": 0.9,
             "Eaglesong": 1.1,
             "Autolykos2": 165,
-            "KHeavyHash": 480,
+            "KHeavyHash": 0.480,
             "KarlsenHash": 980,
             "PyrinHash": 1350,
             "NexaPow": 58
@@ -2132,7 +2132,7 @@
             "RandomX": 1.1,
             "Eaglesong": 1.2,
             "Autolykos2": 210,
-            "KHeavyHash": 750,
+            "KHeavyHash": 0.750,
             "KarlsenHash": 1100,
             "PyrinHash": 1450,
             "NexaPow": 90
@@ -2163,7 +2163,7 @@
             "RandomX": 0.95,
             "Eaglesong": 1.0,
             "Autolykos2": 415,
-            "KHeavyHash": 630,
+            "KHeavyHash": 0.630,
             "KarlsenHash": 850,
             "PyrinHash": 1150,
             "NexaPow": 91
@@ -2194,7 +2194,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 100,
-            "KHeavyHash": 310,
+            "KHeavyHash": 0.310,
             "KarlsenHash": 575,
             "PyrinHash": 2650,
             "NexaPow": 36
@@ -2225,7 +2225,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 155,
-            "KHeavyHash": 550,
+            "KHeavyHash": 0.550,
             "KarlsenHash": 1070,
             "PyrinHash": 4900,
             "NexaPow": 80
@@ -2256,7 +2256,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 240,
-            "KHeavyHash": 730,
+            "KHeavyHash": 0.730,
             "KarlsenHash": 1150,
             "PyrinHash": 5100,
             "NexaPow": 102
@@ -2566,7 +2566,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 8300000,
+            "KHeavyHash": 8300,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
@@ -2721,7 +2721,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 100000,
+            "KHeavyHash": 100,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
@@ -2752,7 +2752,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 1000000,
+            "KHeavyHash": 1000,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
@@ -2783,7 +2783,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 2000000,
+            "KHeavyHash": 2000,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
@@ -2814,7 +2814,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 8000000,
+            "KHeavyHash": 8000,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
@@ -2845,7 +2845,7 @@
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
-            "KHeavyHash": 5000000,
+            "KHeavyHash": 5000,
             "KarlsenHash": null,
             "PyrinHash": null,
             "NexaPow": null
