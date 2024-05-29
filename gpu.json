@@ -2577,7 +2577,7 @@
         "name": "iPollo V1 Classic",
         "marketing_name": "ASIC Ipollo V1 Classic",
         "vendor": "asic",
-        "ramSize": [3686],
+        "ramSize": [4096],
         "price": 10710,
         "secondHand": false,
         "algos": {
