@@ -19,14 +19,12 @@
             "BeamHash": 8,
             "Ethash": 27,
             "Etchash": 27,
-            "FiroPoW": 10,
             "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 63,
             "KHeavyHash": 0.166,
             "KarlsenHashV2": null,
-            "PyrinHash": 560,
             "NexaPow": 13.5
         }
     },
@@ -50,14 +48,12 @@
             "BeamHash": 11,
             "Ethash": 29,
             "Etchash": 29,
-            "FiroPoW": 11,
             "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 0.360,
             "Autolykos2": 63.50,
             "KHeavyHash": 0.203,
             "KarlsenHashV2": null,
-            "PyrinHash": 620,
             "NexaPow": 15
         }
     },
@@ -81,14 +77,12 @@
             "BeamHash": 9,
             "Ethash": 30,
             "Etchash": 30,
-            "FiroPoW": 10,
             "KAWPOW": 10,
             "RandomX": null,
             "Eaglesong": 0.324,
             "Autolykos2": 63.5,
             "KHeavyHash": 0.184,
             "KarlsenHashV2": null,
-            "PyrinHash": 630,
             "NexaPow": 14.7
         }
     },
@@ -112,14 +106,12 @@
             "BeamHash": 11.5,
             "Ethash": 30,
             "Etchash": 30,
-            "FiroPoW": 11,
             "KAWPOW": 11,
             "RandomX": null,
             "Eaglesong": 0.300,
             "Autolykos2": 66,
             "KHeavyHash": 0.203,
             "KarlsenHashV2": null,
-            "PyrinHash": 670,
             "NexaPow": 16.7
         }
     },
@@ -143,14 +135,12 @@
             "BeamHash": 12,
             "Ethash": 34,
             "Etchash": 34,
-            "FiroPoW": 12,
             "KAWPOW": 12,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 66,
             "KHeavyHash": 0.167,
             "KarlsenHashV2": null,
-            "PyrinHash": 675,
             "NexaPow": 16.7
         }
     },
@@ -174,14 +164,12 @@
             "BeamHash": 30,
             "Ethash": 53,
             "Etchash": 53,
-            "FiroPoW": 25,
             "KAWPOW": 25,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 140.50,
             "KHeavyHash": 0.297,
             "KarlsenHashV2": null,
-            "PyrinHash": 1100,
             "NexaPow": 36.6
         }
     },
@@ -205,14 +193,12 @@
             "BeamHash": 30.7,
             "Ethash": 54,
             "Etchash": 54,
-            "FiroPoW": 25,
             "KAWPOW": 25,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 145,
             "KHeavyHash": 0.352,
             "KarlsenHashV2": null,
-            "PyrinHash": 1270,
             "NexaPow": 42.7
         }
     },
@@ -236,14 +222,12 @@
             "BeamHash": 48.2,
             "Ethash": 90,
             "Etchash": 90,
-            "FiroPoW": 42,
             "KAWPOW": 42,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 205,
             "KHeavyHash": 0.531,
             "KarlsenHashV2": null,
-            "PyrinHash": 2450,
             "NexaPow": 45.3
         }
     },
@@ -267,14 +251,12 @@
             "BeamHash": 18.90,
             "Ethash": 43,
             "Etchash": 44,
-            "FiroPoW": 15.06,
             "KAWPOW": 15.06,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 80,
             "KHeavyHash": 0.254,
             "KarlsenHashV2": null,
-            "PyrinHash": 1050,
             "NexaPow": 26.5
         }
     },
@@ -298,14 +280,12 @@
             "BeamHash": 24,
             "Ethash": 54,
             "Etchash": 55,
-            "FiroPoW": 24.80,
             "KAWPOW": 24.80,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 108,
             "KHeavyHash": 0.251,
             "KarlsenHashV2": null,
-            "PyrinHash": 1150,
             "NexaPow": 28.4
         }
     },
@@ -329,14 +309,12 @@
             "BeamHash": 28.9,
             "Ethash": 55.2,
             "Etchash": 55.2,
-            "FiroPoW": 27.5,
             "KAWPOW": 27.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 108,
             "KHeavyHash": 0.340,
             "KarlsenHashV2": null,
-            "PyrinHash": 1200,
             "NexaPow": 38.5
         }
     },
@@ -360,14 +338,12 @@
             "BeamHash": 5.8,
             "Ethash": 14.1,
             "Etchash": 14.1,
-            "FiroPoW": 9.1,
             "KAWPOW": 9.1,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 26.5,
             "KHeavyHash": 0.211,
             "KarlsenHashV2": null,
-            "PyrinHash": 1000,
             "NexaPow": 14.9
         }
     },
@@ -391,14 +367,12 @@
             "BeamHash": 16.5,
             "Ethash": 30,
             "Etchash": 30,
-            "FiroPoW": 14.9,
             "KAWPOW": 14.9,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 61,
             "KHeavyHash": 0.345,
             "KarlsenHashV2": null,
-            "PyrinHash": 1700,
             "NexaPow": 32.5
         }
     },
@@ -422,14 +396,12 @@
             "BeamHash": 17.5,
             "Ethash": 33.5,
             "Etchash": 33.5,
-            "FiroPoW": 17.5,
             "KAWPOW": 17.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 62,
             "KHeavyHash": 0.384,
             "KarlsenHashV2": null,
-            "PyrinHash": 1950,
             "NexaPow": 38.5
         }
     },
@@ -453,14 +425,12 @@
             "BeamHash": 25,
             "Ethash": 45.50,
             "Etchash": 45.50,
-            "FiroPoW": 25.70,
             "KAWPOW": 25.70,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 95,
             "KHeavyHash": 0.475,
             "KarlsenHashV2": null,
-            "PyrinHash": 2350,
             "NexaPow": 45.5
         }
     },
@@ -484,14 +454,12 @@
             "BeamHash": 36,
             "Ethash": 63,
             "Etchash": 63,
-            "FiroPoW": 32.70,
             "KAWPOW": 32.70,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 119,
             "KHeavyHash": 0.734,
             "KarlsenHashV2": null,
-            "PyrinHash": 3700,
             "NexaPow": 64.5
         }
     },
@@ -515,14 +483,12 @@
             "BeamHash": 37,
             "Ethash": 63,
             "Etchash": 63,
-            "FiroPoW": 37.50,
             "KAWPOW": 37.50,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 125,
             "KHeavyHash": 0.872,
             "KarlsenHashV2": null,
-            "PyrinHash": 4270,
             "NexaPow": 76
         }
     },
@@ -546,14 +512,12 @@
             "BeamHash": 37.5,
             "Ethash": 63,
             "Etchash": 63,
-            "FiroPoW": 37.70,
             "KAWPOW": 37.70,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 125,
             "KHeavyHash": 0.968,
             "KarlsenHashV2": null,
-            "PyrinHash": 4800,
             "NexaPow": 95
         }
     },
@@ -577,14 +541,12 @@
             "BeamHash": 16.6,
             "Ethash": 32,
             "Etchash": 32,
-            "FiroPoW": 18.1,
             "KAWPOW": 18.1,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 62,
             "KHeavyHash": 0.345,
             "KarlsenHashV2": null,
-            "PyrinHash": 1970,
             "NexaPow": 33
         }
     },
@@ -608,14 +570,12 @@
             "BeamHash": 32.5,
             "Ethash": 49,
             "Etchash": 49,
-            "FiroPoW": 28.5,
             "KAWPOW": 28.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 95.5,
             "KHeavyHash": 0.725,
             "KarlsenHashV2": null,
-            "PyrinHash": 3350,
             "NexaPow": 62
         }
     },
@@ -639,14 +599,12 @@
             "BeamHash": 36.5,
             "Ethash": 67.5,
             "Etchash": 67.5,
-            "FiroPoW": 37.5,
             "KAWPOW": 37.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 135,
             "KHeavyHash": 0.950,
             "KarlsenHashV2": null,
-            "PyrinHash": 3750,
             "NexaPow": 94
         }
     },
@@ -670,14 +628,12 @@
             "BeamHash": null,
             "Ethash": 85,
             "Etchash": 85,
-            "FiroPoW": 49.5,
             "KAWPOW": 49.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 165,
             "KHeavyHash": 1.045,
             "KarlsenHashV2": null,
-            "PyrinHash": 5300,
             "NexaPow": 92
         }
     },
@@ -701,14 +657,12 @@
             "BeamHash": null,
             "Ethash": 102,
             "Etchash": 102,
-            "FiroPoW": 62,
             "KAWPOW": 62,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 195,
             "KHeavyHash": 1.055,
             "KarlsenHashV2": null,
-            "PyrinHash": 5950,
             "NexaPow": 98
         }
     },
@@ -732,14 +686,12 @@
             "BeamHash": 6.60,
             "Ethash": 14,
             "Etchash": 14,
-            "FiroPoW": 7,
             "KAWPOW": 7,
             "RandomX": 0.181,
             "Eaglesong": null,
             "Autolykos2": 32,
             "KHeavyHash": 0.112,
             "KarlsenHashV2": null,
-            "PyrinHash": 450,
             "NexaPow": 3.40
         }
     },
@@ -763,14 +715,12 @@
             "BeamHash": 10,
             "Ethash": 22,
             "Etchash": 23,
-            "FiroPoW": 10.00,
             "KAWPOW": 10.00,
             "RandomX": 0.280,
             "Eaglesong": 0.330,
             "Autolykos2": 52,
             "KHeavyHash": 0.183,
             "KarlsenHashV2": null,
-            "PyrinHash": 700,
             "NexaPow": 5.20
         }
     },
@@ -794,14 +744,12 @@
             "BeamHash": 17.40,
             "Ethash": 28,
             "Etchash": 32,
-            "FiroPoW": 14,
             "KAWPOW": 14,
             "RandomX": 0.609,
             "Eaglesong": 0.75,
             "Autolykos2": 65,
             "KHeavyHash": 0.235,
             "KarlsenHashV2": null,
-            "PyrinHash": 1050,
             "NexaPow": 7.20
         }
     },
@@ -825,14 +773,12 @@
             "BeamHash": 19.60,
             "Ethash": 30,
             "Etchash": 35,
-            "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": 0.769,
             "Eaglesong": 0.778,
             "Autolykos2": 65,
             "KHeavyHash": 0.378,
             "KarlsenHashV2": null,
-            "PyrinHash": 1300,
             "NexaPow": 8
         }
     },
@@ -856,14 +802,12 @@
             "BeamHash": 19,
             "Ethash": 45,
             "Etchash": 45,
-            "FiroPoW": 17.1,
             "KAWPOW": 17.1,
             "RandomX": null,
             "Eaglesong": 0.615,
             "Autolykos2": 92.5,
             "KHeavyHash": 0.285,
             "KarlsenHashV2": null,
-            "PyrinHash": 1650,
             "NexaPow": 11.5
         }
     },
@@ -887,14 +831,12 @@
             "BeamHash": 16,
             "Ethash": 35,
             "Etchash": 39,
-            "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": null,
             "Eaglesong": 0.592,
             "Autolykos2": 75,
             "KHeavyHash": 0.268,
             "KarlsenHashV2": null,
-            "PyrinHash": 1050,
             "NexaPow": 8.70
         }
     },
@@ -918,14 +860,12 @@
             "BeamHash": 12.7,
             "Ethash": 25,
             "Etchash": 25,
-            "FiroPoW": 12.5,
             "KAWPOW": 12.5,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 52,
             "KHeavyHash": 0.183,
             "KarlsenHashV2": null,
-            "PyrinHash": 700,
             "NexaPow": 5.2
         }
     },
@@ -949,14 +889,12 @@
             "BeamHash": 19,
             "Ethash": 38,
             "Etchash": 39,
-            "FiroPoW": 17,
             "KAWPOW": 17,
             "RandomX": 0.730,
             "Eaglesong": 0.780,
             "Autolykos2": 67,
             "KHeavyHash": 0.354,
             "KarlsenHashV2": null,
-            "PyrinHash": 1300,
             "NexaPow": 12
         }
     },
@@ -980,14 +918,12 @@
             "BeamHash": 28.30,
             "Ethash": 45,
             "Etchash": 53,
-            "FiroPoW": 25,
             "KAWPOW": 25,
             "RandomX": 1.136,
             "Eaglesong": 1.150,
             "Autolykos2": 105,
             "KHeavyHash": 0.497,
             "KarlsenHashV2": null,
-            "PyrinHash": 1900,
             "NexaPow": 16
         }
     },
@@ -1011,14 +947,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": 18.10,
-            "FiroPoW": 8.10,
             "KAWPOW": 8.10,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 36,
             "KHeavyHash": 0.200,
             "KarlsenHashV2": null,
-            "PyrinHash": 700,
             "NexaPow": 25
         }
     },
@@ -1042,14 +976,12 @@
             "BeamHash": 12.40,
             "Ethash": 21,
             "Etchash": 21,
-            "FiroPoW": 10.70,
             "KAWPOW": 10.70,
             "RandomX": 0.580,
             "Eaglesong": 0.486,
             "Autolykos2": 47,
             "KHeavyHash": 0.248,
             "KarlsenHashV2": null,
-            "PyrinHash": 1200,
             "NexaPow": 31
         }
     },
@@ -1073,14 +1005,12 @@
             "BeamHash": 15,
             "Ethash": 30,
             "Etchash": 30,
-            "FiroPoW": 14.2,
             "KAWPOW": 14.2,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 63,
             "KHeavyHash": 0.291,
             "KarlsenHashV2": null,
-            "PyrinHash": 1250,
             "NexaPow": 32
         }
     },
@@ -1104,14 +1034,12 @@
             "BeamHash": 15.70,
             "Ethash": 31.25,
             "Etchash": 31.25,
-            "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": 0.600,
             "Eaglesong": null,
             "Autolykos2": 59.80,
             "KHeavyHash": 0.331,
             "KarlsenHashV2": null,
-            "PyrinHash": 1300,
             "NexaPow": 34
         }
     },
@@ -1135,14 +1063,12 @@
             "BeamHash": 19,
             "Ethash": 31,
             "Etchash": 32,
-            "FiroPoW": 16,
             "KAWPOW": 16,
             "RandomX": null,
             "Eaglesong": 0.755,
             "Autolykos2": 63.80,
             "KHeavyHash": 0.340,
             "KarlsenHashV2": null,
-            "PyrinHash": 2850,
             "NexaPow": 42
         }
     },
@@ -1166,14 +1092,12 @@
             "BeamHash": 19.5,
             "Ethash": 33,
             "Etchash": 33,
-            "FiroPoW": 21,
             "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 67,
             "KHeavyHash": 0.370,
             "KarlsenHashV2": null,
-            "PyrinHash": 3050,
             "NexaPow": 47.5
         }
     },
@@ -1197,14 +1121,12 @@
             "BeamHash": 24,
             "Ethash": 39,
             "Etchash": 40,
-            "FiroPoW": 22.20,
             "KAWPOW": 22.20,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 88,
             "KHeavyHash": 0.385,
             "KarlsenHashV2": null,
-            "PyrinHash": 3100,
             "NexaPow": 49
         }
     },
@@ -1228,14 +1150,12 @@
             "BeamHash": 23.20,
             "Ethash": 39,
             "Etchash": 40,
-            "FiroPoW": 21,
             "KAWPOW": 21,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 90,
             "KHeavyHash": 0.407,
             "KarlsenHashV2": null,
-            "PyrinHash": 3200,
             "NexaPow": 51
         }
     },
@@ -1259,14 +1179,12 @@
             "BeamHash": 24.40,
             "Ethash": 40,
             "Etchash": 41,
-            "FiroPoW": 23,
             "KAWPOW": 23,
             "RandomX": 1.50,
             "Eaglesong": 0.830,
             "Autolykos2": 78,
             "KHeavyHash": 0.453,
             "KarlsenHashV2": null,
-            "PyrinHash": 3650,
             "NexaPow": 62
         }
     },
@@ -1290,14 +1208,12 @@
             "BeamHash": 25,
             "Ethash": 42,
             "Etchash": 42,
-            "FiroPoW": 30,
             "KAWPOW": 30,
             "RandomX": 1.191,
             "Eaglesong": 1.150,
             "Autolykos2": 85,
             "KHeavyHash": 0.519,
             "KarlsenHashV2": null,
-            "PyrinHash": 4200,
             "NexaPow": 69
         }
     },
@@ -1321,14 +1237,12 @@
             "BeamHash": 28,
             "Ethash": 57,
             "Etchash": 57,
-            "FiroPoW": 36,
             "KAWPOW": 36,
             "RandomX": 1.692,
             "Eaglesong": null,
             "Autolykos2": 105,
             "KHeavyHash": 0.768,
             "KarlsenHashV2": null,
-            "PyrinHash": 6100,
             "NexaPow": 94
         }
     },
@@ -1352,14 +1266,12 @@
             "BeamHash": 27,
             "Ethash": 57,
             "Etchash": 57,
-            "FiroPoW": 30,
             "KAWPOW": 30,
             "RandomX": 1.19,
             "Eaglesong": 1.15,
             "Autolykos2": 87,
             "KHeavyHash": 0.534,
             "KarlsenHashV2": null,
-            "PyrinHash": 4400,
             "NexaPow": 71
         }
     },
@@ -1383,14 +1295,12 @@
             "BeamHash": 15.7,
             "Ethash": 26,
             "Etchash": 26,
-            "FiroPoW": 15.2,
             "KAWPOW": 15.2,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 79,
             "KHeavyHash": 0.180,
             "KarlsenHashV2": null,
-            "PyrinHash": 2100,
             "NexaPow": 35
         }
     },
@@ -1414,14 +1324,12 @@
             "BeamHash": 27.70,
             "Ethash": 48,
             "Etchash": 48,
-            "FiroPoW": 22.70,
             "KAWPOW": 22.70,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 115,
             "KHeavyHash": 0.372,
             "KarlsenHashV2": null,
-            "PyrinHash": 3100,
             "NexaPow": 54
         }
     },
@@ -1445,14 +1353,12 @@
             "BeamHash": null,
             "Ethash": 46,
             "Etchash": 46,
-            "FiroPoW": 23,
             "KAWPOW": 23,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 105,
             "KHeavyHash": 0.450,
             "KarlsenHashV2": null,
-            "PyrinHash": 2800,
             "NexaPow": 58
         }
     },
@@ -1476,14 +1382,12 @@
             "BeamHash": 33.80,
             "Ethash": 60,
             "Etchash": 61,
-            "FiroPoW": 30.50,
             "KAWPOW": 30.50,
             "RandomX": 0.95,
             "Eaglesong": 1.000,
             "Autolykos2": 172,
             "KHeavyHash": 0.625,
             "KarlsenHashV2": null,
-            "PyrinHash": 4850,
             "NexaPow": 76
         }
     },
@@ -1507,14 +1411,12 @@
             "BeamHash": 36,
             "Ethash": 61,
             "Etchash": 61,
-            "FiroPoW": 31.3,
             "KAWPOW": 31.3,
             "RandomX": 1.08,
             "Eaglesong": 1.200,
             "Autolykos2": 177,
             "KHeavyHash": 0.735,
             "KarlsenHashV2": null,
-            "PyrinHash": 5850,
             "NexaPow": 96
         }
     },
@@ -1538,14 +1440,12 @@
             "BeamHash": 32.5,
             "Ethash": 60,
             "Etchash": 60,
-            "FiroPoW": 24,
             "KAWPOW": 24,
             "RandomX": 0.8,
             "Eaglesong": 0.7,
             "Autolykos2": 157,
             "KHeavyHash": 0.525,
             "KarlsenHashV2": null,
-            "PyrinHash": 4450,
             "NexaPow": 72
         }
     },
@@ -1569,14 +1469,12 @@
             "BeamHash": 38,
             "Ethash": 80,
             "Etchash": 80,
-            "FiroPoW": 40,
             "KAWPOW": 40,
             "RandomX": 1.2,
             "Eaglesong": 1.3,
             "Autolykos2": 180,
             "KHeavyHash": 0.745,
             "KarlsenHashV2": null,
-            "PyrinHash": 6100,
             "NexaPow": 101
         }
     },
@@ -1600,14 +1498,12 @@
             "BeamHash": 33.5,
             "Ethash": 62,
             "Etchash": 62,
-            "FiroPoW": 27,
             "KAWPOW": 27,
             "RandomX": 0.85,
             "Eaglesong": 0.75,
             "Autolykos2": 162,
             "KHeavyHash": 0.545,
             "KarlsenHashV2": null,
-            "PyrinHash": 4350,
             "NexaPow": 74
         }
     },
@@ -1631,14 +1527,12 @@
             "BeamHash": 53,
             "Ethash": 98,
             "Etchash": 98,
-            "FiroPoW": 49,
             "KAWPOW": 49,
             "RandomX": 1.4,
             "Eaglesong": 1.7,
             "Autolykos2": 215,
             "KHeavyHash": 1.030,
             "KarlsenHashV2": null,
-            "PyrinHash": 8520,
             "NexaPow": 135
         }
     },
@@ -1662,14 +1556,12 @@
             "BeamHash": 34.1,
             "Ethash": 68,
             "Etchash": 68,
-            "FiroPoW": 33,
             "KAWPOW": 33,
             "RandomX": 0.89,
             "Eaglesong": 0.78,
             "Autolykos2": 167,
             "KHeavyHash": 0.552,
             "KarlsenHashV2": null,
-            "PyrinHash": 4750,
             "NexaPow": 78
         }
     },
@@ -1693,14 +1585,12 @@
             "BeamHash": 55,
             "Ethash": 120,
             "Etchash": 120,
-            "FiroPoW": 53,
             "KAWPOW": 53,
             "RandomX": 1.8,
             "Eaglesong": 1.8,
             "Autolykos2": 255,
             "KHeavyHash": 1.070,
             "KarlsenHashV2": null,
-            "PyrinHash": 8850,
             "NexaPow": 142
         }
     },
@@ -1724,14 +1614,12 @@
             "BeamHash": 57,
             "Ethash": 120,
             "Etchash": 120,
-            "FiroPoW": 58.9,
             "KAWPOW": 58.9,
             "RandomX": 1.9,
             "Eaglesong": 2.05,
             "Autolykos2": 261.2,
             "KHeavyHash": 1.190,
             "KarlsenHashV2": null,
-            "PyrinHash": 9520,
             "NexaPow": 155
         }
     },
@@ -1755,14 +1643,12 @@
             "BeamHash": 58,
             "Ethash": 120,
             "Etchash": 120,
-            "FiroPoW": 59,
             "KAWPOW": 59,
             "RandomX": 1.95,
             "Eaglesong": 2.1,
             "Autolykos2": 275,
             "KHeavyHash": 1.200,
             "KarlsenHashV2": null,
-            "PyrinHash": 9550,
             "NexaPow": 157
         }
     },
@@ -1786,14 +1672,12 @@
             "BeamHash": 59,
             "Ethash": 125,
             "Etchash": 125,
-            "FiroPoW": 63,
             "KAWPOW": 63,
             "RandomX": 2.0,
             "Eaglesong": 2.2,
             "Autolykos2": 280,
             "KHeavyHash": 1.230,
             "KarlsenHashV2": null,
-            "PyrinHash": 9700,
             "NexaPow": 165
         }
     },
@@ -1817,14 +1701,12 @@
             "BeamHash": 27,
             "Ethash": 33,
             "Etchash": 33,
-            "FiroPoW": 18,
             "KAWPOW": 18,
             "RandomX": 0.9,
             "Eaglesong": 1.12,
             "Autolykos2": 75,
             "KHeavyHash": 0.520,
             "KarlsenHashV2": null,
-            "PyrinHash": 3950,
             "NexaPow": 72
         }
     },
@@ -1848,14 +1730,12 @@
             "BeamHash": 34,
             "Ethash": 39,
             "Etchash": 39,
-            "FiroPoW": 20,
             "KAWPOW": 20,
             "RandomX": 1.3,
             "Eaglesong": 1.4,
             "Autolykos2": 91,
             "KHeavyHash": 0.785,
             "KarlsenHashV2": null,
-            "PyrinHash": 4970,
             "NexaPow": 96
         }
     },
@@ -1879,14 +1759,12 @@
             "BeamHash": 40,
             "Ethash": 63,
             "Etchash": 63,
-            "FiroPoW": 32,
             "KAWPOW": 32,
             "RandomX": 1.9,
             "Eaglesong": 2.0,
             "Autolykos2": 132,
             "KHeavyHash": 1.020,
             "KarlsenHashV2": null,
-            "PyrinHash": 7100,
             "NexaPow": 125
         }
     },
@@ -1910,14 +1788,12 @@
             "BeamHash": 51,
             "Ethash": 65,
             "Etchash": 65,
-            "FiroPoW": 37,
             "KAWPOW": 37,
             "RandomX": 2.2,
             "Eaglesong": 2.2,
             "Autolykos2": 135,
             "KHeavyHash": 1.300,
             "KarlsenHashV2": null,
-            "PyrinHash": 10500,
             "NexaPow": 158
         }
     },
@@ -1941,14 +1817,12 @@
             "BeamHash": 45,
             "Ethash": 65,
             "Etchash": 65,
-            "FiroPoW": 35,
             "KAWPOW": 35,
             "RandomX": 2.1,
             "Eaglesong": 2.1,
             "Autolykos2": 133,
             "KHeavyHash": 1.150,
             "KarlsenHashV2": null,
-            "PyrinHash": 8900,
             "NexaPow": 135
         }
     },
@@ -1972,14 +1846,12 @@
             "BeamHash": 61,
             "Ethash": 74,
             "Etchash": 74,
-            "FiroPoW": 43,
             "KAWPOW": 43,
             "RandomX": 2.5,
             "Eaglesong": 2.5,
             "Autolykos2": 160,
             "KHeavyHash": 1.550,
             "KarlsenHashV2": null,
-            "PyrinHash": 11500,
             "NexaPow": 167
         }
     },
@@ -2003,14 +1875,12 @@
             "BeamHash": 68,
             "Ethash": 90,
             "Etchash": 90,
-            "FiroPoW": 51,
             "KAWPOW": 51,
             "RandomX": 2.9,
             "Eaglesong": 2.9,
             "Autolykos2": 180,
             "KHeavyHash": 1.650,
             "KarlsenHashV2": null,
-            "PyrinHash": 12990,
             "NexaPow": 180
         }
     },
@@ -2034,14 +1904,12 @@
             "BeamHash": 65,
             "Ethash": 89,
             "Etchash": 89,
-            "FiroPoW": 45,
             "KAWPOW": 45,
             "RandomX": 2.8,
             "Eaglesong": 2.7,
             "Autolykos2": 175,
             "KHeavyHash": 1.630,
             "KarlsenHashV2": null,
-            "PyrinHash": 12850,
             "NexaPow": 171
         }
     },
@@ -2065,14 +1933,12 @@
             "BeamHash": 86,
             "Ethash": 127,
             "Etchash": 127,
-            "FiroPoW": 65,
             "KAWPOW": 65,
             "RandomX": 3.4,
             "Eaglesong": 3.5,
             "Autolykos2": 270,
             "KHeavyHash": 2.180,
             "KarlsenHashV2": null,
-            "PyrinHash": 19500,
             "NexaPow": 330
         }
     },
@@ -2096,14 +1962,12 @@
             "BeamHash": 14,
             "Ethash": 31,
             "Etchash": 31,
-            "FiroPoW": 12,
             "KAWPOW": 12,
             "RandomX": 0.6,
             "Eaglesong": 0.55,
             "Autolykos2": 62,
             "KHeavyHash": 0.290,
             "KarlsenHashV2": null,
-            "PyrinHash": 650,
             "NexaPow": 35
         }
     },
@@ -2127,14 +1991,12 @@
             "BeamHash": 22,
             "Ethash": 43,
             "Etchash": 43,
-            "FiroPoW": 19,
             "KAWPOW": 19,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 85,
             "KHeavyHash": 0.395,
             "KarlsenHashV2": null,
-            "PyrinHash": 750,
             "NexaPow": 48
         }
     },
@@ -2158,14 +2020,12 @@
             "BeamHash": 26,
             "Ethash": 55,
             "Etchash": 55,
-            "FiroPoW": 22,
             "KAWPOW": 22,
             "RandomX": 1.1,
             "Eaglesong": 1.2,
             "Autolykos2": 110,
             "KHeavyHash": 0.530,
             "KarlsenHashV2": null,
-            "PyrinHash": 1350,
             "NexaPow": 68
         }
     },
@@ -2189,14 +2049,12 @@
             "BeamHash": 25,
             "Ethash": 81,
             "Etchash": 81,
-            "FiroPoW": 31,
             "KAWPOW": 31,
             "RandomX": 0.9,
             "Eaglesong": 1.1,
             "Autolykos2": 165,
             "KHeavyHash": 0.480,
             "KarlsenHashV2": null,
-            "PyrinHash": 1350,
             "NexaPow": 58
         }
     },
@@ -2220,14 +2078,12 @@
             "BeamHash": 36,
             "Ethash": 100,
             "Etchash": 100,
-            "FiroPoW": 45,
             "KAWPOW": 45,
             "RandomX": 1.1,
             "Eaglesong": 1.2,
             "Autolykos2": 210,
             "KHeavyHash": 0.750,
             "KarlsenHashV2": null,
-            "PyrinHash": 1450,
             "NexaPow": 90
         }
     },
@@ -2251,14 +2107,12 @@
             "BeamHash": 37,
             "Ethash": 160,
             "Etchash": 160,
-            "FiroPoW": 55,
             "KAWPOW": 55,
             "RandomX": 0.95,
             "Eaglesong": 1.0,
             "Autolykos2": 415,
             "KHeavyHash": 0.630,
             "KarlsenHashV2": null,
-            "PyrinHash": 1150,
             "NexaPow": 91
         }
     },
@@ -2282,14 +2136,12 @@
             "BeamHash": 21,
             "Ethash": 40,
             "Etchash": 40,
-            "FiroPoW": 15,
             "KAWPOW": 15,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 100,
             "KHeavyHash": 0.310,
             "KarlsenHashV2": null,
-            "PyrinHash": 2650,
             "NexaPow": 36
         }
     },
@@ -2313,14 +2165,12 @@
             "BeamHash": 34,
             "Ethash": 62,
             "Etchash": 62,
-            "FiroPoW": 27,
             "KAWPOW": 27,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 155,
             "KHeavyHash": 0.550,
             "KarlsenHashV2": null,
-            "PyrinHash": 4900,
             "NexaPow": 80
         }
     },
@@ -2344,14 +2194,12 @@
             "BeamHash": 40,
             "Ethash": 100,
             "Etchash": 100,
-            "FiroPoW": 43,
             "KAWPOW": 43,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": 240,
             "KHeavyHash": 0.730,
             "KarlsenHashV2": null,
-            "PyrinHash": 5100,
             "NexaPow": 102
         }
     },
@@ -2375,14 +2223,12 @@
             "BeamHash": null,
             "Ethash": 2400,
             "Etchash": 2400,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2406,14 +2252,12 @@
             "BeamHash": null,
             "Ethash": 3680,
             "Etchash": 3680,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2437,14 +2281,12 @@
             "BeamHash": null,
             "Ethash": 500,
             "Etchash": 500,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2468,14 +2310,12 @@
             "BeamHash": null,
             "Ethash": 750,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2499,14 +2339,12 @@
             "BeamHash": null,
             "Ethash": 1500,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2530,14 +2368,12 @@
             "BeamHash": null,
             "Ethash": 2600,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2561,14 +2397,12 @@
             "BeamHash": null,
             "Ethash": 3600,
             "Etchash": 3600,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2592,14 +2426,12 @@
             "BeamHash": null,
             "Ethash": 1550,
             "Etchash": 1550,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2623,14 +2455,12 @@
             "BeamHash": null,
             "Ethash": 300,
             "Etchash": 300,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2654,14 +2484,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 8300,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2685,14 +2513,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 21000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2716,14 +2542,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": 212,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2747,14 +2571,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2778,14 +2600,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2809,14 +2629,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2840,14 +2658,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 100,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2871,14 +2687,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 200,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2902,14 +2716,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 1000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2933,14 +2745,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 2000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2964,14 +2774,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 8000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -2995,14 +2803,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 5000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3026,14 +2832,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 6000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3057,14 +2861,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 12000,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3088,14 +2890,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 1180,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3119,14 +2919,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": 10500,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3150,14 +2948,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3181,14 +2977,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3212,14 +3006,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 1130,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3243,14 +3035,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 63500,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3274,14 +3064,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 1550,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     },
@@ -3305,14 +3093,12 @@
             "BeamHash": null,
             "Ethash": null,
             "Etchash": null,
-            "FiroPoW": null,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": 12000,
             "Autolykos2": null,
             "KHeavyHash": null,
             "KarlsenHashV2": null,
-            "PyrinHash": null,
             "NexaPow": null
         }
     }

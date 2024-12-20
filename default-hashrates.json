@@ -10,13 +10,11 @@
     "BeamHash": 10800,
     "Ethash": 18300,
     "Etchash": 18300,
-    "FiroPoW": 9090,
     "KAWPOW": 9090,
     "RandomX": 324,
     "Eaglesong": 360,
     "Autolykos2": 51600,
     "KHeavyHash": 220.5,
     "KarlsenHashV2": 9000,
-    "PyrinHash": 1755000,
     "NexaPow": 28800
 }
