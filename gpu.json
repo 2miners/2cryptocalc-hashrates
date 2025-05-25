@@ -2938,7 +2938,7 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
-            "Cuckatoo31": null,
+            "Cuckatoo31": 126,
             "Cuckatoo32": 36,
             "CuckooCycle": null,
             "CuckooCortex": null,
@@ -2967,7 +2967,7 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": null,
-            "Cuckatoo31": null,
+            "Cuckatoo31": 4.2,
             "Cuckatoo32": 1.2,
             "CuckooCycle": null,
             "CuckooCortex": null,
