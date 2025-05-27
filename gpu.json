@@ -1401,7 +1401,7 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 10.11,
-            "Cuckatoo31": 2,
+            "Cuckatoo31": 1.5,
             "Cuckatoo32": 0.62,
             "CuckooCycle": 10,
             "CuckooCortex": 3.70,
@@ -1517,7 +1517,7 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 11.5,
-            "Cuckatoo31": 2.5,
+            "Cuckatoo31": 2.05,
             "Cuckatoo32": 1.05,
             "CuckooCycle": 16,
             "CuckooCortex": 5.4,
@@ -1604,7 +1604,7 @@
         "secondHand": false,
         "algos": {
             "Cuckarood29": 12.5,
-            "Cuckatoo31": 3.15,
+            "Cuckatoo31": 2.2,
             "Cuckatoo32": 1.3,
             "CuckooCycle": 16.5,
             "CuckooCortex": 6.7,
