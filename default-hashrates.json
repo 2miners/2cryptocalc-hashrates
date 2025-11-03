@@ -5,7 +5,6 @@
     "CuckooCycle": 3000,
     "CuckooCortex": 1110,
     "Equihash": 240000,
-    "Equihash 125_4": 18600,
     "Equihash 144_5": 33000,
     "BeamHash": 10800,
     "Ethash": 18300,
@@ -15,6 +14,5 @@
     "Eaglesong": 360,
     "Autolykos2": 51600,
     "KHeavyHash": 220.5,
-    "KarlsenHashV2": 9000,
     "NexaPow": 28800
 }
