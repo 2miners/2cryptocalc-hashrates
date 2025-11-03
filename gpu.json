@@ -2241,33 +2241,6 @@
         }
     },
     {
-        "id": "ipollo-v1classic",
-        "name": "iPollo V1 Classic",
-        "marketing_name": "ASIC Ipollo V1 Classic",
-        "vendor": "asic",
-        "ramSize": [4096],
-        "price": 10710,
-        "secondHand": false,
-        "algos": {
-            "Cuckarood29": null,
-            "Cuckatoo31": null,
-            "Cuckatoo32": null,
-            "CuckooCycle": null,
-            "CuckooCortex": null,
-            "Equihash": null,
-            "Equihash 144_5": null,
-            "BeamHash": null,
-            "Ethash": 1550,
-            "Etchash": 1550,
-            "KAWPOW": null,
-            "RandomX": null,
-            "Eaglesong": null,
-            "Autolykos2": null,
-            "KHeavyHash": null,
-            "NexaPow": null
-        }
-    },
-    {
         "id": "ipollo-v1mini",
         "name": "iPollo V1 Mini",
         "marketing_name": "ASIC Ipollo V1 Mini",
