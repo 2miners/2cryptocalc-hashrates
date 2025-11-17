@@ -2150,7 +2150,7 @@
             "Equihash 144_5": null,
             "BeamHash": null,
             "Ethash": 750,
-            "Etchash": null,
+            "Etchash": 750,
             "KAWPOW": null,
             "RandomX": null,
             "Eaglesong": null,
