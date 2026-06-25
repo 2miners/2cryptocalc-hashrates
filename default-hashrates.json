@@ -15,5 +15,6 @@
     "Autolykos2": 51600,
     "KHeavyHash": 220.5,
     "NexaPow": 28800,
-    "SHA256": 200
+    "SHA256": 200,
+    "PearlHash": 26112
 }
