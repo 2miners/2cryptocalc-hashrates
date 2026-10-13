@@ -16,5 +16,6 @@
     "KHeavyHash": 220.5,
     "NexaPow": 28800,
     "SHA256": 200,
-    "PearlHash": 17493
+    "PearlHash": 17493,
+    "Poseidon2": 89700
 }
