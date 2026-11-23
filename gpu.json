@@ -23,7 +23,8 @@
             "KHeavyHash": 0.166,
             "NexaPow": 13.5,
             "PearlHash": null,
-            "Poseidon2": 48.8
+            "Poseidon2": 48.8,
+            "NebHash": null
         }
     },
     {
@@ -50,7 +51,8 @@
             "KHeavyHash": 0.203,
             "NexaPow": 15,
             "PearlHash": null,
-            "Poseidon2": 54.5
+            "Poseidon2": 54.5,
+            "NebHash": null
         }
     },
     {
@@ -77,7 +79,8 @@
             "KHeavyHash": 0.184,
             "NexaPow": 14.7,
             "PearlHash": null,
-            "Poseidon2": 50.5
+            "Poseidon2": 50.5,
+            "NebHash": null
         }
     },
     {
@@ -104,7 +107,8 @@
             "KHeavyHash": 0.203,
             "NexaPow": 16.7,
             "PearlHash": null,
-            "Poseidon2": 58.5
+            "Poseidon2": 58.5,
+            "NebHash": null
         }
     },
     {
@@ -131,7 +135,8 @@
             "KHeavyHash": 0.167,
             "NexaPow": 16.7,
             "PearlHash": null,
-            "Poseidon2": 57.5
+            "Poseidon2": 57.5,
+            "NebHash": null
         }
     },
     {
@@ -158,7 +163,8 @@
             "KHeavyHash": 0.297,
             "NexaPow": 36.6,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -185,7 +191,8 @@
             "KHeavyHash": 0.352,
             "NexaPow": 42.7,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -212,7 +219,8 @@
             "KHeavyHash": 0.531,
             "NexaPow": 45.3,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -239,7 +247,8 @@
             "KHeavyHash": 0.254,
             "NexaPow": 26.5,
             "PearlHash": null,
-            "Poseidon2": 66.5
+            "Poseidon2": 66.5,
+            "NebHash": null
         }
     },
     {
@@ -266,7 +275,8 @@
             "KHeavyHash": 0.251,
             "NexaPow": 28.4,
             "PearlHash": null,
-            "Poseidon2": 67.5
+            "Poseidon2": 67.5,
+            "NebHash": null
         }
     },
     {
@@ -293,7 +303,8 @@
             "KHeavyHash": 0.340,
             "NexaPow": 38.5,
             "PearlHash": null,
-            "Poseidon2": 80
+            "Poseidon2": 80,
+            "NebHash": null
         }
     },
     {
@@ -320,7 +331,8 @@
             "KHeavyHash": 0.211,
             "NexaPow": 14.9,
             "PearlHash": 2.96,
-            "Poseidon2": 46.5
+            "Poseidon2": 46.5,
+            "NebHash": null
         }
     },
     {
@@ -347,7 +359,8 @@
             "KHeavyHash": 0.345,
             "NexaPow": 32.5,
             "PearlHash": 6.49,
-            "Poseidon2": 75.5
+            "Poseidon2": 75.5,
+            "NebHash": null
         }
     },
     {
@@ -374,7 +387,8 @@
             "KHeavyHash": 0.384,
             "NexaPow": 38.5,
             "PearlHash": 6.37,
-            "Poseidon2": 88
+            "Poseidon2": 88,
+            "NebHash": null
         }
     },
     {
@@ -401,7 +415,8 @@
             "KHeavyHash": 0.475,
             "NexaPow": 45.5,
             "PearlHash": 8.09,
-            "Poseidon2": 109.5
+            "Poseidon2": 109.5,
+            "NebHash": null
         }
     },
     {
@@ -428,7 +443,8 @@
             "KHeavyHash": 0.734,
             "NexaPow": 64.5,
             "PearlHash": 14.11,
-            "Poseidon2": 153.5
+            "Poseidon2": 153.5,
+            "NebHash": null
         }
     },
     {
@@ -455,7 +471,8 @@
             "KHeavyHash": 0.872,
             "NexaPow": 76,
             "PearlHash": 17.1,
-            "Poseidon2": 185.5
+            "Poseidon2": 185.5,
+            "NebHash": null
         }
     },
     {
@@ -482,7 +499,8 @@
             "KHeavyHash": 0.968,
             "NexaPow": 95,
             "PearlHash": 17.97,
-            "Poseidon2": 207.5
+            "Poseidon2": 207.5,
+            "NebHash": null
         }
     },
     {
@@ -509,7 +527,8 @@
             "KHeavyHash": 0.345,
             "NexaPow": 33,
             "PearlHash": 11.93,
-            "Poseidon2": 76
+            "Poseidon2": 76,
+            "NebHash": null
         }
     },
     {
@@ -536,7 +555,8 @@
             "KHeavyHash": 0.725,
             "NexaPow": 62,
             "PearlHash": 23.66,
-            "Poseidon2": 126.5
+            "Poseidon2": 126.5,
+            "NebHash": null
         }
     },
     {
@@ -563,7 +583,8 @@
             "KHeavyHash": 0.950,
             "NexaPow": 94,
             "PearlHash": 26.22,
-            "Poseidon2": 140
+            "Poseidon2": 140,
+            "NebHash": null
         }
     },
     {
@@ -590,7 +611,8 @@
             "KHeavyHash": 1.045,
             "NexaPow": 92,
             "PearlHash": 37.04,
-            "Poseidon2": 210
+            "Poseidon2": 210,
+            "NebHash": null
         }
     },
     {
@@ -617,7 +639,8 @@
             "KHeavyHash": 1.055,
             "NexaPow": 98,
             "PearlHash": 40.96,
-            "Poseidon2": 238
+            "Poseidon2": 238,
+            "NebHash": 366
         }
     },
     {
@@ -644,7 +667,8 @@
             "KHeavyHash": 0.112,
             "NexaPow": 3.40,
             "PearlHash": null,
-            "Poseidon2": 15
+            "Poseidon2": 15,
+            "NebHash": null
         }
     },
     {
@@ -671,7 +695,8 @@
             "KHeavyHash": 0.183,
             "NexaPow": 5.20,
             "PearlHash": null,
-            "Poseidon2": 26
+            "Poseidon2": 26,
+            "NebHash": null
         }
     },
     {
@@ -698,7 +723,8 @@
             "KHeavyHash": 0.235,
             "NexaPow": 7.20,
             "PearlHash": null,
-            "Poseidon2": 40
+            "Poseidon2": 40,
+            "NebHash": null
         }
     },
     {
@@ -725,7 +751,8 @@
             "KHeavyHash": 0.378,
             "NexaPow": 8,
             "PearlHash": null,
-            "Poseidon2": 74
+            "Poseidon2": 74,
+            "NebHash": null
         }
     },
     {
@@ -752,7 +779,8 @@
             "KHeavyHash": 0.285,
             "NexaPow": 11.5,
             "PearlHash": null,
-            "Poseidon2": 45
+            "Poseidon2": 45,
+            "NebHash": null
         }
     },
     {
@@ -779,7 +807,8 @@
             "KHeavyHash": 0.268,
             "NexaPow": 8.70,
             "PearlHash": null,
-            "Poseidon2": 40
+            "Poseidon2": 40,
+            "NebHash": null
         }
     },
     {
@@ -806,7 +835,8 @@
             "KHeavyHash": 0.183,
             "NexaPow": 5.2,
             "PearlHash": null,
-            "Poseidon2": 25
+            "Poseidon2": 25,
+            "NebHash": null
         }
     },
     {
@@ -833,7 +863,8 @@
             "KHeavyHash": 0.354,
             "NexaPow": 12,
             "PearlHash": null,
-            "Poseidon2": 77
+            "Poseidon2": 77,
+            "NebHash": null
         }
     },
     {
@@ -860,7 +891,8 @@
             "KHeavyHash": 0.497,
             "NexaPow": 16,
             "PearlHash": null,
-            "Poseidon2": 108
+            "Poseidon2": 108,
+            "NebHash": null
         }
     },
     {
@@ -887,7 +919,8 @@
             "KHeavyHash": 0.200,
             "NexaPow": 25,
             "PearlHash": null,
-            "Poseidon2": 80
+            "Poseidon2": 80,
+            "NebHash": null
         }
     },
     {
@@ -914,7 +947,8 @@
             "KHeavyHash": 0.248,
             "NexaPow": 31,
             "PearlHash": null,
-            "Poseidon2": 113
+            "Poseidon2": 113,
+            "NebHash": null
         }
     },
     {
@@ -941,7 +975,8 @@
             "KHeavyHash": 0.291,
             "NexaPow": 32,
             "PearlHash": null,
-            "Poseidon2": 113
+            "Poseidon2": 113,
+            "NebHash": null
         }
     },
     {
@@ -968,7 +1003,8 @@
             "KHeavyHash": 0.331,
             "NexaPow": 34,
             "PearlHash": null,
-            "Poseidon2": 123
+            "Poseidon2": 123,
+            "NebHash": null
         }
     },
     {
@@ -995,7 +1031,8 @@
             "KHeavyHash": 0.340,
             "NexaPow": 42,
             "PearlHash": null,
-            "Poseidon2": 154
+            "Poseidon2": 154,
+            "NebHash": null
         }
     },
     {
@@ -1022,7 +1059,8 @@
             "KHeavyHash": 0.370,
             "NexaPow": 47.5,
             "PearlHash": 27.55,
-            "Poseidon2": 170
+            "Poseidon2": 170,
+            "NebHash": null
         }
     },
     {
@@ -1049,7 +1087,8 @@
             "KHeavyHash": 0.385,
             "NexaPow": 49,
             "PearlHash": 27.73,
-            "Poseidon2": 175
+            "Poseidon2": 175,
+            "NebHash": null
         }
     },
     {
@@ -1076,7 +1115,8 @@
             "KHeavyHash": 0.407,
             "NexaPow": 51,
             "PearlHash": 27.52,
-            "Poseidon2": 185
+            "Poseidon2": 185,
+            "NebHash": null
         }
     },
     {
@@ -1103,7 +1143,8 @@
             "KHeavyHash": 0.453,
             "NexaPow": 62,
             "PearlHash": 32.18,
-            "Poseidon2": 219.5
+            "Poseidon2": 219.5,
+            "NebHash": null
         }
     },
     {
@@ -1130,7 +1171,8 @@
             "KHeavyHash": 0.519,
             "NexaPow": 69,
             "PearlHash": 35.62,
-            "Poseidon2": 254
+            "Poseidon2": 254,
+            "NebHash": null
         }
     },
     {
@@ -1157,7 +1199,8 @@
             "KHeavyHash": 0.768,
             "NexaPow": 94,
             "PearlHash": 51.27,
-            "Poseidon2": 340
+            "Poseidon2": 340,
+            "NebHash": null
         }
     },
     {
@@ -1184,7 +1227,8 @@
             "KHeavyHash": 0.534,
             "NexaPow": 71,
             "PearlHash": 38.05,
-            "Poseidon2": 285
+            "Poseidon2": 285,
+            "NebHash": null
         }
     },
     {
@@ -1211,7 +1255,8 @@
             "KHeavyHash": 0.180,
             "NexaPow": 35,
             "PearlHash": 21.2,
-            "Poseidon2": 110
+            "Poseidon2": 110,
+            "NebHash": null
         }
     },
     {
@@ -1238,7 +1283,8 @@
             "KHeavyHash": 0.372,
             "NexaPow": 54,
             "PearlHash": 32.34,
-            "Poseidon2": 182
+            "Poseidon2": 182,
+            "NebHash": null
         }
     },
     {
@@ -1265,7 +1311,8 @@
             "KHeavyHash": 0.450,
             "NexaPow": 58,
             "PearlHash": null,
-            "Poseidon2": 199
+            "Poseidon2": 199,
+            "NebHash": null
         }
     },
     {
@@ -1292,7 +1339,8 @@
             "KHeavyHash": 0.625,
             "NexaPow": 76,
             "PearlHash": 48.24,
-            "Poseidon2": 247
+            "Poseidon2": 247,
+            "NebHash": null
         }
     },
     {
@@ -1319,7 +1367,8 @@
             "KHeavyHash": 0.735,
             "NexaPow": 96,
             "PearlHash": 58.31,
-            "Poseidon2": 299
+            "Poseidon2": 299,
+            "NebHash": 149
         }
     },
     {
@@ -1346,7 +1395,8 @@
             "KHeavyHash": 0.525,
             "NexaPow": 72,
             "PearlHash": null,
-            "Poseidon2": 257
+            "Poseidon2": 257,
+            "NebHash": null
         }
     },
     {
@@ -1373,7 +1423,8 @@
             "KHeavyHash": 0.745,
             "NexaPow": 101,
             "PearlHash": 61.72,
-            "Poseidon2": 312
+            "Poseidon2": 312,
+            "NebHash": null
         }
     },
     {
@@ -1400,7 +1451,8 @@
             "KHeavyHash": 0.545,
             "NexaPow": 74,
             "PearlHash": null,
-            "Poseidon2": 305
+            "Poseidon2": 305,
+            "NebHash": null
         }
     },
     {
@@ -1427,7 +1479,8 @@
             "KHeavyHash": 1.030,
             "NexaPow": 135,
             "PearlHash": 87.04,
-            "Poseidon2": 417
+            "Poseidon2": 417,
+            "NebHash": null
         }
     },
     {
@@ -1454,7 +1507,8 @@
             "KHeavyHash": 0.552,
             "NexaPow": 78,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -1481,7 +1535,8 @@
             "KHeavyHash": 1.070,
             "NexaPow": 142,
             "PearlHash": null,
-            "Poseidon2": 400
+            "Poseidon2": 400,
+            "NebHash": null
         }
     },
     {
@@ -1508,7 +1563,8 @@
             "KHeavyHash": 1.190,
             "NexaPow": 155,
             "PearlHash": 102.7,
-            "Poseidon2": 497
+            "Poseidon2": 497,
+            "NebHash": null
         }
     },
     {
@@ -1535,7 +1591,8 @@
             "KHeavyHash": 1.200,
             "NexaPow": 157,
             "PearlHash": 110.0,
-            "Poseidon2": 480
+            "Poseidon2": 480,
+            "NebHash": null
         }
     },
     {
@@ -1562,7 +1619,8 @@
             "KHeavyHash": 1.230,
             "NexaPow": 165,
             "PearlHash": 87.83,
-            "Poseidon2": 559.5
+            "Poseidon2": 559.5,
+            "NebHash": null
         }
     },
     {
@@ -1589,7 +1647,8 @@
             "KHeavyHash": 0.520,
             "NexaPow": 72,
             "PearlHash": 39.88,
-            "Poseidon2": 240
+            "Poseidon2": 240,
+            "NebHash": null
         }
     },
     {
@@ -1616,7 +1675,8 @@
             "KHeavyHash": 0.785,
             "NexaPow": 96,
             "PearlHash": 56.05,
-            "Poseidon2": 310
+            "Poseidon2": 310,
+            "NebHash": null
         }
     },
     {
@@ -1643,7 +1703,8 @@
             "KHeavyHash": 1.020,
             "NexaPow": 125,
             "PearlHash": 93.02,
-            "Poseidon2": 435
+            "Poseidon2": 435,
+            "NebHash": null
         }
     },
     {
@@ -1670,7 +1731,8 @@
             "KHeavyHash": 1.300,
             "NexaPow": 158,
             "PearlHash": null,
-            "Poseidon2": 580
+            "Poseidon2": 580,
+            "NebHash": null
         }
     },
     {
@@ -1697,7 +1759,8 @@
             "KHeavyHash": 1.150,
             "NexaPow": 135,
             "PearlHash": 114.1,
-            "Poseidon2": 535
+            "Poseidon2": 535,
+            "NebHash": null
         }
     },
     {
@@ -1724,7 +1787,8 @@
             "KHeavyHash": 1.550,
             "NexaPow": 167,
             "PearlHash": 134.6,
-            "Poseidon2": 640
+            "Poseidon2": 640,
+            "NebHash": 319
         }
     },
     {
@@ -1751,7 +1815,8 @@
             "KHeavyHash": 1.650,
             "NexaPow": 180,
             "PearlHash": null,
-            "Poseidon2": 735
+            "Poseidon2": 735,
+            "NebHash": null
         }
     },
     {
@@ -1778,7 +1843,8 @@
             "KHeavyHash": 1.630,
             "NexaPow": 171,
             "PearlHash": 159.3,
-            "Poseidon2": 720
+            "Poseidon2": 720,
+            "NebHash": null
         }
     },
     {
@@ -1805,7 +1871,8 @@
             "KHeavyHash": 2.180,
             "NexaPow": 330,
             "PearlHash": null,
-            "Poseidon2": 1150
+            "Poseidon2": 1150,
+            "NebHash": null
         }
     },
     {
@@ -1832,7 +1899,8 @@
             "KHeavyHash": 0.290,
             "NexaPow": 35,
             "PearlHash": null,
-            "Poseidon2": 121.5
+            "Poseidon2": 121.5,
+            "NebHash": null
         }
     },
     {
@@ -1859,7 +1927,8 @@
             "KHeavyHash": 0.395,
             "NexaPow": 48,
             "PearlHash": null,
-            "Poseidon2": 175
+            "Poseidon2": 175,
+            "NebHash": 142
         }
     },
     {
@@ -1886,7 +1955,8 @@
             "KHeavyHash": 0.530,
             "NexaPow": 68,
             "PearlHash": null,
-            "Poseidon2": 304
+            "Poseidon2": 304,
+            "NebHash": null
         }
     },
     {
@@ -1913,7 +1983,8 @@
             "KHeavyHash": 0.480,
             "NexaPow": 58,
             "PearlHash": null,
-            "Poseidon2": 175
+            "Poseidon2": 175,
+            "NebHash": null
         }
     },
     {
@@ -1940,7 +2011,8 @@
             "KHeavyHash": 0.750,
             "NexaPow": 90,
             "PearlHash": null,
-            "Poseidon2": 287
+            "Poseidon2": 287,
+            "NebHash": null
         }
     },
     {
@@ -1967,7 +2039,8 @@
             "KHeavyHash": 0.630,
             "NexaPow": 91,
             "PearlHash": null,
-            "Poseidon2": 296.5
+            "Poseidon2": 296.5,
+            "NebHash": 169
         }
     },
     {
@@ -1994,7 +2067,8 @@
             "KHeavyHash": 0.310,
             "NexaPow": 36,
             "PearlHash": 20.62,
-            "Poseidon2": 146
+            "Poseidon2": 146,
+            "NebHash": null
         }
     },
     {
@@ -2021,7 +2095,8 @@
             "KHeavyHash": 0.550,
             "NexaPow": 80,
             "PearlHash": null,
-            "Poseidon2": 208
+            "Poseidon2": 208,
+            "NebHash": null
         }
     },
     {
@@ -2048,7 +2123,8 @@
             "KHeavyHash": 0.730,
             "NexaPow": 102,
             "PearlHash": null,
-            "Poseidon2": 352
+            "Poseidon2": 352,
+            "NebHash": null
         }
     },
     {
@@ -2075,7 +2151,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2102,7 +2179,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2129,7 +2207,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2156,7 +2235,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2183,7 +2263,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2210,7 +2291,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2237,7 +2319,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2264,7 +2347,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2291,7 +2375,8 @@
             "KHeavyHash": 8300,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2318,7 +2403,8 @@
             "KHeavyHash": 21000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2345,7 +2431,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2372,7 +2459,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2399,7 +2487,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2426,7 +2515,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2453,7 +2543,8 @@
             "KHeavyHash": 100,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2480,7 +2571,8 @@
             "KHeavyHash": 200,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2507,7 +2599,8 @@
             "KHeavyHash": 1000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2534,7 +2627,8 @@
             "KHeavyHash": 2000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2561,7 +2655,8 @@
             "KHeavyHash": 8000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2588,7 +2683,8 @@
             "KHeavyHash": 5000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2615,7 +2711,8 @@
             "KHeavyHash": 6000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2642,7 +2739,8 @@
             "KHeavyHash": 12000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2669,7 +2767,8 @@
             "KHeavyHash": 1180,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2696,7 +2795,8 @@
             "KHeavyHash": 10500,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2723,7 +2823,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2750,7 +2851,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2777,7 +2879,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2804,7 +2907,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2831,7 +2935,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2858,7 +2963,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2886,7 +2992,8 @@
             "NexaPow": null,
             "SHA256": 270,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2914,7 +3021,8 @@
             "NexaPow": null,
             "SHA256": 234,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2942,7 +3050,8 @@
             "NexaPow": null,
             "SHA256": 216,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2970,7 +3079,8 @@
             "NexaPow": null,
             "SHA256": 90,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -2998,7 +3108,8 @@
             "NexaPow": null,
             "SHA256": 151,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3026,7 +3137,8 @@
             "NexaPow": null,
             "SHA256": 200,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3054,7 +3166,8 @@
             "NexaPow": null,
             "SHA256": 190,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3082,7 +3195,8 @@
             "NexaPow": null,
             "SHA256": 120,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3110,7 +3224,8 @@
             "NexaPow": null,
             "SHA256": 318,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3138,7 +3253,8 @@
             "NexaPow": null,
             "SHA256": 473,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3166,7 +3282,8 @@
             "NexaPow": null,
             "SHA256": 580,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3194,7 +3311,8 @@
             "NexaPow": null,
             "SHA256": 128,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3222,7 +3340,8 @@
             "NexaPow": null,
             "SHA256": 186,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3250,7 +3369,8 @@
             "NexaPow": null,
             "SHA256": 220,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3278,7 +3398,8 @@
             "NexaPow": null,
             "SHA256": 400,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3306,7 +3427,8 @@
             "NexaPow": null,
             "SHA256": 221,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3334,7 +3456,8 @@
             "NexaPow": null,
             "SHA256": 300,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3361,7 +3484,8 @@
             "KHeavyHash": 20000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3388,7 +3512,8 @@
             "KHeavyHash": 40000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3415,7 +3540,8 @@
             "KHeavyHash": 15000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3442,7 +3568,8 @@
             "KHeavyHash": 30000,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3469,7 +3596,8 @@
             "KHeavyHash": 400,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3496,7 +3624,8 @@
             "KHeavyHash": 1600,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3523,7 +3652,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3550,7 +3680,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3577,7 +3708,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3604,7 +3736,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3631,7 +3764,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3658,7 +3792,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3685,7 +3820,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3712,7 +3848,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3739,7 +3876,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3766,7 +3904,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3793,7 +3932,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3820,7 +3960,8 @@
             "KHeavyHash": null,
             "NexaPow": 3400,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3847,7 +3988,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     },
     {
@@ -3874,7 +4016,8 @@
             "KHeavyHash": null,
             "NexaPow": null,
             "PearlHash": null,
-            "Poseidon2": null
+            "Poseidon2": null,
+            "NebHash": null
         }
     }
 ]
